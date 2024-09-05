@@ -1,0 +1,1038 @@
+[
+    {
+        "id": 1,
+        "title": "Matouk Milagro Bath Towel",
+        "description": "Luxurious bath towel made from high-quality cotton for maximum softness and absorbency.",
+        "category": "Bath Towels",
+        "price": 60.00,
+        "discountPercentage": 15,
+        "rating": 4.7,
+        "stock": 25,
+        "sku": "MAT-MIL-001",
+        "weight": "1.2 lbs",
+        "dimensions": "30 x 56 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Emily",
+                "comment": "Extremely soft and plush, worth every penny!",
+                "rating": 5
+            },
+            {
+                "user": "John",
+                "comment": "High quality, but a bit pricey.",
+                "rating": 4
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Luxury", "Cotton", "Soft"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1717683964-amazon-basics-towel-6661c6c14c562.jpg?crop=1xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1717683964-amazon-basics-towel-6661c6c14c562.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 2,
+        "title": "RH Ultra-Soft Turkish Bath Towel",
+        "description": "Turkish bath towel crafted with ultra-soft cotton for a spa-like experience.",
+        "category": "Bath Towels",
+        "price": 55.00,
+        "discountPercentage": 10,
+        "rating": 4.8,
+        "stock": 30,
+        "sku": "RH-TURK-002",
+        "weight": "1.5 lbs",
+        "dimensions": "30 x 60 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Sarah",
+                "comment": "So soft and absorbent, perfect for after a shower.",
+                "rating": 5
+            },
+            {
+                "user": "Michael",
+                "comment": "Great quality but a little on the expensive side.",
+                "rating": 4.6
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Turkish", "Soft", "Spa"]
+        },
+        "images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aac54742-b99a-4dc4-9728-650da8fe666a.__CR0,3,1204,745_PT0_SX970_V1___.png"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aac54742-b99a-4dc4-9728-650da8fe666a.__CR0,3,1204,745_PT0_SX970_V1___.png"
+    },
+    {
+        "id": 3,
+        "title": "Riley Home Plush Bath Towel",
+        "description": "Plush and cozy bath towel designed for ultimate comfort and absorbency.",
+        "category": "Bath Towels",
+        "price": 45.00,
+        "discountPercentage": 12,
+        "rating": 4.5,
+        "stock": 20,
+        "sku": "RIL-PLUSH-003",
+        "weight": "1.3 lbs",
+        "dimensions": "30 x 56 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Olivia",
+                "comment": "Very plush and absorbent, love the feel.",
+                "rating": 4.8
+            },
+            {
+                "user": "Liam",
+                "comment": "Good quality but not as soft as expected.",
+                "rating": 4.2
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Plush", "Comfort", "Absorbent"]
+        },
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/81d9B992cPL._AC_UL232_SR232,232_.jpg"
+        ],
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81d9B992cPL._AC_UL232_SR232,232_.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Brooklinen Super-Plush Bath Towels, 2-Pack",
+        "description": "Set of two super-plush bath towels for luxurious comfort and superior absorbency.",
+        "category": "Bath Towels",
+        "price": 80.00,
+        "discountPercentage": 18,
+        "rating": 4.6,
+        "stock": 15,
+        "sku": "BRO-SUPER-004",
+        "weight": "2.4 lbs",
+        "dimensions": "30 x 60 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Emma",
+                "comment": "Incredibly soft and absorbent. Worth the price.",
+                "rating": 4.9
+            },
+            {
+                "user": "James",
+                "comment": "Very plush but a bit heavy.",
+                "rating": 4.3
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Super-Plush", "Comfort", "2-Pack"]
+        },
+        "images": [
+            "https://m.media-amazon.com/images/I/918fkBmvPBL._AC_SX679_.jpg"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/918fkBmvPBL._AC_SX679_.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Matouk Milagro Bath Towel",
+        "description": "Luxurious bath towel made from high-quality cotton for maximum softness and absorbency.",
+        "category": "Bath Towels",
+        "price": 60.00,
+        "discountPercentage": 15,
+        "rating": 4.7,
+        "stock": 25,
+        "sku": "MAT-MIL-001",
+        "weight": "1.2 lbs",
+        "dimensions": "30 x 56 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Emily",
+                "comment": "Extremely soft and plush, worth every penny!",
+                "rating": 5
+            },
+            {
+                "user": "John",
+                "comment": "High quality, but a bit pricey.",
+                "rating": 4
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Luxury", "Cotton", "Soft"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1716395452-matouk-milagro-towel-664e1da19c7a1.png?crop=1xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1716395452-matouk-milagro-towel-664e1da19c7a1.png?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 6,
+        "title": "RH Ultra-Soft Turkish Bath Towel",
+        "description": "Turkish bath towel crafted with ultra-soft cotton for a spa-like experience.",
+        "category": "Bath Towels",
+        "price": 55.00,
+        "discountPercentage": 10,
+        "rating": 4.8,
+        "stock": 30,
+        "sku": "RH-TURK-002",
+        "weight": "1.5 lbs",
+        "dimensions": "30 x 60 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Sarah",
+                "comment": "So soft and absorbent, perfect for after a shower.",
+                "rating": 5
+            },
+            {
+                "user": "Michael",
+                "comment": "Great quality but a little on the expensive side.",
+                "rating": 4.6
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Turkish", "Soft", "Spa"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1553881526-ghk-towels-restorationhardware-331-preview-ppi-150-embedmetadata-true-1553881506.jpg?crop=0.668xw:1.00xh;0.119xw,0&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1553881526-ghk-towels-restorationhardware-331-preview-ppi-150-embedmetadata-true-1553881506.jpg?crop=0.668xw:1.00xh;0.119xw,0&resize=980:*"
+    },
+    {
+        "id": 7,
+        "title": "Riley Home Plush Bath Towel",
+        "description": "Plush and cozy bath towel designed for ultimate comfort and absorbency.",
+        "category": "Bath Towels",
+        "price": 45.00,
+        "discountPercentage": 12,
+        "rating": 4.5,
+        "stock": 20,
+        "sku": "RIL-PLUSH-003",
+        "weight": "1.3 lbs",
+        "dimensions": "30 x 56 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Olivia",
+                "comment": "Very plush and absorbent, love the feel.",
+                "rating": 4.8
+            },
+            {
+                "user": "Liam",
+                "comment": "Good quality but not as soft as expected.",
+                "rating": 4.2
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Plush", "Comfort", "Absorbent"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1642021998-ghk-0122-asklexi-toweltesting-riley-122-preview-1642021956.jpg?crop=0.726xw:0.484xh;0.0641xw,0.372xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1642021998-ghk-0122-asklexi-toweltesting-riley-122-preview-1642021956.jpg?crop=0.726xw:0.484xh;0.0641xw,0.372xh&resize=980:*"
+    },
+    {
+        "id": 8,
+        "title": "Brooklinen Super-Plush Bath Towels, 2-Pack",
+        "description": "Set of two super-plush bath towels for luxurious comfort and superior absorbency.",
+        "category": "Bath Towels",
+        "price": 80.00,
+        "discountPercentage": 18,
+        "rating": 4.6,
+        "stock": 15,
+        "sku": "BRO-SUPER-004",
+        "weight": "2.4 lbs",
+        "dimensions": "30 x 60 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Emma",
+                "comment": "Incredibly soft and absorbent. Worth the price.",
+                "rating": 4.9
+            },
+            {
+                "user": "James",
+                "comment": "Very plush but a bit heavy.",
+                "rating": 4.3
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Super-Plush", "Comfort", "2-Pack"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1642020397-ghk010122ghrasklexie-005-preview-1642020337.jpg?crop=0.796xw:0.637xh;0.114xw,0.151xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1642020397-ghk010122ghrasklexie-005-preview-1642020337.jpg?crop=0.796xw:0.637xh;0.114xw,0.151xh&resize=980:*"
+    },
+    {
+        "id": 9,
+        "title": "Pottery Barn Hydrocotton Quick-Dry Towel",
+        "description": "Quick-dry towel made from Hydrocotton for a lightweight and fast-drying experience.",
+        "category": "Bath Towels",
+        "price": 50.00,
+        "discountPercentage": 10,
+        "rating": 4.4,
+        "stock": 22,
+        "sku": "PB-HYDRO-005",
+        "weight": "1.1 lbs",
+        "dimensions": "30 x 56 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Sophia",
+                "comment": "Dries quickly and feels soft.",
+                "rating": 4.6
+            },
+            {
+                "user": "William",
+                "comment": "Nice towel, but could be softer.",
+                "rating": 4.2
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Quick-Dry", "Hydrocotton", "Lightweight"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/hmg-prod/images/best-quick-dry-towels-1556645841.png?crop=0.984xw:0.984xh;0,0&resize=1200:*"
+        ],
+        "thumbnail":"https://hips.hearstapps.com/hmg-prod/images/best-quick-dry-towels-1556645841.png?crop=0.984xw:0.984xh;0,0&resize=1200:*"
+    },
+    {
+        "id": 10,
+        "title": "Everplush Diamond Jacquard Bath Towel",
+        "description": "Plush bath towel with a diamond jacquard pattern, providing a luxurious feel.",
+        "category": "Bath Towels",
+        "price": 35.00,
+        "discountPercentage": 12,
+        "rating": 4.5,
+        "stock": 30,
+        "sku": "EP-DIA-010",
+        "weight": "1.2 lbs",
+        "dimensions": "28 x 54 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping on orders over $50",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Emma",
+                "comment": "Beautiful pattern and very absorbent.",
+                "rating": 4.7
+            },
+            {
+                "user": "Liam",
+                "comment": "A bit heavier than expected, but great quality.",
+                "rating": 4.4
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Plush", "Diamond Jacquard", "Luxurious"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1653497532-1553881474-ghk-towels-everplush-298-preview-ppi-150-embedmetadata-true-1653497492.jpg?crop=1.00xw:0.671xh;0,0.244xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1653497532-1553881474-ghk-towels-everplush-298-preview-ppi-150-embedmetadata-true-1653497492.jpg?crop=1.00xw:0.671xh;0,0.244xh&resize=980:*"
+    },
+    {
+        "id": 11,
+        "title": "Amazon Basics Quick-Dry Bath Towels, 2-Pack",
+        "description": "Affordable and efficient quick-dry bath towels, perfect for everyday use.",
+        "category": "Bath Towels",
+        "price": 25.00,
+        "discountPercentage": 15,
+        "rating": 4.2,
+        "stock": 50,
+        "sku": "AB-QUICK-011",
+        "weight": "1.0 lbs",
+        "dimensions": "30 x 58 inches",
+        "warrantyInformation": "6 months",
+        "shippingInformation": "Free shipping on Prime",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Olivia",
+                "comment": "Great value for the price.",
+                "rating": 4.3
+            },
+            {
+                "user": "Noah",
+                "comment": "Dries quickly, but not as soft as expected.",
+                "rating": 4.1
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Quick-Dry", "Affordable", "Everyday Use"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1669401130-ghi-quickdrybathtowels-1669401065.png?crop=0.502xw:1.00xh;0.261xw,0&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1669401130-ghi-quickdrybathtowels-1669401065.png?crop=0.502xw:1.00xh;0.261xw,0&resize=980:*"
+    },
+    {
+        "id": 12,
+        "title": "Frontgate Resort Collection Bath Towels",
+        "description": "Ultra-soft and plush bath towels from Frontgate's luxury resort collection.",
+        "category": "Bath Towels",
+        "price": 65.00,
+        "discountPercentage": 8,
+        "rating": 4.8,
+        "stock": 15,
+        "sku": "FG-RESORT-012",
+        "weight": "1.3 lbs",
+        "dimensions": "32 x 60 inches",
+        "warrantyInformation": "2 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Ava",
+                "comment": "Incredibly soft and luxurious.",
+                "rating": 4.9
+            },
+            {
+                "user": "James",
+                "comment": "Worth every penny for the quality.",
+                "rating": 4.7
+            }
+        ],
+        "returnPolicy": "45-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Ultra-Soft", "Plush", "Luxury"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1642022615-ghk010122ghrasklexie-004-preview-1642022579.jpg?crop=1.00xw:0.668xh;0,0.163xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1642022615-ghk010122ghrasklexie-004-preview-1642022579.jpg?crop=1.00xw:0.668xh;0,0.163xh&resize=980:*"
+    },
+    {
+        "id": 13,
+        "title": "Toto S7A Washlet",
+        "description": "Advanced washlet with multiple cleaning and drying options for a luxurious bathroom experience.",
+        "category": "Toilets",
+        "price": 800.00,
+        "discountPercentage": 5,
+        "rating": 4.9,
+        "stock": 10,
+        "sku": "TOTO-S7A-013",
+        "weight": "12 lbs",
+        "dimensions": "20 x 15 x 7 inches",
+        "warrantyInformation": "3 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Mia",
+                "comment": "Best investment for my bathroom, love the features.",
+                "rating": 5.0
+            },
+            {
+                "user": "Ethan",
+                "comment": "Works great, but a bit pricey.",
+                "rating": 4.8
+            }
+        ],
+        "returnPolicy": "45-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Washlet", "Advanced Features", "Luxury"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1702400709-cotton-white-toto-bidet-toilet-seats-sw4734at40-01-64_1000.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1702400709-cotton-white-toto-bidet-toilet-seats-sw4734at40-01-64_1000.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 14,
+        "title": "American Standard Vormax Ultra High Efficiency Toilet",
+        "description": "High-efficiency toilet with powerful flushing system and water-saving design.",
+        "category": "Toilets",
+        "price": 400.00,
+        "discountPercentage": 8,
+        "rating": 4.7,
+        "stock": 25,
+        "sku": "AS-VORMAX-014",
+        "weight": "80 lbs",
+        "dimensions": "30 x 20 x 29 inches",
+        "warrantyInformation": "5 years",
+        "shippingInformation": "Free shipping on orders over $500",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Charlotte",
+                "comment": "Very efficient and powerful, saves water.",
+                "rating": 4.8
+            },
+            {
+                "user": "Mason",
+                "comment": "A bit difficult to install but works great.",
+                "rating": 4.6
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["High Efficiency", "Powerful Flushing", "Water-Saving"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1652801405-VorMax1GPFElongatedTwo-PieceToilet2528SeatNotIncluded2529.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1652801405-VorMax1GPFElongatedTwo-PieceToilet2528SeatNotIncluded2529.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 15,
+        "title": "Swiss Madison Well Made Forever One-Piece Toilet",
+        "description": "Elegant one-piece toilet with a modern design and efficient performance.",
+        "category": "Toilets",
+        "price": 283.00,
+        "discountPercentage": 10,
+        "rating": 4.5,
+        "stock": 18,
+        "sku": "SM-FOREVER-015",
+        "weight": "85 lbs",
+        "dimensions": "27 x 18 x 28 inches",
+        "warrantyInformation": "2 years",
+        "shippingInformation": "Free shipping on Amazon Prime",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Amelia",
+                "comment": "Stylish and works well, easy to clean.",
+                "rating": 4.6
+            },
+            {
+                "user": "Lucas",
+                "comment": "Great toilet for the price, but slightly small.",
+                "rating": 4.4
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["One-Piece", "Modern Design", "Efficient"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1627307468-41-2g6B13LL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1627307468-41-2g6B13LL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 16,
+        "title": "Toto Drake",
+        "description": "Reliable and durable toilet with a powerful flushing system.",
+        "category": "Toilets",
+        "price": 300.00,
+        "discountPercentage": 7,
+        "rating": 4.6,
+        "stock": 20,
+        "sku": "TOTO-DRAKE-016",
+        "weight": "70 lbs",
+        "dimensions": "28 x 19 x 30 inches",
+        "warrantyInformation": "2 years",
+        "shippingInformation": "Free shipping on orders over $250",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Sophia",
+                "comment": "Great toilet, strong flush and easy to install.",
+                "rating": 4.7
+            },
+            {
+                "user": "Jackson",
+                "comment": "Good value for the money, works well.",
+                "rating": 4.5
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Reliable", "Durable", "Powerful Flush"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1652363813-41Sf9swGe8L._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1652363813-41Sf9swGe8L._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 17,
+        "title": "Delta Foundations Two-Piece Toilet",
+        "description": "Classic two-piece toilet with a traditional design and reliable performance.",
+        "category": "Toilets",
+        "price": 150.00,
+        "discountPercentage": 10,
+        "rating": 4.3,
+        "stock": 35,
+        "sku": "DELTA-FOUND-017",
+        "weight": "65 lbs",
+        "dimensions": "27 x 18 x 29 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping on orders over $100",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Avery",
+                "comment": "Good basic toilet, does the job.",
+                "rating": 4.4
+            },
+            {
+                "user": "Elijah",
+                "comment": "Affordable and functional, but nothing fancy.",
+                "rating": 4.2
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Two-Piece", "Traditional", "Reliable"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1627311789-white-delta-two-piece-toilets-c41913-wh-c3_1000.jpg?crop=0.750xw:0.750xh;0.216xw,0.128xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1627311789-white-delta-two-piece-toilets-c41913-wh-c3_1000.jpg?crop=0.750xw:0.750xh;0.216xw,0.128xh&resize=980:*"
+    },
+    {
+        "id": 18,
+        "title": "Duravit Sensowash Starck F Shower Toilet Seat",
+        "description": "Innovative shower toilet seat with multiple cleansing options for ultimate hygiene.",
+        "category": "Toilets",
+        "price": 1200.00,
+        "discountPercentage": 5,
+        "rating": 4.8,
+        "stock": 8,
+        "sku": "DURAVIT-STARCK-018",
+        "weight": "15 lbs",
+        "dimensions": "21 x 14 x 5 inches",
+        "warrantyInformation": "3 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Isabella",
+                "comment": "Fantastic product, worth every penny.",
+                "rating": 4.9
+            },
+            {
+                "user": "Liam",
+                "comment": "Excellent hygiene features, highly recommend.",
+                "rating": 4.7
+            }
+        ],
+        "returnPolicy": "45-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Shower Toilet", "Innovative", "Hygienic"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1683121232-02_SensoWash_Starck_f.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1683121232-02_SensoWash_Starck_f.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 19,
+        "title": "Kohler Innate Smart Toilet",
+        "description": "Smart toilet with integrated bidet and advanced technology for a superior bathroom experience.",
+        "category": "Toilets",
+        "price": 2500.00,
+        "discountPercentage": 3,
+        "rating": 4.9,
+        "stock": 5,
+        "sku": "KOHLER-INNATE-019",
+        "weight": "100 lbs",
+        "dimensions": "32 x 20 x 30 inches",
+        "warrantyInformation": "5 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Harper",
+                "comment": "The best toilet I've ever used, so smart and efficient.",
+                "rating": 5.0
+            },
+            {
+                "user": "Henry",
+                "comment": "Expensive but worth it for the features.",
+                "rating": 4.8
+            }
+        ],
+        "returnPolicy": "45-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Smart Toilet", "Bidet", "Advanced Technology"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1685728172-GBH_SQTemplate.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1685728172-GBH_SQTemplate.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 20,
+        "title": "Glacier Bay One-Piece Toilet in White",
+        "description": "Simple and sleek one-piece toilet with efficient performance.",
+        "category": "Toilets",
+        "price": 220.00,
+        "discountPercentage": 8,
+        "rating": 4.4,
+        "stock": 30,
+        "sku": "GLACIER-ONEPIECE-020",
+        "weight": "75 lbs",
+        "dimensions": "29 x 18 x 27 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping on orders over $200",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Ella",
+                "comment": "Good basic toilet, easy to clean.",
+                "rating": 4.5
+            },
+            {
+                "user": "James",
+                "comment": "Nice design, but a bit small for my taste.",
+                "rating": 4.3
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["One-Piece", "Sleek Design", "Efficient"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1652807581-screen-shot-2022-05-17-at-1-11-35-pm-1652807515.png?crop=0.9858870967741935xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1652807581-screen-shot-2022-05-17-at-1-11-35-pm-1652807515.png?crop=0.9858870967741935xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 21,
+        "title": "Kohler Corbelle Comfort Height Toilet",
+        "description": "Comfort height toilet with a modern design and efficient flushing system.",
+        "category": "Toilets",
+        "price": 350.00,
+        "discountPercentage": 7,
+        "rating": 4.7,
+        "stock": 12,
+        "sku": "KOHLER-CORBELLE-021",
+        "weight": "80 lbs",
+        "dimensions": "31 x 19 x 28 inches",
+        "warrantyInformation": "3 years",
+        "shippingInformation": "Free shipping on orders over $300",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Lily",
+                "comment": "Comfortable and stylish, very happy with this purchase.",
+                "rating": 4.8
+            },
+            {
+                "user": "Oliver",
+                "comment": "Works well, but installation was a bit tricky.",
+                "rating": 4.6
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Comfort Height", "Modern Design", "Efficient Flushing"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1652799411-412NcT0HEbL._SL500_.jpg?crop=0.670xw:1.00xh;0.116xw,0&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1652799411-412NcT0HEbL._SL500_.jpg?crop=0.670xw:1.00xh;0.116xw,0&resize=980:*"
+    },
+    {
+        "id": 22,
+        "title": "Everplush Diamond Jacquard 6 Piece Bath Towel Set",
+        "description": "Luxurious 6-piece bath towel set with diamond jacquard design and quick-drying technology.",
+        "category": "Towels",
+        "price": 50.00,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "stock": 15,
+        "sku": "EVERPLUSH-001",
+        "weight": "4 lbs",
+        "dimensions": "30 x 54 inches (each towel)",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping on orders over $50",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Sophia",
+                "comment": "Very soft and absorbent, love the design.",
+                "rating": 4.8
+            },
+            {
+                "user": "Jackson",
+                "comment": "Good quality towels, but a bit pricey.",
+                "rating": 4.6
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Bath Towel", "Quick-Dry", "Jacquard"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1717600037-everplush-copy-66607eab34c54.jpg?crop=1xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1717600037-everplush-copy-66607eab34c54.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 23,
+        "title": "Hicober Microfiber Hair Towel, 3 Pack",
+        "description": "Pack of 3 microfiber hair towels designed for fast drying and reduced hair frizz.",
+        "category": "Towels",
+        "price": 20.00,
+        "discountPercentage": 15,
+        "rating": 4.6,
+        "stock": 25,
+        "sku": "HICOBER-002",
+        "weight": "1.2 lbs",
+        "dimensions": "24 x 40 inches (each towel)",
+        "warrantyInformation": "6 months",
+        "shippingInformation": "Free shipping on orders over $25",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Emma",
+                "comment": "Perfect for curly hair, really helps reduce frizz.",
+                "rating": 4.7
+            },
+            {
+                "user": "Mason",
+                "comment": "Very absorbent and light, great for daily use.",
+                "rating": 4.5
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Hair Towel", "Microfiber", "Fast Drying"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1696357680-81OfvjP4N7L.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1696357680-81OfvjP4N7L.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 24,
+        "title": "Dock & Bay Microfiber Beach Towel",
+        "description": "Large microfiber beach towel, lightweight and quick-drying, ideal for beach and travel.",
+        "category": "Towels",
+        "price": 25.00,
+        "discountPercentage": 5,
+        "rating": 4.8,
+        "stock": 20,
+        "sku": "DOCKBAY-003",
+        "weight": "0.8 lbs",
+        "dimensions": "35 x 63 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping on orders over $30",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Ava",
+                "comment": "Super light and easy to pack, dries quickly.",
+                "rating": 4.9
+            },
+            {
+                "user": "Ethan",
+                "comment": "Great towel for the beach, sand doesn’t stick.",
+                "rating": 4.7
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Beach Towel", "Microfiber", "Quick-Dry"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1663704437-41a1hR9fWyL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1663704437-41a1hR9fWyL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 25,
+        "title": "Brooklinen Ultralight Bath Towels",
+        "description": "Set of ultra-light bath towels, soft and highly absorbent, perfect for everyday use.",
+        "category": "Towels",
+        "price": 65.00,
+        "discountPercentage": 7,
+        "rating": 4.9,
+        "stock": 10,
+        "sku": "BROOKLINEN-004",
+        "weight": "3 lbs",
+        "dimensions": "28 x 55 inches (each towel)",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Isabella",
+                "comment": "Super soft and dries fast, love the quality.",
+                "rating": 4.9
+            },
+            {
+                "user": "Lucas",
+                "comment": "Excellent towels, a bit expensive but worth it.",
+                "rating": 4.8
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Bath Towel", "Ultralight", "Soft"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1717698541-screenshot-2024-06-06-at-2-27-22-pm-6661ff9c4d66f.png?crop=0.818xw:0.813xh;0.0795xw,0.187xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1717698541-screenshot-2024-06-06-at-2-27-22-pm-6661ff9c4d66f.png?crop=0.818xw:0.813xh;0.0795xw,0.187xh&resize=980:*"
+    },
+    {
+        "id": 26,
+        "title": "Pottery Barn Hydrocotton Organic Quick-Dry Towel",
+        "description": "Organic quick-dry towel with luxurious feel, perfect for eco-conscious consumers.",
+        "category": "Towels",
+        "price": 30.00,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "stock": 18,
+        "sku": "POTTERYBARN-005",
+        "weight": "2 lbs",
+        "dimensions": "30 x 56 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping on orders over $50",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Mia",
+                "comment": "Love that it’s organic, very soft and dries quickly.",
+                "rating": 4.8
+            },
+            {
+                "user": "Benjamin",
+                "comment": "Great towel, but a little on the thinner side.",
+                "rating": 4.6
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Quick-Dry", "Organic", "Eco-Friendly"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1717615344-1638306074-traditional-anniversary-gifts-by-year-14th-anniversary-ivory-1638306001.jpg?crop=0.901xw:1.00xh;0.0409xw,0&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1717615344-1638306074-traditional-anniversary-gifts-by-year-14th-anniversary-ivory-1638306001.jpg?crop=0.901xw:1.00xh;0.0409xw,0&resize=980:*"
+    },
+    {
+        "id": 27,
+        "title": "Rainleaf Microfiber Towel",
+        "description": "Compact and quick-drying microfiber towel, ideal for travel and outdoor activities.",
+        "category": "Towels",
+        "price": 15.00,
+        "discountPercentage": 5,
+        "rating": 4.6,
+        "stock": 30,
+        "sku": "RAINLEAF-006",
+        "weight": "0.5 lbs",
+        "dimensions": "24 x 48 inches",
+        "warrantyInformation": "6 months",
+        "shippingInformation": "Free shipping on orders over $20",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Charlotte",
+                "comment": "Perfect for travel, lightweight and dries fast.",
+                "rating": 4.7
+            },
+            {
+                "user": "Henry",
+                "comment": "Great towel, but wish it was a bit larger.",
+                "rating": 4.5
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Travel Towel", "Microfiber", "Compact"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1687355322-61NwNFbA9FL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1687355322-61NwNFbA9FL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 28,
+        "title": "Parachute Waffle Bath Towel",
+        "description": "Waffle-textured bath towel with high absorbency, soft and quick-drying.",
+        "category": "Towels",
+        "price": 40.00,
+        "discountPercentage": 8,
+        "rating": 4.7,
+        "stock": 12,
+        "sku": "PARACHUTE-007",
+        "weight": "2.5 lbs",
+        "dimensions": "30 x 56 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping on orders over $40",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Amelia",
+                "comment": "Love the waffle texture, very soft and absorbent.",
+                "rating": 4.8
+            },
+            {
+                "user": "James",
+                "comment": "Nice towel, but a bit pricey for the size.",
+                "rating": 4.6
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Bath Towel", "Waffle", "Quick-Dry"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1717599363-screenshot-2024-06-05-at-10-46-50-am-66607bf235dd0.png?crop=0.918xw:0.911xh;0.0417xw,0.0890xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1717599363-screenshot-2024-06-05-at-10-46-50-am-66607bf235dd0.png?crop=0.918xw:0.911xh;0.0417xw,0.0890xh&resize=980:*"
+    }
+    ]

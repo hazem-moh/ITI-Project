@@ -1,0 +1,488 @@
+[
+    {
+        "id": 1,
+        "title": "Breville Control Grip Immersion Blender",
+        "description": "An immersion blender with ergonomic control grip and high performance for blending, chopping, and pureeing.",
+        "category": "Kitchen Appliances",
+        "price": 129.99,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "stock": 20,
+        "sku": "BCG1299",
+        "weight": "2 lbs",
+        "dimensions": "6 x 4 x 15 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Emily", "comment": "Great for making soups and sauces.", "rating": 4.8 },
+            { "user": "John", "comment": "Powerful but a bit bulky.", "rating": 4.6 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Immersion Blender", "Kitchen", "Breville"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1592873449-img70o.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1592873449-img70o.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 2,
+        "title": "Cuisinart Smart Stick Variable Speed Hand Blender",
+        "description": "A versatile hand blender with multiple speed settings and a comfortable grip for various blending tasks.",
+        "category": "Kitchen Appliances",
+        "price": 99.99,
+        "discountPercentage": 12,
+        "rating": 4.6,
+        "stock": 25,
+        "sku": "CSH999",
+        "weight": "1.5 lbs",
+        "dimensions": "5 x 3 x 14 inches",
+        "warrantyInformation": "3 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Anna", "comment": "Easy to use and clean.", "rating": 4.7 },
+            { "user": "Michael", "comment": "Good blender but a bit noisy.", "rating": 4.5 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Hand Blender", "Variable Speed", "Cuisinart"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1694102391-519mkwflDiL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1694102391-519mkwflDiL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 3,
+        "title": "Vitamix Immersion Blender",
+        "description": "High-performance immersion blender from Vitamix, designed for quick and efficient blending.",
+        "category": "Kitchen Appliances",
+        "price": 149.99,
+        "discountPercentage": 8,
+        "rating": 4.8,
+        "stock": 15,
+        "sku": "VIB1499",
+        "weight": "2 lbs",
+        "dimensions": "7 x 4 x 16 inches",
+        "warrantyInformation": "7 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Sophia", "comment": "Powerful and durable.", "rating": 4.9 },
+            { "user": "David", "comment": "Expensive but worth it.", "rating": 4.7 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Immersion Blender", "High Performance", "Vitamix"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1694092857-vitamix-hand-blender-64f9ce2ab6006.png?crop=0.713xw:1.00xh;0.147xw,0&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1694092857-vitamix-hand-blender-64f9ce2ab6006.png?crop=0.713xw:1.00xh;0.147xw,0&resize=980:*"
+    },
+    {
+        "id": 4,
+        "title": "KitchenAid Two-Speed Hand Blender",
+        "description": "A compact hand blender with two-speed settings for various blending tasks, from smoothies to soups.",
+        "category": "Kitchen Appliances",
+        "price": 79.99,
+        "discountPercentage": 5,
+        "rating": 4.5,
+        "stock": 30,
+        "sku": "KTH799",
+        "weight": "1.2 lbs",
+        "dimensions": "6 x 3 x 12 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Jessica", "comment": "Compact and effective.", "rating": 4.6 },
+            { "user": "James", "comment": "Basic but reliable.", "rating": 4.4 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Hand Blender", "Two-Speed", "KitchenAid"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1699994404-KitchenAid-2-Speed-Hand-Blender-KHB1231_1af21fa1-952f-4da3-bb9b-9d4a6d5ff41d.518e667522160676355dba9ea14b1113.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1699994404-KitchenAid-2-Speed-Hand-Blender-KHB1231_1af21fa1-952f-4da3-bb9b-9d4a6d5ff41d.518e667522160676355dba9ea14b1113.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 5,
+        "title": "Cuisinart CPB-300 Personal Blender",
+        "description": "A versatile personal blender with a powerful motor and multiple blending options, ideal for smoothies and small batches.",
+        "category": "Kitchen Appliances",
+        "price": 89.99,
+        "discountPercentage": 10,
+        "rating": 4.4,
+        "stock": 22,
+        "sku": "CPB300",
+        "weight": "2.3 lbs",
+        "dimensions": "5 x 5 x 14 inches",
+        "warrantyInformation": "3 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Liam", "comment": "Great for personal use and easy to clean.", "rating": 4.5 },
+            { "user": "Olivia", "comment": "A bit noisy but works well.", "rating": 4.3 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Personal Blender", "Cuisinart", "Smoothies"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1599765436-41J35Kfa1AL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1599765436-41J35Kfa1AL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 6,
+        "title": "Zwilling Enfinigy Personal Blender",
+        "description": "A sleek personal blender with a high-performance motor and modern design for effortless blending.",
+        "category": "Kitchen Appliances",
+        "price": 149.99,
+        "discountPercentage": 15,
+        "rating": 4.8,
+        "stock": 18,
+        "sku": "ZEB100",
+        "weight": "2.5 lbs",
+        "dimensions": "6 x 6 x 15 inches",
+        "warrantyInformation": "2 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Ethan", "comment": "Stylish and efficient, blends very well.", "rating": 4.9 },
+            { "user": "Mia", "comment": "Expensive but worth the price.", "rating": 4.7 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Personal Blender", "Zwilling", "High Performance"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1702508027-71B7gHAW6RL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1702508027-71B7gHAW6RL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 7,
+        "title": "NutriBullet Ultra Personal Blender NB50500",
+        "description": "A compact personal blender with powerful blades and a sleek design for quick and easy blending.",
+        "category": "Kitchen Appliances",
+        "price": 119.99,
+        "discountPercentage": 8,
+        "rating": 4.6,
+        "stock": 20,
+        "sku": "NB50500",
+        "weight": "1.8 lbs",
+        "dimensions": "5 x 5 x 13 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Ava", "comment": "Blends smoothies perfectly, easy to use.", "rating": 4.7 },
+            { "user": "Noah", "comment": "Good performance, but can be noisy.", "rating": 4.5 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Personal Blender", "NutriBullet", "Compact"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1702507492-71HKyNSBzbL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1702507492-71HKyNSBzbL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 8,
+        "title": "Beast Blender",
+        "description": "A powerful and durable blender designed for heavy-duty blending tasks, perfect for smoothies and sauces.",
+        "category": "Kitchen Appliances",
+        "price": 139.99,
+        "discountPercentage": 12,
+        "rating": 4.7,
+        "stock": 15,
+        "sku": "BB1399",
+        "weight": "3 lbs",
+        "dimensions": "7 x 7 x 16 inches",
+        "warrantyInformation": "2 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Isabella", "comment": "Robust and powerful, great for tough ingredients.", "rating": 4.8 },
+            { "user": "Liam", "comment": "Heavy but effective, blends everything.", "rating": 4.6 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Blender", "Heavy-Duty", "Beast"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1631829609-41anpfybmiS._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1631829609-41anpfybmiS._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 9,
+        "title": "Magic Bullet Blender",
+        "description": "A compact and versatile blender perfect for quick smoothies, sauces, and more with easy cleanup.",
+        "category": "Kitchen Appliances",
+        "price": 59.99,
+        "discountPercentage": 10,
+        "rating": 4.3,
+        "stock": 35,
+        "sku": "MB5599",
+        "weight": "1.5 lbs",
+        "dimensions": "4 x 4 x 11 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Charlotte", "comment": "Convenient and easy to use.", "rating": 4.4 },
+            { "user": "Ethan", "comment": "Good for basic blending tasks.", "rating": 4.2 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Blender", "Magic Bullet", "Compact"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1601057655-41MUBAPIW7L.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1601057655-41MUBAPIW7L.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 10,
+        "title": "Ninja BN401 Nutri-Blender Pro with Auto-iQ",
+        "description": "A powerful personal blender with Auto-iQ technology, ideal for making smoothies and shakes.",
+        "category": "Kitchen Appliances",
+        "price": 129.99,
+        "discountPercentage": 12,
+        "rating": 4.6,
+        "stock": 20,
+        "sku": "BN401",
+        "weight": "3 lbs",
+        "dimensions": "6 x 6 x 14 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Emily", "comment": "Great for quick smoothies, very efficient.", "rating": 4.7 },
+            { "user": "Oliver", "comment": "Powerful but a bit loud.", "rating": 4.5 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Nutri-Blender", "Auto-iQ", "Ninja"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1687812541-81zqZVWSbL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1687812541-81zqZVWSbL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 11,
+        "title": "Ninja CI101 Foodi Power Mixer System",
+        "description": "A versatile mixer system from Ninja that combines powerful blending with food processing capabilities.",
+        "category": "Kitchen Appliances",
+        "price": 199.99,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "stock": 12,
+        "sku": "CI101",
+        "weight": "5 lbs",
+        "dimensions": "8 x 8 x 16 inches",
+        "warrantyInformation": "2 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Sophia", "comment": "Great all-in-one system for kitchen tasks.", "rating": 4.8 },
+            { "user": "Jackson", "comment": "A bit bulky but very effective.", "rating": 4.6 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Mixer", "Food Processor", "Ninja"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1683130659-71wBUhaOyKL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1683130659-71wBUhaOyKL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 12,
+        "title": "Ninja SS401 Foodi Power Blender Ultimate System",
+        "description": "An ultimate blending system from Ninja with advanced blending and processing features.",
+        "category": "Kitchen Appliances",
+        "price": 249.99,
+        "discountPercentage": 12,
+        "rating": 4.8,
+        "stock": 10,
+        "sku": "SS401",
+        "weight": "6 lbs",
+        "dimensions": "9 x 9 x 17 inches",
+        "warrantyInformation": "2 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Emma", "comment": "Powerful and versatile, perfect for all my needs.", "rating": 4.9 },
+            { "user": "Liam", "comment": "Expensive but worth the investment.", "rating": 4.7 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Blender", "Ninja", "Ultimate System"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1687912004-71Pl50HLXpL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1687912004-71Pl50HLXpL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 13,
+        "title": "Ninja SS351 Foodi Power Blender & Processor System",
+        "description": "A versatile blender and processor system that handles all blending and processing tasks with ease.",
+        "category": "Kitchen Appliances",
+        "price": 179.99,
+        "discountPercentage": 10,
+        "rating": 4.6,
+        "stock": 14,
+        "sku": "SS351",
+        "weight": "5.5 lbs",
+        "dimensions": "8 x 8 x 16 inches",
+        "warrantyInformation": "2 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Olivia", "comment": "Very efficient for both blending and processing.", "rating": 4.7 },
+            { "user": "Noah", "comment": "Good performance but a bit noisy.", "rating": 4.5 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Blender", "Processor", "Ninja"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1687813499-71aSqNd68KL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1687813499-71aSqNd68KL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 14,
+        "title": "Ninja BN401 Nutri Pro Compact Personal Blender",
+        "description": "A compact personal blender with powerful blending capabilities, perfect for smoothies and shakes.",
+        "category": "Kitchen Appliances",
+        "price": 89.99,
+        "discountPercentage": 10,
+        "rating": 4.4,
+        "stock": 22,
+        "sku": "BN401",
+        "weight": "2 lbs",
+        "dimensions": "5 x 5 x 12 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Aiden", "comment": "Compact and powerful, ideal for personal use.", "rating": 4.5 },
+            { "user": "Mia", "comment": "Effective but a bit loud.", "rating": 4.3 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Personal Blender", "Compact", "Ninja"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1654267972-41eJcZK-TWL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1654267972-41eJcZK-TWL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 15,
+        "title": "Ninja SS101 Foodi Smoothie Maker & Nutrient Extractor",
+        "description": "A powerful smoothie maker and nutrient extractor for making healthy and delicious smoothies.",
+        "category": "Kitchen Appliances",
+        "price": 129.99,
+        "discountPercentage": 15,
+        "rating": 4.5,
+        "stock": 19,
+        "sku": "SS101",
+        "weight": "3 lbs",
+        "dimensions": "6 x 6 x 14 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Liam", "comment": "Makes smoothies quickly and efficiently.", "rating": 4.6 },
+            { "user": "Ava", "comment": "Great for extracting nutrients from fruits and veggies.", "rating": 4.4 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Smoothie Maker", "Nutrient Extractor", "Ninja"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1705605914-41ShhqDwe0L._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1705605914-41ShhqDwe0L._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 16,
+        "title": "Ninja BL610 Professional Countertop Blender",
+        "description": "A professional-grade countertop blender with powerful performance and large capacity for all your blending needs.",
+        "category": "Kitchen Appliances",
+        "price": 149.99,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "stock": 13,
+        "sku": "BL610",
+        "weight": "4 lbs",
+        "dimensions": "7 x 7 x 15 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Sophia", "comment": "Very powerful blender, handles everything with ease.", "rating": 4.8 },
+            { "user": "Jackson", "comment": "Good value for money, blends efficiently.", "rating": 4.6 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Countertop Blender", "Professional", "Ninja"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1687812220-81a4FkW5f0L.jpg?crop=0.785xw:0.785xh;0.176xw,0&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1687812220-81a4FkW5f0L.jpg?crop=0.785xw:0.785xh;0.176xw,0&resize=980:*"
+    },
+    {
+        "id": 17,
+        "title": "Blender-KHB1231",
+        "description": "A versatile hand blender for blending, chopping, and pureeing with a comfortable grip.",
+        "category": "Kitchen Appliances",
+        "price": 99.99,
+        "discountPercentage": 8,
+        "rating": 4.3,
+        "stock": 18,
+        "sku": "KHB1231",
+        "weight": "2.5 lbs",
+        "dimensions": "7 x 7 x 14 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Isabella", "comment": "Good performance but slightly bulky.", "rating": 4.2 },
+            { "user": "Ethan", "comment": "Handles well and works efficiently.", "rating": 4.4 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Hand Blender", "Blender", "Cuisinart"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1694102391-519mkwflDiL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1694102391-519mkwflDiL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+    "id": 18,
+    "title": "Ninja TWISTi Blender DUO",
+    "description": "A high-performance blender with a twist-lock lid for easy and secure blending, perfect for smoothies and soups.",
+    "category": "Kitchen Appliances",
+    "price": 149.99,
+    "discountPercentage": 15,
+    "rating": 4.7,
+    "stock": 25,
+    "sku": "TWISTi-DUO",
+    "weight": "4 lbs",
+    "dimensions": "7 x 8 x 16 inches",
+    "warrantyInformation": "1 year",
+    "shippingInformation": "Free shipping",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+        { "user": "Sophia", "comment": "Excellent blender with secure lid, works great.", "rating": 4.8 },
+        { "user": "James", "comment": "Very powerful and efficient, but a bit bulky.", "rating": 4.6 }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": { "tags": ["TWISTi Blender", "Ninja", "High-performance"] },
+    "images": [
+        "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1721926379-img-2345-1-66a282a681918.jpg?crop=0.752xw:1.00xh;0.0625xw,0&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1721926379-img-2345-1-66a282a681918.jpg?crop=0.752xw:1.00xh;0.0625xw,0&resize=980:*"
+}
+]

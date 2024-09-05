@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "description": "A high-precision wireless mouse with ergonomic design.",
+      "price": 29.99,
+      "category": "Electronics",
+      "imageUrl": "https://example.com/images/wireless-mouse.jpg",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Bluetooth Headphones",
+      "description": "Comfortable over-ear headphones with noise-cancellation.",
+      "price": 79.99,
+      "category": "Electronics",
+      "imageUrl": "https://example.com/images/bluetooth-headphones.jpg",
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Smartphone",
+      "description": "Latest model smartphone with a high-resolution camera.",
+      "price": 699.99,
+      "category": "Electronics",
+      "imageUrl": "https://example.com/images/smartphone.jpg",
+      "inStock": false
+    },
+    {
+      "id": 4,
+      "name": "Running Shoes",
+      "description": "Lightweight and comfortable running shoes for everyday use.",
+      "price": 59.99,
+      "category": "Sportswear",
+      "imageUrl": "https://example.com/images/running-shoes.jpg",
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "Leather Wallet",
+      "description": "A stylish leather wallet with multiple card slots.",
+      "price": 19.99,
+      "category": "Accessories",
+      "imageUrl": "https://example.com/images/leather-wallet.jpg",
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "name": "Gaming Keyboard",
+      "description": "RGB backlit mechanical keyboard with customizable keys.",
+      "price": 99.99,
+      "category": "Electronics",
+      "imageUrl": "https://example.com/images/gaming-keyboard.jpg",
+      "inStock": false
+    }
+  ]
+  

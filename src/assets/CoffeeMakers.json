@@ -1,0 +1,407 @@
+[
+    {
+        "id": 1,
+        "title": "Aeropress Go Coffee Maker",
+        "description": "A compact and portable coffee maker ideal for traveling, camping, or at-home use.",
+        "category": "Coffee Makers",
+        "price": 34.99,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "stock": 40,
+        "sku": "APG001",
+        "weight": "0.5 lbs",
+        "dimensions": "4 x 4 x 7 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Ships in 1-2 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Mason", "comment": "Perfect for on-the-go coffee lovers.", "rating": 4.8 },
+            { "user": "Olivia", "comment": "Easy to use and clean.", "rating": 4.7 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Coffee Maker", "Portable", "Aeropress"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1696613232-51GDCIuaFUL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1696613232-51GDCIuaFUL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 2,
+        "title": "Miele CM7750 Fully Automatic Espresso Machine",
+        "description": "A high-end fully automatic espresso machine with customizable settings for a perfect cup every time.",
+        "category": "Coffee Makers",
+        "price": 1999.99,
+        "discountPercentage": 5,
+        "rating": 4.9,
+        "stock": 10,
+        "sku": "MCM7750",
+        "weight": "30 lbs",
+        "dimensions": "16 x 18 x 12 inches",
+        "warrantyInformation": "2 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "James", "comment": "The best coffee machine I've ever owned.", "rating": 4.9 },
+            { "user": "Amelia", "comment": "Pricey but worth it for coffee lovers.", "rating": 4.8 }
+        ],
+        "returnPolicy": "60-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Espresso Machine", "Automatic", "Miele"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1676571227-miele-cm5310-silence-coffee-system-o.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1676571227-miele-cm5310-silence-coffee-system-o.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 3,
+        "title": "Bosch 300 Series Fully Automatic Espresso Machine",
+        "description": "A reliable and efficient fully automatic espresso machine with intuitive controls and a sleek design.",
+        "category": "Coffee Makers",
+        "price": 899.99,
+        "discountPercentage": 8,
+        "rating": 4.6,
+        "stock": 15,
+        "sku": "B300SFAE",
+        "weight": "25 lbs",
+        "dimensions": "15 x 17 x 13 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Ships in 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Benjamin", "comment": "Great machine for daily use.", "rating": 4.6 },
+            { "user": "Charlotte", "comment": "Makes excellent espresso.", "rating": 4.7 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Espresso Machine", "Automatic", "Bosch"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1724276764-untitled-design-pdf-66c65fb12c99b.png?crop=1xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1724276764-untitled-design-pdf-66c65fb12c99b.png?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 4,
+        "title": "KitchenAid KF8 Fully Automatic Espresso Machine",
+        "description": "A versatile and stylish fully automatic espresso machine from KitchenAid, perfect for brewing barista-quality espresso at home.",
+        "category": "Coffee Makers",
+        "price": 749.99,
+        "discountPercentage": 6,
+        "rating": 4.5,
+        "stock": 20,
+        "sku": "KAF8",
+        "weight": "20 lbs",
+        "dimensions": "14 x 15 x 12 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Ships in 2-4 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Henry", "comment": "A solid choice for coffee enthusiasts.", "rating": 4.5 },
+            { "user": "Sophia", "comment": "Good machine but a bit noisy.", "rating": 4.4 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Espresso Machine", "Automatic", "KitchenAid"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1724272121-untitled-design-pdf-66c64dc27bae7.png?crop=1xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1724272121-untitled-design-pdf-66c64dc27bae7.png?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 5,
+        "title": "Nespresso Vertuo Plus Coffee and Espresso Maker",
+        "description": "A versatile coffee and espresso maker that uses Nespresso capsules to brew a range of beverages.",
+        "category": "Coffee Makers",
+        "price": 179.99,
+        "discountPercentage": 12,
+        "rating": 4.8,
+        "stock": 35,
+        "sku": "NVPCEM",
+        "weight": "9 lbs",
+        "dimensions": "9 x 12 x 13 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Ships in 1-2 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Daniel", "comment": "Convenient and makes great coffee.", "rating": 4.8 },
+            { "user": "Emily", "comment": "Love the variety of capsules.", "rating": 4.7 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Coffee Maker", "Espresso Maker", "Nespresso"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1643490400-31xn9n62KnL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1643490400-31xn9n62KnL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 6,
+        "title": "De'Longhi Magnifica Start Espresso & Coffee Machine with Automatic Milk Frother",
+        "description": "An all-in-one espresso and coffee machine with a built-in milk frother for creating rich, creamy beverages.",
+        "category": "Coffee Makers",
+        "price": 649.99,
+        "discountPercentage": 7,
+        "rating": 4.6,
+        "stock": 25,
+        "sku": "DLMSECM",
+        "weight": "22 lbs",
+        "dimensions": "15 x 16 x 13 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Ships in 2-3 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "William", "comment": "Great machine with a fantastic frother.", "rating": 4.7 },
+            { "user": "Isabella", "comment": "Love the versatility of this machine.", "rating": 4.6 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Espresso Machine", "Coffee Maker", "De'Longhi"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1724269383-untitled-design-pdf-66c642b93e8e5.png?crop=1xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1724269383-untitled-design-pdf-66c642b93e8e5.png?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 7,
+        "title": "Bialetti Express Moka Pot",
+        "description": "A classic stovetop espresso maker from Bialetti, perfect for making rich and flavorful espresso at home.",
+        "category": "Coffee Makers",
+        "price": 29.99,
+        "discountPercentage": 15,
+        "rating": 4.7,
+        "stock": 50,
+        "sku": "BEMP",
+        "weight": "1.5 lbs",
+        "dimensions": "6 x 4 x 9 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Ships in 1-2 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Jackson", "comment": "A timeless classic for making espresso.", "rating": 4.8 },
+            { "user": "Ava", "comment": "Simple to use and produces great coffee.", "rating": 4.7 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Espresso Maker", "Stovetop", "Bialetti"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1695316849-61lJj0KjGwS.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1695316849-61lJj0KjGwS.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 8,
+        "title": "De'Longhi All-in-One Combination Coffee Maker & Espresso Machine",
+        "description": "A versatile coffee maker that combines drip coffee brewing and espresso making in one machine.",
+        "category": "Coffee Makers",
+        "price": 349.99,
+        "discountPercentage": 10,
+        "rating": 4.5,
+        "stock": 30,
+        "sku": "DLAOCCM",
+        "weight": "15 lbs",
+        "dimensions": "12 x 14 x 13 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Ships in 2-3 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Logan", "comment": "Convenient and space-saving.", "rating": 4.6 },
+            { "user": "Mia", "comment": "Great machine for both coffee and espresso lovers.", "rating": 4.5 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Coffee Maker", "Espresso Machine", "De'Longhi"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1647292961-41puYUsGR4L._SL500_.jpg?crop=0.796xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1647292961-41puYUsGR4L._SL500_.jpg?crop=0.796xw:1xh;center,top&resize=980:*"
+    },
+     {
+    "id": 9,
+    "title": "Cuisinart Grind and Brew Single-Serve Coffeemaker",
+    "description": "A compact and convenient coffee maker that grinds and brews fresh coffee.",
+    "category": "Coffee Makers",
+    "price": 129.99,
+    "discountPercentage": 5.0,
+    "rating": 4.5,
+    "stock": 25,
+    "sku": "CGS100",
+    "weight": "4.5 lbs",
+    "dimensions": "10 x 8 x 12 inches",
+    "warrantyInformation": "2 years",
+    "shippingInformation": "Free shipping on orders over $50",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      { "user": "Emily", "comment": "Love the grinder feature!", "rating": 4.7 },
+      { "user": "Mark", "comment": "Makes great coffee but a bit loud.", "rating": 4.3 }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": { "tags": ["Coffeemaker", "Grind and Brew", "Cuisinart"] },
+    "images": [
+      "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1665593999-41na-WjfYIL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1665593999-41na-WjfYIL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+  },
+  {
+    "id": 10,
+    "title": "Lavazza Coffee Classy Plus",
+    "description": "A sleek coffee maker that delivers rich and smooth coffee at the touch of a button.",
+    "category": "Coffee Makers",
+    "price": 199.99,
+    "discountPercentage": 10.0,
+    "rating": 4.6,
+    "stock": 15,
+    "sku": "LCP200",
+    "weight": "6 lbs",
+    "dimensions": "12 x 9 x 13 inches",
+    "warrantyInformation": "1 year",
+    "shippingInformation": "Free shipping",
+    "availabilityStatus": "Low Stock",
+    "reviews": [
+      { "user": "Sophia", "comment": "Perfect for my morning routine!", "rating": 4.8 },
+      { "user": "James", "comment": "Good, but a bit expensive.", "rating": 4.4 }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": { "tags": ["Coffeemaker", "Lavazza", "Espresso"] },
+    "images": [
+      "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1689000629-71o0dbnAK1L.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1689000629-71o0dbnAK1L.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+  },
+  {
+    "id": 11,
+    "title": "Cuisinart 4-In-1 Coffee Machine",
+    "description": "A versatile coffee machine that can brew, grind, steam, and froth.",
+    "category": "Coffee Makers",
+    "price": 249.99,
+    "discountPercentage": 12.0,
+    "rating": 4.7,
+    "stock": 10,
+    "sku": "C4C300",
+    "weight": "10 lbs",
+    "dimensions": "14 x 10 x 15 inches",
+    "warrantyInformation": "3 years",
+    "shippingInformation": "Free shipping on orders over $100",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      { "user": "Olivia", "comment": "The best coffee machine I've owned!", "rating": 4.9 },
+      { "user": "Liam", "comment": "Great features, a bit bulky.", "rating": 4.5 }
+    ],
+    "returnPolicy": "60-day return",
+    "minimumOrderQuantity": 1,
+    "meta": { "tags": ["Coffeemaker", "4-in-1", "Cuisinart"] },
+    "images": [
+      "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1723570078-81XckvcAFpL.jpg?crop=0.808xw:0.808xh;0.125xw,0.0817xh&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1723570078-81XckvcAFpL.jpg?crop=0.808xw:0.808xh;0.125xw,0.0817xh&resize=980:*"
+  },
+  {
+    "id": 12,
+    "title": "Ninja Pods & Grounds Specialty Single-Serve Coffee Maker",
+    "description": "A flexible coffee maker compatible with both pods and grounds.",
+    "category": "Coffee Makers",
+    "price": 179.99,
+    "discountPercentage": 7.5,
+    "rating": 4.4,
+    "stock": 30,
+    "sku": "NPG200",
+    "weight": "5 lbs",
+    "dimensions": "11 x 9 x 14 inches",
+    "warrantyInformation": "1 year",
+    "shippingInformation": "Ships within 2 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      { "user": "Emma", "comment": "Convenient and easy to use.", "rating": 4.6 },
+      { "user": "Noah", "comment": "Good quality, but a bit pricey.", "rating": 4.2 }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": { "tags": ["Coffeemaker", "Ninja", "Pods"] },
+    "images": [
+      "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1689106555-7169zzZxHjL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1689106555-7169zzZxHjL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+  },
+    {
+        "id": 13,
+        "title": "Bruvi BV-01 Brewer",
+        "description": "A versatile coffee brewer designed for convenience and high-quality coffee extraction.",
+        "category": "Coffee Makers",
+        "price": 149.99,
+        "discountPercentage": 7,
+        "rating": 4.5,
+        "stock": 15,
+        "sku": "BV01",
+        "weight": "5 lbs",
+        "dimensions": "10 x 10 x 14 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Emma", "comment": "Excellent brewing quality.", "rating": 4.6 },
+            { "user": "Liam", "comment": "Compact and efficient.", "rating": 4.4 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Coffee Brewer", "Bruvi"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1688570892-71I2rn3jT0L.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1688570892-71I2rn3jT0L.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 14,
+        "title": "Keurig K-Supreme Plus Smart Coffee Maker",
+        "description": "An advanced coffee maker with smart brew technology and multiple settings for personalized coffee.",
+        "category": "Coffee Makers",
+        "price": 179.99,
+        "discountPercentage": 5,
+        "rating": 4.7,
+        "stock": 10,
+        "sku": "KSP1",
+        "weight": "6 lbs",
+        "dimensions": "12 x 8 x 13 inches",
+        "warrantyInformation": "2 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Ava", "comment": "Smart features make brewing easier.", "rating": 4.8 },
+            { "user": "Noah", "comment": "Brews excellent coffee with customizable settings.", "rating": 4.6 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Smart Coffee Maker", "Keurig"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1636478749-31YpWwjWvGS._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1636478749-31YpWwjWvGS._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 15,
+        "title": "Nespresso VertuoPlus Coffee and Espresso Machine",
+        "description": "A versatile machine that brews both coffee and espresso with a sleek design and easy-to-use features.",
+        "category": "Coffee Makers",
+        "price": 249.99,
+        "discountPercentage": 10,
+        "rating": 4.8,
+        "stock": 7,
+        "sku": "NVP1",
+        "weight": "7 lbs",
+        "dimensions": "10 x 11 x 14 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Isabella", "comment": "Perfect for coffee and espresso lovers.", "rating": 4.9 },
+            { "user": "Ethan", "comment": "High-quality machine with great features.", "rating": 4.7 }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Coffee Machine", "Nespresso"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1639759094-41fvwJcPCrL._SL500_.jpg?crop=0.822xw:0.822xh;0.114xw,0.114xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1639759094-41fvwJcPCrL._SL500_.jpg?crop=0.822xw:0.822xh;0.114xw,0.114xh&resize=980:*"
+    }
+]
