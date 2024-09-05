@@ -1,0 +1,483 @@
+[
+    {
+        "id": 1,
+        "title": "Harlem Candle Co. Speakeasy Reed Diffuser",
+        "description": "A luxurious reed diffuser that brings the ambiance of the Jazz Age into your home.",
+        "category": "Diffusers",
+        "price": 48.00,
+        "discountPercentage": 10,
+        "rating": 4.8,
+        "stock": 20,
+        "sku": "HARLEMCANDLECO-001",
+        "weight": "1.5 lbs",
+        "dimensions": "3 x 3 x 10 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping on orders over $50",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Sophia",
+                "comment": "Elegant scent, perfect for my living room.",
+                "rating": 4.9
+            },
+            {
+                "user": "Liam",
+                "comment": "Lasts a long time and smells great.",
+                "rating": 4.7
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Reed Diffuser", "Luxury", "Home Decor"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1698860716-0400017245425_NOCOLOR.jpg?crop=1.00xw:0.751xh;0,0.201xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1698860716-0400017245425_NOCOLOR.jpg?crop=1.00xw:0.751xh;0,0.201xh&resize=980:*"
+    },
+    {
+        "id": 2,
+        "title": "AYDRY Japanese Yuzu Room Diffuser",
+        "description": "A refreshing room diffuser with the zesty scent of Japanese Yuzu.",
+        "category": "Diffusers",
+        "price": 40.00,
+        "discountPercentage": 12,
+        "rating": 4.6,
+        "stock": 25,
+        "sku": "AYDRY-002",
+        "weight": "1.2 lbs",
+        "dimensions": "2.5 x 2.5 x 9 inches",
+        "warrantyInformation": "6 months",
+        "shippingInformation": "Free shipping on orders over $45",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Emily",
+                "comment": "The scent is so refreshing, I love it!",
+                "rating": 4.8
+            },
+            {
+                "user": "Oliver",
+                "comment": "Nice diffuser, but a bit expensive for the size.",
+                "rating": 4.4
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Room Diffuser", "Yuzu", "Japanese Scent"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700067105-screen-shot-2023-11-15-at-11-51-20-am-6554f7161b54a.png?crop=0.997080291970803xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700067105-screen-shot-2023-11-15-at-11-51-20-am-6554f7161b54a.png?crop=0.997080291970803xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 3,
+        "title": "Brooklyn Candle Studio Italia Reed Diffuser",
+        "description": "Transport yourself to the Italian countryside with this elegant reed diffuser.",
+        "category": "Diffusers",
+        "price": 55.00,
+        "discountPercentage": 15,
+        "rating": 4.9,
+        "stock": 15,
+        "sku": "BROOKLYNCANDLESTUDIO-003",
+        "weight": "1.8 lbs",
+        "dimensions": "3 x 3 x 12 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping on orders over $55",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Mia",
+                "comment": "Beautiful fragrance, very sophisticated.",
+                "rating": 5.0
+            },
+            {
+                "user": "Noah",
+                "comment": "A bit pricey, but worth it for the quality.",
+                "rating": 4.8
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Reed Diffuser", "Italian Scent", "Elegant"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1719428078-italia-reed-diffuser-brooklyn-candle-studio-396153.jpg?crop=1.00xw:0.801xh;0,0.116xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1719428078-italia-reed-diffuser-brooklyn-candle-studio-396153.jpg?crop=1.00xw:0.801xh;0,0.116xh&resize=980:*"
+    },
+    {
+        "id": 4,
+        "title": "Lake & Skye 11 11 Reed Diffuser",
+        "description": "A clean and uplifting scent, perfect for any space.",
+        "category": "Diffusers",
+        "price": 50.00,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "stock": 18,
+        "sku": "LAKEANDSKYE-004",
+        "weight": "1.4 lbs",
+        "dimensions": "3 x 3 x 10 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping on orders over $50",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Ava",
+                "comment": "Lovely scent, not overpowering.",
+                "rating": 4.8
+            },
+            {
+                "user": "Ethan",
+                "comment": "A bit subtle, but great for a calm atmosphere.",
+                "rating": 4.6
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Reed Diffuser", "Clean Scent", "Uplifting"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700066902-screen-shot-2023-11-15-at-11-48-01-am-6554f64d58691.png?crop=0.9954128440366973xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700066902-screen-shot-2023-11-15-at-11-48-01-am-6554f64d58691.png?crop=0.9954128440366973xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 5,
+        "title": "Mainstays Glass Diffuser with Reeds",
+        "description": "A stylish glass diffuser that adds a touch of elegance to your decor.",
+        "category": "Diffusers",
+        "price": 20.00,
+        "discountPercentage": 5,
+        "rating": 4.5,
+        "stock": 25,
+        "sku": "MAINSTAYS-005",
+        "weight": "1.3 lbs",
+        "dimensions": "2.8 x 2.8 x 9 inches",
+        "warrantyInformation": "6 months",
+        "shippingInformation": "Free shipping on orders over $25",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Isabella",
+                "comment": "Great value for the price, looks nice.",
+                "rating": 4.6
+            },
+            {
+                "user": "Mason",
+                "comment": "Decent scent, but doesn't last as long as I hoped.",
+                "rating": 4.4
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Glass Diffuser", "Elegant", "Affordable"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700066963-screen-shot-2023-11-15-at-11-48-54-am-6554f684b9e81.png?crop=1.00xw:0.818xh;0,0.182xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700066963-screen-shot-2023-11-15-at-11-48-54-am-6554f684b9e81.png?crop=1.00xw:0.818xh;0,0.182xh&resize=980:*"
+    },
+    {
+        "id": 6,
+        "title": "P.F. Candle Co. Amber & Moss Scented Rattan Reed Diffuser",
+        "description": "Earthy and inviting, this diffuser brings the outdoors in.",
+        "category": "Diffusers",
+        "price": 45.00,
+        "discountPercentage": 8,
+        "rating": 4.7,
+        "stock": 22,
+        "sku": "PFCANDLECO-006",
+        "weight": "1.6 lbs",
+        "dimensions": "3 x 3 x 10 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping on orders over $50",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Ella",
+                "comment": "Love the earthy scent, perfect for my home office.",
+                "rating": 4.9
+            },
+            {
+                "user": "James",
+                "comment": "Great quality, lasts a long time.",
+                "rating": 4.6
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Reed Diffuser", "Earthy Scent", "Amber & Moss"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1698861102-510EBhVBR8L.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1698861102-510EBhVBR8L.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 7,
+        "title": "Williams Sonoma French Lavender Fragrance Diffuser",
+        "description": "A soothing and relaxing lavender fragrance, perfect for creating a calming atmosphere.",
+        "category": "Diffusers",
+        "price": 42.00,
+        "discountPercentage": 10,
+        "rating": 4.8,
+        "stock": 30,
+        "sku": "WILLIAMSSONOMA-007",
+        "weight": "1.5 lbs",
+        "dimensions": "3 x 3 x 11 inches",
+        "warrantyInformation": "6 months",
+        "shippingInformation": "Free shipping on orders over $50",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Charlotte",
+                "comment": "Lovely lavender scent, very calming.",
+                "rating": 4.9
+            },
+            {
+                "user": "Benjamin",
+                "comment": "Nice fragrance but a bit expensive.",
+                "rating": 4.7
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["French Lavender", "Calming", "Diffuser"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700087564-screen-shot-2023-11-15-at-5-32-20-pm-655546fe8b005.png?crop=0.984725050916497xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700087564-screen-shot-2023-11-15-at-5-32-20-pm-655546fe8b005.png?crop=0.984725050916497xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 8,
+        "title": "396 st. Vanilla Lavender Reed Diffuser",
+        "description": "A delightful blend of vanilla and lavender to enhance your home's ambiance.",
+        "category": "Diffusers",
+        "price": 38.00,
+        "discountPercentage": 12,
+        "rating": 4.6,
+        "stock": 28,
+        "sku": "396ST-008",
+        "weight": "1.4 lbs",
+        "dimensions": "3 x 3 x 10 inches",
+        "warrantyInformation": "6 months",
+        "shippingInformation": "Free shipping on orders over $35",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Avery",
+                "comment": "The vanilla lavender combination is perfect.",
+                "rating": 4.7
+            },
+            {
+                "user": "Ethan",
+                "comment": "Good scent but doesn't last as long.",
+                "rating": 4.5
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Vanilla Lavender", "Reed Diffuser", "Home Fragrance"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700066821-617grrjyHqL.jpg?crop=0.490xw:0.490xh;0.510xw,0.314xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700066821-617grrjyHqL.jpg?crop=0.490xw:0.490xh;0.510xw,0.314xh&resize=980:*"
+    },
+    {
+        "id": 9,
+        "title": "Eco Candle Co Lavender Dreams Scented Aromatic Diffuser",
+        "description": "A calming lavender scent with a touch of eco-friendliness.",
+        "category": "Diffusers",
+        "price": 34.00,
+        "discountPercentage": 8,
+        "rating": 4.7,
+        "stock": 20,
+        "sku": "ECOCANDLECO-009",
+        "weight": "1.3 lbs",
+        "dimensions": "2.5 x 2.5 x 9 inches",
+        "warrantyInformation": "6 months",
+        "shippingInformation": "Free shipping on orders over $30",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Megan",
+                "comment": "Wonderful lavender scent, very soothing.",
+                "rating": 4.8
+            },
+            {
+                "user": "Logan",
+                "comment": "Eco-friendly and effective.",
+                "rating": 4.6
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Lavender Dreams", "Aromatic", "Eco-Friendly"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700060673-.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700060673-.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 10,
+        "title": "West Elm Rove Collection Reed Diffusers",
+        "description": "A collection of stylish reed diffusers to complement any room.",
+        "category": "Diffusers",
+        "price": 60.00,
+        "discountPercentage": 10,
+        "rating": 4.9,
+        "stock": 10,
+        "sku": "WESTELM-010",
+        "weight": "2 lbs",
+        "dimensions": "4 x 4 x 12 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping on orders over $75",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Oliver",
+                "comment": "Beautiful design and great fragrance.",
+                "rating": 5.0
+            },
+            {
+                "user": "Isabella",
+                "comment": "A bit expensive but worth it.",
+                "rating": 4.8
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Rove Collection", "Stylish", "Home Decor"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700057295-rove-collection-reed-diffusers-xl-6554d0bf40366.jpg?crop=1xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700057295-rove-collection-reed-diffusers-xl-6554d0bf40366.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 11,
+        "title": "LOVSPA Eucalyptus Essential Oil Reed Diffuser",
+        "description": "A refreshing eucalyptus scent to invigorate and energize your space.",
+        "category": "Diffusers",
+        "price": 35.00,
+        "discountPercentage": 10,
+        "rating": 4.6,
+        "stock": 25,
+        "sku": "LOVSPA-011",
+        "weight": "1.3 lbs",
+        "dimensions": "2.8 x 2.8 x 9 inches",
+        "warrantyInformation": "6 months",
+        "shippingInformation": "Free shipping on orders over $30",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Lily",
+                "comment": "Great for a refreshing boost in the morning.",
+                "rating": 4.7
+            },
+            {
+                "user": "Henry",
+                "comment": "The scent is nice but fades quickly.",
+                "rating": 4.5
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Eucalyptus", "Essential Oil", "Invigorating"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700065177-71WJKfDADZL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700065177-71WJKfDADZL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 12,
+        "title": "Hetras Premium Reed Diffuser, Set of 2",
+        "description": "A premium set of two reed diffusers to enhance your home with lasting fragrance.",
+        "category": "Diffusers",
+        "price": 55.00,
+        "discountPercentage": 15,
+        "rating": 4.8,
+        "stock": 15,
+        "sku": "HETRAS-012",
+        "weight": "2 lbs",
+        "dimensions": "4 x 4 x 11 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping on orders over $50",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Amelia",
+                "comment": "Love these diffusers, they last a long time.",
+                "rating": 4.9
+            },
+            {
+                "user": "Lucas",
+                "comment": "Great value for the set.",
+                "rating": 4.7
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Premium Set", "Home Fragrance", "Long-Lasting"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700162223-71nOkhRHM-L.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700162223-71nOkhRHM-L.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 13,
+        "title": "Craft & Kin Lemongrass & Basil Reed Diffuser",
+        "description": "A refreshing blend of lemongrass and basil to invigorate your space.",
+        "category": "Diffusers",
+        "price": 40.00,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "stock": 18,
+        "sku": "CRAFTKIN-013",
+        "weight": "1.4 lbs",
+        "dimensions": "3 x 3 x 10 inches",
+        "warrantyInformation": "6 months",
+        "shippingInformation": "Free shipping on orders over $30",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Ella",
+                "comment": "The lemongrass and basil combination is wonderful.",
+                "rating": 4.8
+            },
+            {
+                "user": "Mason",
+                "comment": "Fresh and invigorating scent, but a bit strong.",
+                "rating": 4.6
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Lemongrass", "Basil", "Refreshing"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1701097953-719LrB1PpnL.jpg?crop=0.883xw:0.764xh;0.0673xw,0.0308xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1701097953-719LrB1PpnL.jpg?crop=0.883xw:0.764xh;0.0673xw,0.0308xh&resize=980:*"
+    }
+]

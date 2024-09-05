@@ -1,0 +1,12 @@
+<div class="container">
+    <h2 class="ma">Explore Category</h2>
+    <div class="card-grid" >
+      <div class="card" style="display: flex;" *ngFor="let card of cards" (click)="navigateTo(card.link)">
+        <img [src]="card.imageUrl" class="card-img-top" alt="{{card.title}}">
+        <div class="card-body">
+          <h5 class="card-title" style="font-size:16px;">{{card.title}}</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+  
