@@ -5,14 +5,14 @@ import { RouterOutlet } from '@angular/router';
 import { ImageSliderComponent } from './image-slider/image-slider.component';
 import { RouterModule, Routes } from '@angular/router'; // تأكد من استيراد RouterModule
 import { HomeComponent } from './home/home.component';
-import { ProductDetailComponent } from './product-detail/product-detail.component';
+import { ProductDetailsComponent } from './product-detail/product-details.component'; 
 import { ProductListComponent } from './product-list/product-list.component';
 import { LoginComponent } from './login/login.component';
 import { RegisterComponent } from './register/register.component';
 import { PaymentComponent } from './payment/payment.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { IonicModule } from '@ionic/angular';
-import { Product } from './product.model';
+import { ProductComponent } from './product/product.component';
 import { FooterComponent } from './footer/footer.component';
 import { CategoryComponent } from './category/category.component';
 import { CategoryListComponent } from './category-list/category-list.component';
@@ -25,7 +25,8 @@ import { CategoryListComponent } from './category-list/category-list.component';
     FormsModule,CategoryComponent,
     ReactiveFormsModule,
     ImageSliderComponent,
-    IonicModule,NavbarComponent,RouterOutlet,RouterModule,RegisterComponent,LoginComponent,PaymentComponent,ProductDetailComponent,ProductListComponent,HomeComponent],
+    ProductComponent,
+    IonicModule,NavbarComponent,RouterOutlet,RouterModule,RegisterComponent,LoginComponent,PaymentComponent,ProductDetailsComponent,ProductListComponent,HomeComponent],
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'],
 })
