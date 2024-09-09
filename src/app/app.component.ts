@@ -14,13 +14,15 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { IonicModule } from '@ionic/angular';
 import { ProductComponent } from './product/product.component';
 import { FooterComponent } from './footer/footer.component';
+import { CategoryComponent } from './category/category.component';
+import { CategoryListComponent } from './category-list/category-list.component';
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [FooterComponent,
+  imports: [FooterComponent,CategoryListComponent,
     CommonModule,
     RouterOutlet,
-    FormsModule,
+    FormsModule,CategoryComponent,
     ReactiveFormsModule,
     ImageSliderComponent,
     ProductComponent,
