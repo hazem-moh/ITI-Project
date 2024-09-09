@@ -8,6 +8,7 @@ import { RegisterComponent } from './register/register.component';
 import { PaymentComponent } from './payment/payment.component';
 import { CategoryComponent } from './category/category.component';
 import { CartComponent } from './cart/cart.component';
+import { CategoryListComponent } from './category-list/category-list.component';
 export const routes: Routes = [
     { path: '', component: HomeComponent },
     { path: 'products', component: ProductListComponent },
@@ -16,6 +17,8 @@ export const routes: Routes = [
     { path: 'payment', component: PaymentComponent },
     { path: 'register', component: RegisterComponent },
     { path: 'category', component: CategoryComponent },
+    { path: 'category/:id', component: CategoryListComponent },
+    { path: 'category/:name', component: CategoryListComponent},
     { path: 'cart', component: CartComponent },
     { path: '**', redirectTo: '' }
 ];
