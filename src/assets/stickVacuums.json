@@ -1,0 +1,706 @@
+[
+    {
+        "id": 1,
+        "title": "Halo Capsule X Cordless Vacuum Cleaner",
+        "description": "Cordless vacuum cleaner with award-winning performance, 60 mins run time, and a 2.0-litre capacity.",
+        "category": "Vacuum Cleaners",
+        "price": 299.99,
+        "discountPercentage": 15,
+        "rating": 4.5,
+        "stock": 20,
+        "sku": "HCX-CVC-001",
+        "weight": "2.5 lbs",
+        "dimensions": "10 x 8 x 40 inches",
+        "warrantyInformation": "2 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "James",
+                "comment": "Great battery life and lightweight.",
+                "rating": 4.7
+            },
+            {
+                "user": "Olivia",
+                "comment": "A bit noisy but works well.",
+                "rating": 4.3
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Cordless", "Lightweight", "High Performance"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1720730483-Halo-Capsule-X-Cordless-Vacuum-Cleaner-Mini-Power-Brush-Hard-Floor-Roller-10-Bags-Wall-Dock-Award-Winning-Performance-60-Mins-Run-Time-Huge-2-0-Litre_53db7017-16a8-4c6d-9d82-7b9b04aff77e.7aae131ec9290bb029b374d9434cd875.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1720730483-Halo-Capsule-X-Cordless-Vacuum-Cleaner-Mini-Power-Brush-Hard-Floor-Roller-10-Bags-Wall-Dock-Award-Winning-Performance-60-Mins-Run-Time-Huge-2-0-Litre_53db7017-16a8-4c6d-9d82-7b9b04aff77e.7aae131ec9290bb029b374d9434cd875.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 2,
+        "title": "Tineco S10 ZT Smart Stick Vacuum",
+        "description": "Smart cordless stick vacuum with ZeroTangle brush head for hard floors and carpet.",
+        "category": "Vacuum Cleaners",
+        "price": 399.99,
+        "discountPercentage": 12,
+        "rating": 4.6,
+        "stock": 15,
+        "sku": "TS10-ZT-SCV-002",
+        "weight": "3.1 lbs",
+        "dimensions": "11 x 9 x 43 inches",
+        "warrantyInformation": "2 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Sophia",
+                "comment": "Perfect for pet hair and easy to clean.",
+                "rating": 4.8
+            },
+            {
+                "user": "Liam",
+                "comment": "A bit heavy but powerful.",
+                "rating": 4.4
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Smart", "ZeroTangle", "Pet Hair"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1720874936-Tineco-S10-ZT-Smart-Cordless-Stick-Vacuum-Cleaner-with-ZeroTangle-Brush-Head-for-Hard-Floors-Carpet_12078712-f226-432a-b09f-4d22d8989fcb.465fbd828a5011290ae08c99b542d76a.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1720874936-Tineco-S10-ZT-Smart-Cordless-Stick-Vacuum-Cleaner-with-ZeroTangle-Brush-Head-for-Hard-Floors-Carpet_12078712-f226-432a-b09f-4d22d8989fcb.465fbd828a5011290ae08c99b542d76a.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 3,
+        "title": "BISSELL ICONpet Turbo Edge",
+        "description": "Cordless vacuum cleaner with powerful suction and edge cleaning technology for pet hair.",
+        "category": "Vacuum Cleaners",
+        "price": 349.99,
+        "discountPercentage": 10,
+        "rating": 4.4,
+        "stock": 25,
+        "sku": "BIT-EVC-003",
+        "weight": "4.0 lbs",
+        "dimensions": "12 x 10 x 45 inches",
+        "warrantyInformation": "3 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Mason",
+                "comment": "Excellent for pet owners, easy to maneuver.",
+                "rating": 4.5
+            },
+            {
+                "user": "Isabella",
+                "comment": "Suction is great, but battery life could be better.",
+                "rating": 4.3
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Pet Hair", "Powerful Suction", "Edge Cleaning"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1688758063-0719aec0-87bb-4620-ab42-8255200309e2.36e3fcd38fcf56aee916c195805c99b1.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1688758063-0719aec0-87bb-4620-ab42-8255200309e2.36e3fcd38fcf56aee916c195805c99b1.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 4,
+        "title": "Electrolux WellQ7 Hard Floor Stick Cleaner",
+        "description": "Hard floor stick cleaner with powerful suction and long battery life.",
+        "category": "Vacuum Cleaners",
+        "price": 249.99,
+        "discountPercentage": 8,
+        "rating": 4.3,
+        "stock": 18,
+        "sku": "EQ7-HFSC-004",
+        "weight": "3.8 lbs",
+        "dimensions": "11 x 8 x 42 inches",
+        "warrantyInformation": "2 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Charlotte",
+                "comment": "Lightweight and easy to handle, perfect for hardwood floors.",
+                "rating": 4.4
+            },
+            {
+                "user": "Oliver",
+                "comment": "Suction power is good, but a bit noisy.",
+                "rating": 4.2
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Hard Floor", "Lightweight", "Long Battery Life"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1720793111-21A6Eb-rd8L._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1720793111-21A6Eb-rd8L._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+    "id": 5,
+    "title": "SAMSUNG BESPOKE Jet AI Cordless Stick Vacuum Cleaner",
+    "description": "A powerful and versatile cordless stick vacuum cleaner with AI-powered cleaning technology.",
+    "category": "Vacuum Cleaners",
+    "price": 799.99,
+    "discountPercentage": 5,
+    "rating": 4.7,
+    "stock": 15,
+    "sku": "SB-JetAI-010",
+    "weight": "6.2 lbs",
+    "dimensions": "10 x 10 x 44 inches",
+    "warrantyInformation": "2 years",
+    "shippingInformation": "Free shipping",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+        {
+            "user": "Sophia",
+            "comment": "Excellent suction power and very easy to use.",
+            "rating": 4.8
+        },
+        {
+            "user": "Liam",
+            "comment": "A bit pricey but worth it for the performance.",
+            "rating": 4.6
+        }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": {
+        "tags": ["AI", "Cordless", "Powerful", "Versatile"]
+    },
+    "images": [
+        "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1720466029-1695745272-screen-shot-2023-09-26-at-12-20-06-pm-651304cace1fa.png?crop=1xw:0.961xh;center,top&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1720466029-1695745272-screen-shot-2023-09-26-at-12-20-06-pm-651304cace1fa.png?crop=1xw:0.961xh;center,top&resize=980:*"
+},
+{
+    "id": 6,
+    "title": "Dyson Omni-Glide Cordless Vacuum Cleaner",
+    "description": "A slim, lightweight cordless vacuum designed for hard floors with a 360-degree cleaning head.",
+    "category": "Vacuum Cleaners",
+    "price": 399.99,
+    "discountPercentage": 8,
+    "rating": 4.5,
+    "stock": 25,
+    "sku": "DY-OmniGlide-011",
+    "weight": "4.2 lbs",
+    "dimensions": "8 x 8 x 47 inches",
+    "warrantyInformation": "2 years",
+    "shippingInformation": "Free shipping",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+        {
+            "user": "Oliver",
+            "comment": "Perfect for quick clean-ups and small spaces.",
+            "rating": 4.6
+        },
+        {
+            "user": "Emma",
+            "comment": "Lightweight and easy to maneuver, but battery life could be better.",
+            "rating": 4.4
+        }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": {
+        "tags": ["Cordless", "Lightweight", "Hard Floors"]
+    },
+    "images": [
+        "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1621894399-dyson-omni-glide-1621894375.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1621894399-dyson-omni-glide-1621894375.jpg?crop=1xw:1xh;center,top&resize=980:*"
+},
+{
+    "id": 7,
+    "title": "Miele Triflex HX2 Cordless Stick Vacuum Cat & Dog",
+    "description": "A high-performance cordless vacuum designed for pet owners, with a multi-floor brush and powerful suction.",
+    "category": "Vacuum Cleaners",
+    "price": 699.99,
+    "discountPercentage": 7,
+    "rating": 4.6,
+    "stock": 20,
+    "sku": "MI-HX2CatDog-012",
+    "weight": "8.0 lbs",
+    "dimensions": "10 x 10 x 45 inches",
+    "warrantyInformation": "2 years",
+    "shippingInformation": "Free shipping",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+        {
+            "user": "James",
+            "comment": "Fantastic for pet hair and very versatile.",
+            "rating": 4.7
+        },
+        {
+            "user": "Charlotte",
+            "comment": "A bit heavier than expected but works great on all surfaces.",
+            "rating": 4.5
+        }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": {
+        "tags": ["Cordless", "Pet Hair", "Multi-Floor"]
+    },
+    "images": [
+        "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1720794716-61cMRPun0LL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1720794716-61cMRPun0LL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+},
+{
+    "id": 8,
+    "title": "Dyson V12 Detect Slim Cordless Vacuum Cleaner",
+    "description": "An advanced cordless vacuum with laser detection technology for deep cleaning.",
+    "category": "Vacuum Cleaners",
+    "price": 649.99,
+    "discountPercentage": 6,
+    "rating": 4.8,
+    "stock": 10,
+    "sku": "DY-V12Detect-013",
+    "weight": "5.2 lbs",
+    "dimensions": "9 x 9 x 47 inches",
+    "warrantyInformation": "2 years",
+    "shippingInformation": "Free shipping",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+        {
+            "user": "Henry",
+            "comment": "Laser detection is a game changer for spotting dust.",
+            "rating": 4.9
+        },
+        {
+            "user": "Isabella",
+            "comment": "Excellent suction and easy to handle, but a bit noisy.",
+            "rating": 4.7
+        }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": {
+        "tags": ["Cordless", "Laser Detection", "Deep Cleaning"]
+    },
+    "images": [
+        "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1688502468-61ftU72EThL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1688502468-61ftU72EThL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+},
+{
+    "id": 9,
+    "title": "SharkNinja AI Ultra Robot Self-Empty Vacuum",
+    "description": "A smart robot vacuum with AI-driven navigation and a self-emptying dustbin.",
+    "category": "Vacuum Cleaners",
+    "price": 499.99,
+    "discountPercentage": 10,
+    "rating": 4.4,
+    "stock": 18,
+    "sku": "SN-AIUltra-014",
+    "weight": "7.5 lbs",
+    "dimensions": "13 x 13 x 4 inches",
+    "warrantyInformation": "1 year",
+    "shippingInformation": "Free shipping",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+        {
+            "user": "Mia",
+            "comment": "Great for daily cleaning, and the self-emptying feature is a time saver.",
+            "rating": 4.5
+        },
+        {
+            "user": "Alexander",
+            "comment": "Good performance, but sometimes struggles with thicker carpets.",
+            "rating": 4.3
+        }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": {
+        "tags": ["Robot Vacuum", "AI Navigation", "Self-Emptying"]
+    },
+    "images": [
+        "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1718971676-41Q6J-g5KoL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1718971676-41Q6J-g5KoL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+},
+{
+    "id": 10,
+    "title": "SharkNinja Stratos Cordless Vacuum",
+    "description": "A powerful cordless vacuum with anti-odor technology and multi-surface cleaning.",
+    "category": "Vacuum Cleaners",
+    "price": 549.99,
+    "discountPercentage": 7,
+    "rating": 4.5,
+    "stock": 22,
+    "sku": "SN-Stratos-015",
+    "weight": "8.8 lbs",
+    "dimensions": "11 x 11 x 46 inches",
+    "warrantyInformation": "2 years",
+    "shippingInformation": "Free shipping",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+        {
+            "user": "Benjamin",
+            "comment": "Excellent suction and easy to maneuver. Anti-odor feature works well.",
+            "rating": 4.6
+        },
+        {
+            "user": "Evelyn",
+            "comment": "A bit bulky, but does an excellent job on carpets and hard floors.",
+            "rating": 4.4
+        }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": {
+        "tags": ["Cordless", "Anti-Odor", "Multi-Surface"]
+    },
+    "images": [
+        "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700838441-61bTA7GQTtL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700838441-61bTA7GQTtL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+},
+{
+    "id": 11,
+    "title": "SharkNinja WANDVAC Handheld Vacuum",
+    "description": "A compact and lightweight handheld vacuum for quick clean-ups and tight spaces.",
+    "category": "Vacuum Cleaners",
+    "price": 129.99,
+    "discountPercentage": 10,
+    "rating": 4.3,
+    "stock": 30,
+    "sku": "SN-WANDVAC-016",
+    "weight": "1.4 lbs",
+    "dimensions": "3 x 3 x 15 inches",
+    "warrantyInformation": "1 year",
+    "shippingInformation": "Free shipping",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+        {
+            "user": "Ava",
+            "comment": "Perfect for small messes and tight spots.",
+            "rating": 4.4
+        },
+        {
+            "user": "Noah",
+            "comment": "Very handy, but the battery life is quite short.",
+            "rating": 4.2
+        }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": {
+        "tags": ["Handheld", "Lightweight", "Quick Clean-Ups"]
+    },
+    "images": [
+        "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1701100550-619WyXcHazL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1701100550-619WyXcHazL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+},
+{
+    "id": 12,
+    "title": "O-Cedar EasyWring RinseClean Microfiber Spin Mop & Bucket",
+    "description": "An innovative spin mop with a dual-chamber bucket system for clean and dirty water separation.",
+    "category": "Floor Cleaning Tools",
+    "price": 49.99,
+    "discountPercentage": 5,
+    "rating": 4.7,
+    "stock": 40,
+    "sku": "OC-EasyWring-017",
+    "weight": "5.3 lbs",
+    "dimensions": "19 x 11 x 12 inches",
+    "warrantyInformation": "1 year",
+    "shippingInformation": "Free shipping",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+        {
+            "user": "Lucas",
+            "comment": "Cleans floors very well and the separate water chambers are a great feature.",
+            "rating": 4.8
+        },
+        {
+            "user": "Amelia",
+            "comment": "Easy to use, but the handle could be sturdier.",
+            "rating": 4.6
+        }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": {
+        "tags": ["Spin Mop", "Dual-Chamber", "Microfiber"]
+    },
+    "images": [
+        "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1710942899-81lggu79ATL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1710942899-81lggu79ATL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+},
+{
+    "id": 13,
+    "title": "BISSELL SpinWave Expert Hard Floor Spin Mop",
+    "description": "A powerful spin mop designed for hard floors, with dual spinning pads and a spray function.",
+    "category": "Floor Cleaning Tools",
+    "price": 119.99,
+    "discountPercentage": 8,
+    "rating": 4.6,
+    "stock": 25,
+    "sku": "BS-SpinWave-018",
+    "weight": "11 lbs",
+    "dimensions": "16 x 8 x 45 inches",
+    "warrantyInformation": "1 year",
+    "shippingInformation": "Free shipping",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+        {
+            "user": "William",
+            "comment": "Excellent on hard floors and easy to use.",
+            "rating": 4.7
+        },
+        {
+            "user": "Harper",
+            "comment": "Does a great job, but it's a bit noisy.",
+            "rating": 4.5
+        }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": {
+        "tags": ["Spin Mop", "Hard Floors", "Dual Spinning Pads"]
+    },
+    "images": [
+        "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1696945678-b050671a-087a-4e11-9473-d6c6156082b5_1.ed300fe5753d941ac0c4230ba45af832.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1696945678-b050671a-087a-4e11-9473-d6c6156082b5_1.ed300fe5753d941ac0c4230ba45af832.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+},
+{
+    "id": 14,
+    "title": "ECOVACS DEEBOT X1 OMNI Robot Vacuum and Mop Combo",
+    "description": "A high-end robot vacuum and mop combo with advanced mapping and self-cleaning capabilities.",
+    "category": "Vacuum Cleaners",
+    "price": 1299.99,
+    "discountPercentage": 12,
+    "rating": 4.7,
+    "stock": 8,
+    "sku": "EC-X1OMNI-019",
+    "weight": "18 lbs",
+    "dimensions": "16 x 16 x 4 inches",
+    "warrantyInformation": "1 year",
+    "shippingInformation": "Free shipping",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+        {
+            "user": "Jack",
+            "comment": "The best robot vacuum and mop combo I've used. Worth the price.",
+            "rating": 4.8
+        },
+        {
+            "user": "Sophie",
+            "comment": "Amazing features, but takes a while to set up properly.",
+            "rating": 4.6
+        }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": {
+        "tags": ["Robot Vacuum", "Mop Combo", "Advanced Mapping", "Self-Cleaning"]
+    },
+    "images": [
+        "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1667425027-31khmrEgRoL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1667425027-31khmrEgRoL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+},
+{
+    "id": 15,
+    "title": "dreame H12 PRO Wet Dry Vacuum Cleaner",
+    "description": "A versatile wet dry vacuum cleaner for various floor types with self-cleaning brushroll.",
+    "category": "Vacuum Cleaners",
+    "price": 499.99,
+    "discountPercentage": 10,
+    "rating": 4.4,
+    "stock": 12,
+    "sku": "DR-H12PRO-020",
+    "weight": "10 lbs",
+    "dimensions": "11 x 9 x 44 inches",
+    "warrantyInformation": "1 year",
+    "shippingInformation": "Free shipping",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+        {
+            "user": "Henry",
+            "comment": "Works well on both wet and dry messes. Easy to clean.",
+            "rating": 4.5
+        },
+        {
+            "user": "Emily",
+            "comment": "Good for mixed floors, but the battery life could be better.",
+            "rating": 4.3
+        }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": {
+        "tags": ["Wet Dry", "Self-Cleaning", "Versatile"]
+    },
+    "images": [
+        "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1723570950-img-1238-2-66bb97a4cc3dc.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1723570950-img-1238-2-66bb97a4cc3dc.jpg?crop=1xw:1xh;center,top&resize=980:*"
+},
+{
+    "id": 16,
+    "title": "Bona Hardwood Floor Premium Spray Mop",
+    "description": "A premium spray mop designed for hardwood floors with a reusable microfiber pad.",
+    "category": "Floor Cleaning Tools",
+    "price": 44.99,
+    "discountPercentage": 6,
+    "rating": 4.5,
+    "stock": 35,
+    "sku": "BN-PremSprayMop-021",
+    "weight": "5.2 lbs",
+    "dimensions": "4.5 x 15 x 27.5 inches",
+    "warrantyInformation": "1 year",
+    "shippingInformation": "Free shipping",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+        {
+            "user": "Scarlett",
+            "comment": "Does a great job on my hardwood floors. The spray feature is very convenient.",
+            "rating": 4.6
+        },
+        {
+            "user": "Mason",
+            "comment": "Good quality mop, but the handle could be more comfortable.",
+            "rating": 4.4
+        }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": {
+        "tags": ["Spray Mop", "Hardwood Floors", "Reusable Microfiber Pad"]
+    },
+    "images": [
+        "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1723554962-img-1244-2-66bb5c5fca7c0.jpg?crop=0.779xw:0.779xh;0.109xw,0.221xh&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1723554962-img-1244-2-66bb5c5fca7c0.jpg?crop=0.779xw:0.779xh;0.109xw,0.221xh&resize=980:*"
+},
+{
+    "id": 17,
+    "title": "Swiffer PowerMop Multi-Surface Mop Kit",
+    "description": "A multi-surface mop kit with powered mopping for deeper cleaning.",
+    "category": "Floor Cleaning Tools",
+    "price": 36.99,
+    "discountPercentage": 5,
+    "rating": 4.4,
+    "stock": 50,
+    "sku": "SW-PowerMop-022",
+    "weight": "4.8 lbs",
+    "dimensions": "6 x 16.5 x 55 inches",
+    "warrantyInformation": "1 year",
+    "shippingInformation": "Free shipping",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+        {
+            "user": "Ella",
+            "comment": "Great for multi-surface cleaning and the powered mop feature really helps.",
+            "rating": 4.5
+        },
+        {
+            "user": "James",
+            "comment": "Effective, but a bit heavy to maneuver.",
+            "rating": 4.3
+        }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": {
+        "tags": ["Multi-Surface", "Powered Mopping", "Deeper Cleaning"]
+    },
+    "images": [
+        "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1723556022-img-1261-2-66bb607a67ef6.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1723556022-img-1261-2-66bb607a67ef6.jpg?crop=1xw:1xh;center,top&resize=980:*"
+},
+{
+    "id": 18,
+    "title": "Swiffer Sweeper Two-in-One",
+    "description": "A versatile two-in-one cleaning tool for sweeping and mopping.",
+    "category": "Floor Cleaning Tools",
+    "price": 24.99,
+    "discountPercentage": 5,
+    "rating": 4.3,
+    "stock": 45,
+    "sku": "SW-TwoInOne-023",
+    "weight": "2.7 lbs",
+    "dimensions": "5 x 9 x 51 inches",
+    "warrantyInformation": "1 year",
+    "shippingInformation": "Free shipping",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+        {
+            "user": "Grace",
+            "comment": "Very handy for both sweeping and mopping. Lightweight and easy to use.",
+            "rating": 4.4
+        },
+        {
+            "user": "Ethan",
+            "comment": "Good for quick clean-ups, but not as effective on tough stains.",
+            "rating": 4.2
+        }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": {
+        "tags": ["Two-in-One", "Sweeping", "Mopping"]
+    },
+    "images": [
+        "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1723554876-img-1245-2-66bb5c1038a6f.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1723554876-img-1245-2-66bb5c1038a6f.jpg?crop=1xw:1xh;center,top&resize=980:*"
+},
+{
+    "id": 19,
+    "title": "Bona Premium Microfiber Floor Mop",
+    "description": "A premium microfiber mop designed for all floor types, with a telescoping handle.",
+    "category": "Floor Cleaning Tools",
+    "price": 29.99,
+    "discountPercentage": 7,
+    "rating": 4.4,
+    "stock": 40,
+    "sku": "BN-PremMop-024",
+    "weight": "5.1 lbs",
+    "dimensions": "5.25 x 16.5 x 60 inches",
+    "warrantyInformation": "1 year",
+    "shippingInformation": "Free shipping",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+        {
+            "user": "Lily",
+            "comment": "Very effective on all floor types and the telescoping handle is a nice touch.",
+            "rating": 4.5
+        },
+        {
+            "user": "Alexander",
+            "comment": "Good quality, but could be sturdier.",
+            "rating": 4.3
+        }
+    ],
+    "returnPolicy": "30-day return",
+    "minimumOrderQuantity": 1,
+    "meta": {
+        "tags": ["Microfiber", "Telescoping Handle", "All Floor Types"]
+    },
+    "images": [
+        "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1666102846-mop-1666102805.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    ],
+    "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1666102846-mop-1666102805.jpg?crop=1xw:1xh;center,top&resize=980:*"
+}
+
+]

@@ -1,0 +1,64 @@
+.ma{
+  margin-top: 70px;
+}
+.scrolling-wrapper {
+    display: flex;
+    overflow-x: scroll;
+    gap: 20px;
+    padding: 20px 10;
+    text-decoration: none;
+
+  }
+  
+  .card {
+    padding:10px;
+    // margin-right: 10px;
+      margin-left: 20px;
+
+    flex: 0 0 auto;
+    width: 200px;
+    text-align: center;
+    border:white;
+    
+  }
+  
+  .card img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+    box-shadow: 5px 7px 5px rgb(144, 160, 165);
+
+
+  }
+  .card img:hover {
+    transform: scale(1.1); 
+  }
+
+  .scrolling-wrapper::-webkit-scrollbar {
+    height: 6px;
+  }
+  
+  .scrolling-wrapper::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 10px;
+  }
+  
+  .card a{
+    color: rgba(0, 0, 0, 0.573);
+    font-size:16px;
+    text-decoration: none;
+    // color: inherit;
+  }
+  
+  
+  .card a:hover {
+  
+    color:#7302b9;
+    text-shadow: 5px 1px 5px  rgb(199, 202, 203);
+  }
+  p{
+    padding-top: 20px;
+    padding-left: 20px;
+  }
