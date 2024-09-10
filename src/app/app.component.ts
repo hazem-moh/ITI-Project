@@ -4,27 +4,29 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { RouterOutlet } from '@angular/router';
 import { ImageSliderComponent } from './components/image-slider/image-slider.component';
 import { RouterModule, Routes } from '@angular/router'; // تأكد من استيراد RouterModule
-import { HomeComponent } from './components/home/home.component';
-import { ProductDetailComponent } from './components/product-detail/product-detail.component';
-import { ProductListComponent } from './components/product-list/product-list.component';
-import { LoginComponent } from './components/login/login.component';
-import { RegisterComponent } from './components/register/register.component';
-import { PaymentComponent } from './components/payment/payment.component';
-import { NavbarComponent } from './components/navbar/navbar.component';
+import { HomeComponent } from './home/home.component';
+import { ProductDetailsComponent } from './product-detail/product-details.component'; 
+import { ProductListComponent } from './product-list/product-list.component';
+import { LoginComponent } from './login/login.component';
+import { RegisterComponent } from './register/register.component';
+import { PaymentComponent } from './payment/payment.component';
+import { NavbarComponent } from './navbar/navbar.component';
 import { IonicModule } from '@ionic/angular';
-import { Product } from './models/product.model';
-import { FooterComponent } from './components/footer/footer.component';
-import { CartComponent } from './components/cart/cart.component';
+import { ProductComponent } from './product/product.component';
+import { FooterComponent } from './footer/footer.component';
+import { CategoryComponent } from './category/category.component';
+import { CategoryListComponent } from './category-list/category-list.component';
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [FooterComponent,CartComponent,
+  imports: [FooterComponent,CategoryListComponent,
     CommonModule,
     RouterOutlet,
-    FormsModule,
+    FormsModule,CategoryComponent,
     ReactiveFormsModule,
     ImageSliderComponent,
-    IonicModule,NavbarComponent,RouterModule,RegisterComponent,LoginComponent,PaymentComponent,ProductListComponent,HomeComponent,ProductDetailComponent],
+    ProductComponent,
+    IonicModule,NavbarComponent,RouterOutlet,RouterModule,RegisterComponent,LoginComponent,PaymentComponent,ProductDetailsComponent,ProductListComponent,HomeComponent],
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'],
 })
