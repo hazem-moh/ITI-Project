@@ -5,7 +5,7 @@
       "description": "A high-precision wireless mouse with ergonomic design.",
       "price": 29.99,
       "category": "Electronics",
-      "imageUrl": "https://example.com/images/wireless-mouse.jpg",
+      "imageUrl": "https://btech.com/media/catalog/product/6/1/6144ng08-il._ac_sl1500__1.jpg?width=1200&store=en&image-type=image",
       "inStock": true
     },
     {
@@ -14,7 +14,7 @@
       "description": "Comfortable over-ear headphones with noise-cancellation.",
       "price": 79.99,
       "category": "Electronics",
-      "imageUrl": "https://example.com/images/bluetooth-headphones.jpg",
+      "imageUrl": "https://m.media-amazon.com/images/I/61RahTQtAqL._AC_UF1000,1000_QL80_.jpg",
       "inStock": true
     },
     {
@@ -23,7 +23,7 @@
       "description": "Latest model smartphone with a high-resolution camera.",
       "price": 699.99,
       "category": "Electronics",
-      "imageUrl": "https://example.com/images/smartphone.jpg",
+      "imageUrl": "https://www.cnet.com/a/img/resize/690ad0a97cf8fc98f3cf851e7b149d2ffc5b171e/hub/2023/05/04/31dfdcf2-1ac3-4320-b40c-4c356300f06e/google-pixel-7a-phone-14.jpg?auto=webp&height=500",
       "inStock": false
     },
     {
@@ -32,7 +32,7 @@
       "description": "Lightweight and comfortable running shoes for everyday use.",
       "price": 59.99,
       "category": "Sportswear",
-      "imageUrl": "https://example.com/images/running-shoes.jpg",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWvNA9VHLrQmTOg3m3dTR3Y4B-vGzQurcFdw&usqp=CAU",
       "inStock": true
     },
     {
@@ -41,7 +41,7 @@
       "description": "A stylish leather wallet with multiple card slots.",
       "price": 19.99,
       "category": "Accessories",
-      "imageUrl": "https://example.com/images/leather-wallet.jpg",
+      "imageUrl": "https://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/M89637s.jpg",
       "inStock": true
     },
     {
@@ -50,7 +50,7 @@
       "description": "RGB backlit mechanical keyboard with customizable keys.",
       "price": 99.99,
       "category": "Electronics",
-      "imageUrl": "https://example.com/images/gaming-keyboard.jpg",
+      "imageUrl": "https://i5.walmartimages.com/seo/SteelSeries-Apex-9-Mini-60-Wired-OptiPoint-Adjustable-Actuation-Switch-Gaming-Keyboard-with-RGB-Lighting-Black_ffc8afc1-75c2-4729-a6df-a85317c48086.6af3be98478f401d40cd0119c2de69b3.jpeg",
       "inStock": false
     }
   ]
