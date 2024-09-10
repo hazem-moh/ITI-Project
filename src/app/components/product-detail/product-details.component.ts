@@ -1,5 +1,5 @@
-import { Component, OnInit } from '@angular/core';
-import { ProductService } from '../services/product.service';  
+import { Component, Inject, OnInit } from '@angular/core';
+import { ProductService } from '../../services/product.service';  
 import { ActivatedRoute } from '@angular/router';
 import { NgClass, NgFor } from '@angular/common';
 @Component({
@@ -13,14 +13,14 @@ export class ProductDetailsComponent implements OnInit{
   prodData:any;
   id!:number;
 
-constructor(private prodserv:ProductService,private route:ActivatedRoute){
+constructor(@Inject(ProductService) private prodserv:ProductService,private route:ActivatedRoute){
 
 }
 ngOnInit(): void {
   this.id=Number(this.route.snapshot.paramMap.get("id"))
- this.prodserv.getProductByID(this.id).subscribe((data)=>{
-  this.prodData=data;
- })
+this.prodserv.getProductByID(this.id).subscribe((data: any) => {
+  this.prodData = data;
+});
 }
 
 rating = 3; // Default rating

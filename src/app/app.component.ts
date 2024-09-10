@@ -4,17 +4,17 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { RouterOutlet } from '@angular/router';
 import { ImageSliderComponent } from './components/image-slider/image-slider.component';
 import { RouterModule, Routes } from '@angular/router'; // تأكد من استيراد RouterModule
-import { HomeComponent } from './home/home.component';
-import { ProductDetailsComponent } from './product-detail/product-details.component'; 
-import { ProductListComponent } from './product-list/product-list.component';
-import { LoginComponent } from './login/login.component';
-import { RegisterComponent } from './register/register.component';
-import { PaymentComponent } from './payment/payment.component';
-import { NavbarComponent } from './navbar/navbar.component';
+import { HomeComponent } from './components/home/home.component';
+import { ProductDetailsComponent } from './components/product-detail/product-details.component'; 
+import { ProductListComponent } from './components/product-list/product-list.component';
+import { LoginComponent } from './components/login/login.component';
+import { RegisterComponent } from './components/register/register.component';
+import { PaymentComponent } from './components/payment/payment.component';
+import { NavbarComponent } from './components/navbar/navbar.component';
 import { IonicModule } from '@ionic/angular';
 import { ProductComponent } from './product/product.component';
-import { FooterComponent } from './footer/footer.component';
-import { CategoryComponent } from './category/category.component';
+import { FooterComponent } from './components/footer/footer.component';
+import { CategoryComponent } from './components/category/category.component';
 import { CategoryListComponent } from './category-list/category-list.component';
 @Component({
   selector: 'app-root',

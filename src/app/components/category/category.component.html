@@ -1,20 +1,18 @@
-<div class="page">
-          
-      <!-- Category List -->
-      <div class="category-list">
-        <div class="row">
-          <div class="col-md-4" *ngFor="let category of categories">
-            <div class="category-card">
-              <img [src]="category.image" class="category-img" alt="Category Image">
-              <div class="category-body">
-                <h5 class="category-title">{{ category.name }}</h5>
-                <p class="category-description">{{ category.description }}</p>
-                <button class="btns" [routerLink]="['/category', category.id]">Explore</button>
-              </div>
-            </div>
+<div class="page container mx-auto">
+
+  <!-- Category List -->
+  <div class="category-list">
+    <div class="row">
+      <div class="col-md-4" *ngFor="let category of categories">
+        <div class="category-card">
+          <img [src]="category.image" class="category-img" alt="Category Image">
+          <div class="category-body">
+            <h5 class="category-title">{{ category.name }}</h5>
+            <p class="category-description">{{ category.description }}</p>
+            <button class="btns" [routerLink]="['/category', category.id]">Explore</button>
           </div>
         </div>
       </div>
     </div>
-
-  
+  </div>
+</div>
