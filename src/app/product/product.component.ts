@@ -1,7 +1,7 @@
 import { Component, NgModule, OnInit } from '@angular/core';
 import { ProductService } from '../services/product.service'; 
 import { NgClass, NgFor } from '@angular/common';
-import { RouterLink, RouterModule } from '@angular/router';
+import { RouterLink,RouterModule } from '@angular/router'; 
 
 
 @Component({
