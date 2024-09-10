@@ -1,0 +1,101 @@
+<!-- <section class="vh-100 bg-custom">
+  <div class="container-fluid h-100">
+    <div class="row h-100 justify-content-center align-items-center">
+      <div class="col-md-8 col-lg-6 col-xl-5">
+        <div class="card shadow-lg border-0 rounded">
+          <div class="card-body p-5">
+            <ng-container *ngIf="isLoginView">
+              <form style="width: 100%;">
+                <h3 class="text-center mb-4 text-light">Log in</h3>
+                <div class="form-outline mb-4">
+                  <input [(ngModel)]="userLogin.email" type="email" class="form-control form-control-lg" placeholder="Email" />
+                </div>
+                <div class="form-outline mb-4">
+                  <input [(ngModel)]="userLogin.password" type="password" class="form-control form-control-lg" placeholder="Password" />
+                </div>
+                <button (click)="onLogin()" class="btn btn-info btn-lg btn-block" type="button">Login</button>
+              </form>
+            </ng-container>
+            <ng-container *ngIf="!isLoginView">
+              <form style="width: 100%;">
+                <h3 class="text-center mb-4 text-light">Register</h3>
+                <div class="form-outline mb-4">
+                  <input [(ngModel)]="userRegisterObj.emailId" type="email" class="form-control form-control-lg" placeholder="Email" />
+                </div>
+                <div class="form-outline mb-4">
+                  <input [(ngModel)]="userRegisterObj.userName" type="text" class="form-control form-control-lg" placeholder="User Name" />
+                </div>
+                <div class="form-outline mb-4">
+                  <input [(ngModel)]="userRegisterObj.password" type="password" class="form-control form-control-lg" placeholder="Password" />
+                </div>
+                <button (click)="onRegister()" class="btn btn-info btn-lg btn-block" type="button">Register</button>
+              </form>
+            </ng-container>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section> -->
+
+
+<section class="vh-100 bg bg-custom">
+  <div class="container-fluid h-100">
+    <div class="row h-100 justify-content-center align-items-center">
+      <div class="col-md-8 col-lg-6 col-xl-5">
+
+
+        <div class="card shadow-lg border-0 rounded">
+          <div class="card-body p-5">
+
+            @if(isLoginView) {
+            <form style="width: 100%;">
+
+              <h3 class="text-center mb-4 text-light">Log in</h3>
+
+              <div data-mdb-input-init class="form-outline mb-4">
+                <input name="userName" [(ngModel)]="userLogin.userName" type="email" id="form2Example18" class="form-control form-control-lg" placeholder="User Name" />
+              </div>
+
+              <div data-mdb-input-init class="form-outline mb-4">
+                <input name="password" [(ngModel)]="userLogin.password" type="password" id="form2Example28" class="form-control form-control-lg" placeholder="Password" />
+              </div>
+
+              <div class="pt-1 mb-4">
+                <button data-mdb-button-init data-mdb-ripple-init (click)="onLogin()" class="btn btn-info btn-lg btn-block" type="button">Login</button>
+              </div>
+
+              <p class="text-center text-dark">Don't have an account? <a class="link-info"class="text text-custom" (click)="isLoginView = false">Register here</a></p>
+
+            </form>
+            } @else {
+            <form style="width: 100%;">
+
+              <h3 class="text-center mb-4 text-light">Register</h3>
+
+              <div data-mdb-input-init class="form-outline mb-4">
+                <input name="emailId" [(ngModel)]="userRegisterObj.emailId" type="email" id="form2Example18" class="form-control form-control-lg" placeholder="Email address" />
+              </div>
+              <div data-mdb-input-init class="form-outline mb-4">
+                <input name="userName" [(ngModel)]="userRegisterObj.userName" type="email" id="form2Example18" class="form-control form-control-lg" placeholder="User Name" />
+              </div>
+
+              <div data-mdb-input-init class="form-outline mb-4">
+                <input name="password" [(ngModel)]="userRegisterObj.password" type="password" id="form2Example28" class="form-control form-control-lg" placeholder="Password" />
+              </div>
+
+              <div class="pt-1 mb-4">
+                <button data-mdb-button-init data-mdb-ripple-init class="btn btn-info btn-lg btn-block" (click)="onRegister()" type="button">Register</button>
+              </div>
+
+              <p class="text-center text-light">Already have an account? <a class="link-info" class="text text-custom" (click)="isLoginView = true">Login here</a></p>
+
+            </form>
+            }
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
