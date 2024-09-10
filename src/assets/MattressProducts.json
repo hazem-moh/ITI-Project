@@ -1,0 +1,597 @@
+[
+    {
+        "id": 1,
+        "title": "Purple RestorePlus Hybrid Mattress",
+        "description": "A hybrid mattress that combines the benefits of Purple's signature GelFlex Grid with responsive coils, providing advanced pressure relief and support for a rejuvenating sleep experience.",
+        "category": "Mattresses",
+        "price": 1299.99,
+        "discountPercentage": 10,
+        "rating": 4.8,
+        "stock": 25,
+        "sku": "PRPHM1299",
+        "weight": "120 lbs",
+        "dimensions": "80 x 60 x 12 inches",
+        "warrantyInformation": "10 years",
+        "shippingInformation": "Free white-glove delivery",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Emily", "comment": "Best sleep I've ever had!", "rating": 5 },
+            { "user": "Mike", "comment": "Great for back pain relief.", "rating": 4.5 }
+        ],
+        "returnPolicy": "100-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Hybrid", "Pressure Relief", "Support"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1680725815-Resize1.png?crop=1.00xw:0.668xh;0,0.313xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1680725815-Resize1.png?crop=1.00xw:0.668xh;0,0.313xh&resize=980:*"
+    },
+    {
+        "id": 2,
+        "title": "Avocado Green Mattress",
+        "description": "An eco-friendly mattress made from organic materials, offering exceptional comfort and support with its latex and innerspring combination, ideal for eco-conscious sleepers.",
+        "category": "Mattresses",
+        "price": 1499.99,
+        "discountPercentage": 15,
+        "rating": 4.9,
+        "stock": 20,
+        "sku": "AVGCM1499",
+        "weight": "130 lbs",
+        "dimensions": "80 x 60 x 11 inches",
+        "warrantyInformation": "25 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Sarah", "comment": "Eco-friendly and extremely comfortable!", "rating": 5 },
+            { "user": "James", "comment": "Worth the investment for a healthier sleep.", "rating": 5 }
+        ],
+        "returnPolicy": "1-year trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Eco-friendly", "Organic", "Latex"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1660765492-avocado-green-mattress-1576090205.jpg?crop=1.00xw:0.671xh;0,0.282xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1660765492-avocado-green-mattress-1576090205.jpg?crop=1.00xw:0.671xh;0,0.282xh&resize=980:*"
+    },
+    {
+        "id": 3,
+        "title": "Bear Elite Hybrid",
+        "description": "A premium hybrid mattress that combines responsive coils with cooling gel foam, providing exceptional support and temperature regulation for an optimal sleep environment.",
+        "category": "Mattresses",
+        "price": 1599.99,
+        "discountPercentage": 20,
+        "rating": 4.7,
+        "stock": 15,
+        "sku": "BEARH1599",
+        "weight": "140 lbs",
+        "dimensions": "80 x 60 x 13 inches",
+        "warrantyInformation": "20 years",
+        "shippingInformation": "Free shipping and setup",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Laura", "comment": "Fantastic support and cooling effect.", "rating": 5 },
+            { "user": "Paul", "comment": "Great for my back pain and sleep quality.", "rating": 4.5 }
+        ],
+        "returnPolicy": "100-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Hybrid", "Cooling", "Support"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1705537204-1693255361-1688138448-1681153819-1679330267-1678474413-elitehybrid-enviro-frontheroedit-2067x1163-b3e93e17-e7bc-450b-aff2-3f6bbea2de24-1440x-640b7c928874c.jpg?crop=0.844xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1705537204-1693255361-1688138448-1681153819-1679330267-1678474413-elitehybrid-enviro-frontheroedit-2067x1163-b3e93e17-e7bc-450b-aff2-3f6bbea2de24-1440x-640b7c928874c.jpg?crop=0.844xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 4,
+        "title": "Casper Original Mattress",
+        "description": "A versatile foam mattress that combines three layers of high-quality foam to provide balanced support and comfort, suitable for all sleep positions.",
+        "category": "Mattresses",
+        "price": 999.99,
+        "discountPercentage": 10,
+        "rating": 4.6,
+        "stock": 30,
+        "sku": "CASP999",
+        "weight": "100 lbs",
+        "dimensions": "80 x 60 x 11 inches",
+        "warrantyInformation": "10 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Alex", "comment": "Comfortable and supportive, perfect for all sleep positions.", "rating": 4.5 },
+            { "user": "Sophia", "comment": "Great mattress for the price.", "rating": 4.6 }
+        ],
+        "returnPolicy": "100-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Foam", "Support", "Comfort"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1683820915-A1P1J2zj21L.jpg?crop=1.00xw:0.669xh;0,0.152xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1683820915-A1P1J2zj21L.jpg?crop=1.00xw:0.669xh;0,0.152xh&resize=980:*"
+    },
+    {
+        "id": 5,
+        "title": "Tuft & Needle Original Mattress",
+        "description": "A high-quality foam mattress known for its durability and supportive comfort, offering a balanced sleep experience at an affordable price.",
+        "category": "Mattresses",
+        "price": 799.99,
+        "discountPercentage": 5,
+        "rating": 4.5,
+        "stock": 40,
+        "sku": "TNN799",
+        "weight": "90 lbs",
+        "dimensions": "80 x 60 x 10 inches",
+        "warrantyInformation": "10 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Rachel", "comment": "Simple yet comfortable, great value.", "rating": 4.5 },
+            { "user": "Tom", "comment": "Good support and comfortable sleep.", "rating": 4.5 }
+        ],
+        "returnPolicy": "100-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Foam", "Affordable", "Support"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1685028215-91LrAGhiGgL.jpg?crop=0.998xw:0.666xh;0,0.332xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1685028215-91LrAGhiGgL.jpg?crop=0.998xw:0.666xh;0,0.332xh&resize=980:*"
+    },
+    {
+        "id": 6,
+        "title": "Stearns & Foster Estate Mattress",
+        "description": "A luxurious mattress that combines premium materials and advanced construction techniques to deliver unparalleled comfort and support.",
+        "category": "Mattresses",
+        "price": 2999.99,
+        "discountPercentage": 15,
+        "rating": 4.9,
+        "stock": 10,
+        "sku": "SF2999",
+        "weight": "150 lbs",
+        "dimensions": "80 x 60 x 14 inches",
+        "warrantyInformation": "10 years",
+        "shippingInformation": "Free white-glove delivery",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Nancy", "comment": "Incredible comfort and support.", "rating": 5 },
+            { "user": "John", "comment": "Expensive but worth every penny.", "rating": 4.9 }
+        ],
+        "returnPolicy": "60-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Luxury", "Support", "Comfort"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1705525309-SF_Shop_Mattresses_Tile_680x450_1.original.original.jpg?crop=0.993xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1705525309-SF_Shop_Mattresses_Tile_680x450_1.original.original.jpg?crop=0.993xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 7,
+        "title": "Helix Dusk Luxe",
+        "description": "A high-end mattress featuring advanced memory foam and pocketed coils for exceptional comfort, support, and pressure relief, ideal for those seeking a luxurious sleep experience.",
+        "category": "Mattresses",
+        "price": 1399.99,
+        "discountPercentage": 12,
+        "rating": 4.8,
+        "stock": 18,
+        "sku": "HDL1399",
+        "weight": "110 lbs",
+        "dimensions": "80 x 60 x 12 inches",
+        "warrantyInformation": "15 years",
+        "shippingInformation": "Free shipping and setup",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Olivia", "comment": "Amazing comfort and support.", "rating": 5 },
+            { "user": "Daniel", "comment": "Best mattress I've ever had.", "rating": 4.5 }
+        ],
+        "returnPolicy": "100-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Luxury", "Memory Foam", "Support"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1705087364-Carousel_-_Mattress_-_Luxe_-_Dusk_-_05_lynnqk.jpg?crop=1.00xw:0.906xh;0,0.0941xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1705087364-Carousel_-_Mattress_-_Luxe_-_Dusk_-_05_lynnqk.jpg?crop=1.00xw:0.906xh;0,0.0941xh&resize=980:*"
+    },
+    {
+        "id": 8,
+        "title": "Nolah Evolution 15",
+        "description": "A versatile mattress offering three layers of foam with enhanced support and cooling features, designed to provide comfort and relief for all types of sleepers.",
+        "category": "Mattresses",
+        "price": 1499.99,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "stock": 22,
+        "sku": "NEV1499",
+        "weight": "120 lbs",
+        "dimensions": "80 x 60 x 15 inches",
+        "warrantyInformation": "15 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Ethan", "comment": "Comfortable and keeps cool throughout the night.", "rating": 4.5 },
+            { "user": "Ava", "comment": "Great mattress for side sleepers.", "rating": 4.7 }
+        ],
+        "returnPolicy": "120-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Foam", "Cooling", "Support"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1600361647-46cc253d-1e32-496b-9468-e9ed04394332_2.32779873fb740d4ecd75294409e3d5b7.jpg"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1600361647-46cc253d-1e32-496b-9468-e9ed04394332_2.32779873fb740d4ecd75294409e3d5b7.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Saatva Classic Mattress",
+        "description": "A luxurious mattress with a classic design, featuring a dual coil-on-coil construction that offers superior support and comfort for a restful night's sleep.",
+        "category": "Mattresses",
+        "price": 1599.99,
+        "discountPercentage": 15,
+        "rating": 4.8,
+        "stock": 12,
+        "sku": "SAAT1599",
+        "weight": "130 lbs",
+        "dimensions": "80 x 60 x 14 inches",
+        "warrantyInformation": "15 years",
+        "shippingInformation": "Free white-glove delivery",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Mia", "comment": "Perfect blend of softness and support.", "rating": 5 },
+            { "user": "Lucas", "comment": "High quality and very comfortable.", "rating": 4.6 }
+        ],
+        "returnPolicy": "180-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Luxury", "Support", "Comfort"] },
+        "images": [
+            "https://hips.hearstapps.com/hmg-prod/images/saatva-1582825208.jpg?crop=1.00xw:0.997xh;0,0&resize=360:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/saatva-1582825208.jpg?crop=1.00xw:0.997xh;0,0&resize=360:*"
+    },
+    {
+        "id": 10,
+        "title": "Sleep Number 360 p6 Smart Bed",
+        "description": "A high-tech mattress featuring adjustable firmness and sleep tracking capabilities to personalize your sleep experience and optimize comfort.",
+        "category": "Mattresses",
+        "price": 2199.99,
+        "discountPercentage": 20,
+        "rating": 4.9,
+        "stock": 8,
+        "sku": "SN3602199",
+        "weight": "160 lbs",
+        "dimensions": "80 x 60 x 12 inches",
+        "warrantyInformation": "15 years",
+        "shippingInformation": "Free white-glove delivery",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Ella", "comment": "Innovative features and great comfort.", "rating": 5 },
+            { "user": "Oliver", "comment": "Perfect for tech-savvy sleepers.", "rating": 4.8 }
+        ],
+        "returnPolicy": "100-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Smart Bed", "Adjustable", "Comfort"] },
+        "images": [
+            "https://hips.hearstapps.com/hmg-prod/images/best-mattresses-65e759730de90.jpg?crop=0.503xw:1.00xh;0,0&resize=360:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/best-mattresses-65e759730de90.jpg?crop=0.503xw:1.00xh;0,0&resize=360:*"
+    },
+    {
+        "id": 11,
+        "title": "Emma Hybrid Comfort",
+        "description": "A hybrid mattress combining memory foam and pocketed coils for optimal support and comfort, designed to cater to all sleep positions and provide a restful sleep experience.",
+        "category": "Mattresses",
+        "price": 1199.99,
+        "discountPercentage": 10,
+        "rating": 4.6,
+        "stock": 28,
+        "sku": "EMHC1199",
+        "weight": "110 lbs",
+        "dimensions": "80 x 60 x 12 inches",
+        "warrantyInformation": "10 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Aiden", "comment": "Comfortable and supportive.", "rating": 4.5 },
+            { "user": "Sophia", "comment": "Good value for the price.", "rating": 4.7 }
+        ],
+        "returnPolicy": "100-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Hybrid", "Memory Foam", "Comfort"] },
+        "images": [
+            "https://i5.walmartimages.com/asr/d30ce8ed-f789-4947-9c5b-3431e7b1d06f.3fb22f86de67e7bd62831bf4c37f0f87.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF"
+        ],
+        "thumbnail": "https://i5.walmartimages.com/asr/d30ce8ed-f789-4947-9c5b-3431e7b1d06f.3fb22f86de67e7bd62831bf4c37f0f87.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF"
+    },
+    {
+        "id": 12,
+        "title": "Nolah Evolution 15",
+        "description": "A hybrid mattress with advanced cooling technology and durable support layers for optimal sleep.",
+        "category": "Mattresses",
+        "price": 1799.99,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "stock": 14,
+        "sku": "NE15",
+        "weight": "130 lbs",
+        "dimensions": "80 x 60 x 15 inches",
+        "warrantyInformation": "15 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Emma", "comment": "Super comfortable and great for side sleepers.", "rating": 4.8 },
+            { "user": "Jacob", "comment": "Excellent cooling and support.", "rating": 4.6 }
+        ],
+        "returnPolicy": "120-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Hybrid", "Cooling", "Support"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1701873972-image.jpg?crop=0.998xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1701873972-image.jpg?crop=0.998xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 13,
+        "title": "Saatva Classic Mattress",
+        "description": "A luxury innerspring mattress with three firmness levels and a plush pillow top for ultimate comfort.",
+        "category": "Mattresses",
+        "price": 1099.99,
+        "discountPercentage": 12,
+        "rating": 4.8,
+        "stock": 22,
+        "sku": "SCM1099",
+        "weight": "125 lbs",
+        "dimensions": "80 x 76 x 11.5 inches",
+        "warrantyInformation": "15 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Olivia", "comment": "Very comfortable, love the pillow top.", "rating": 4.9 },
+            { "user": "Ethan", "comment": "Great mattress but a bit firm.", "rating": 4.7 }
+        ],
+        "returnPolicy": "180-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Innerspring", "Luxury", "Comfort"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1679329498-topper1_1.original.jpg?crop=0.818xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1679329498-topper1_1.original.jpg?crop=0.818xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 14,
+        "title": "Sleep Hybrid",
+        "description": "A smart bed with adjustable firmness, sleep tracking, and personalized comfort settings.",
+        "category": "Mattresses",
+        "price": 2399.99,
+        "discountPercentage": 8,
+        "rating": 4.9,
+        "stock": 10,
+        "sku": "SN360P6",
+        "weight": "150 lbs",
+        "dimensions": "80 x 60 x 12 inches",
+        "warrantyInformation": "15 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Sophia", "comment": "Excellent features, very comfortable.", "rating": 5.0 },
+            { "user": "Mason", "comment": "High-tech and supportive.", "rating": 4.8 }
+        ],
+        "returnPolicy": "100-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Smart", "Adjustable", "Technology"] },
+        "images": [
+         "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1709837920-puffy-lux-hybrid-1x1-65ea0bd6715ad.jpg?crop=0.751xw:1.00xh;0.0391xw,0&resize=980:*"        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1709837920-puffy-lux-hybrid-1x1-65ea0bd6715ad.jpg?crop=0.751xw:1.00xh;0.0391xw,0&resize=980:*"
+    },
+    {
+        "id": 15,
+        "title": "Emma Hybrid Comfort",
+        "description": "A hybrid mattress featuring a combination of foam and coils for enhanced comfort and support.",
+        "category": "Mattresses",
+        "price": 999.99,
+        "discountPercentage": 10,
+        "rating": 4.6,
+        "stock": 17,
+        "sku": "EHC999",
+        "weight": "110 lbs",
+        "dimensions": "80 x 60 x 12 inches",
+        "warrantyInformation": "10 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Isabella", "comment": "Comfortable with good support.", "rating": 4.7 },
+            { "user": "Daniel", "comment": "Great for side sleepers.", "rating": 4.5 }
+        ],
+        "returnPolicy": "100-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Hybrid", "Comfort", "Support"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1625601400-p6_Front.jpg?crop=0.844xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1625601400-p6_Front.jpg?crop=0.844xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 16,
+        "title": "comfort Mattress",
+        "description": "A mattress with a hyper-elastic polymer grid designed for pressure relief and support.",
+        "category": "Mattresses",
+        "price": 899.99,
+        "discountPercentage": 15,
+        "rating": 4.5,
+        "stock": 20,
+        "sku": "PM899",
+        "weight": "110 lbs",
+        "dimensions": "80 x 60 x 9.5 inches",
+        "warrantyInformation": "10 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Liam", "comment": "Unique feel, great support.", "rating": 4.6 },
+            { "user": "Mia", "comment": "Comfortable but a bit firm.", "rating": 4.4 }
+        ],
+        "returnPolicy": "100-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Hybrid", "Support", "Pressure Relief"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1624995596-51EK9F5USUL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1624995596-51EK9F5USUL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 17,
+        "title": "Bear Mattress",
+        "description": "A memory foam mattress designed for athletes with cooling technology and pressure relief.",
+        "category": "Mattresses",
+        "price": 799.99,
+        "discountPercentage": 10,
+        "rating": 4.4,
+        "stock": 25,
+        "sku": "BM799",
+        "weight": "85 lbs",
+        "dimensions": "80 x 60 x 10 inches",
+        "warrantyInformation": "10 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Ava", "comment": "Comfortable and cooling.", "rating": 4.5 },
+            { "user": "Ethan", "comment": "Good value for the price.", "rating": 4.3 }
+        ],
+        "returnPolicy": "100-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Foam", "Cooling", "Comfort"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700152147-image.jpg?crop=0.609xw:0.812xh;0.189xw,0.130xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1700152147-image.jpg?crop=0.609xw:0.812xh;0.189xw,0.130xh&resize=980:*"
+    },
+    {
+        "id": 18,
+        "title": "Loom & Leaf Mattress",
+        "description": "A luxury memory foam mattress with high-density foam and cooling gel for comfort and support.",
+        "category": "Mattresses",
+        "price": 1299.99,
+        "discountPercentage": 12,
+        "rating": 4.7,
+        "stock": 15,
+        "sku": "LL1299",
+        "weight": "115 lbs",
+        "dimensions": "80 x 60 x 12 inches",
+        "warrantyInformation": "15 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Sophia", "comment": "Exceptional comfort and cooling.", "rating": 4.8 },
+            { "user": "Noah", "comment": "Great mattress but a bit heavy.", "rating": 4.6 }
+        ],
+        "returnPolicy": "120-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Memory Foam", "Luxury", "Cooling"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1651078254-Helix-Photo-Lifestyle-Mattress-LUXE-Dusk_resize_1728x.jpg?crop=0.723xw:1.00xh;0.115xw,0&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1651078254-Helix-Photo-Lifestyle-Mattress-LUXE-Dusk_resize_1728x.jpg?crop=0.723xw:1.00xh;0.115xw,0&resize=980:*"
+    },
+    {
+        "id": 19,
+        "title": "Avocado Green Mattress",
+        "description": "An eco-friendly mattress made with organic materials and natural latex for sustainable comfort.",
+        "category": "Mattresses",
+        "price": 1399.99,
+        "discountPercentage": 10,
+        "rating": 4.6,
+        "stock": 12,
+        "sku": "AGM1399",
+        "weight": "125 lbs",
+        "dimensions": "80 x 60 x 11 inches",
+        "warrantyInformation": "25 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Emma", "comment": "Great for eco-conscious consumers.", "rating": 4.7 },
+            { "user": "Liam", "comment": "Comfortable and sustainable.", "rating": 4.5 }
+        ],
+        "returnPolicy": "100-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Eco-Friendly", "Organic", "Natural Latex"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1709866977-helix-sunset-luxe-65ea7fb8741c2.jpg?crop=0.460xw:1.00xh;0.268xw,0&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1709866977-helix-sunset-luxe-65ea7fb8741c2.jpg?crop=0.460xw:1.00xh;0.268xw,0&resize=980:*"
+    },
+    {
+        "id": 20,
+        "title": "Nectar Memory Foam Mattress",
+        "description": "A memory foam mattress offering excellent pressure relief and support with a breathable cover.",
+        "category": "Mattresses",
+        "price": 799.99,
+        "discountPercentage": 15,
+        "rating": 4.5,
+        "stock": 30,
+        "sku": "NM799",
+        "weight": "90 lbs",
+        "dimensions": "80 x 60 x 11 inches",
+        "warrantyInformation": "Lifetime",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Mia", "comment": "Very comfortable and supportive.", "rating": 4.6 },
+            { "user": "Oliver", "comment": "Great value for the price.", "rating": 4.4 }
+        ],
+        "returnPolicy": "365-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Memory Foam", "Support", "Pressure Relief"] },
+        "images": [
+            "https://hips.hearstapps.com/hmg-prod/images/tcloud-bed-1669667627.jpg?crop=0.845xw:0.422xh;0,0.379xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/tcloud-bed-1669667627.jpg?crop=0.845xw:0.422xh;0,0.379xh&resize=980:*"
+    },
+    {
+        "id": 21,
+        "title": "Bear Hybrid Mattress",
+        "description": "A hybrid mattress with a combination of foam and coils designed for optimal comfort and cooling.",
+        "category": "Mattresses",
+        "price": 1199.99,
+        "discountPercentage": 10,
+        "rating": 4.6,
+        "stock": 19,
+        "sku": "BH1199",
+        "weight": "115 lbs",
+        "dimensions": "80 x 60 x 12 inches",
+        "warrantyInformation": "20 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Sophia", "comment": "Comfortable and supportive.", "rating": 4.7 },
+            { "user": "Ethan", "comment": "Good hybrid mattress.", "rating": 4.5 }
+        ],
+        "returnPolicy": "100-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Hybrid", "Cooling", "Comfort"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1716067522-51QwPyAxnTL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1716067522-51QwPyAxnTL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 22,
+        "title": "Helix Midnight Luxe",
+        "description": "A luxury mattress with plush foam and coil layers designed for deep sleep and pressure relief.",
+        "category": "Mattresses",
+        "price": 1399.99,
+        "discountPercentage": 8,
+        "rating": 4.7,
+        "stock": 16,
+        "sku": "HML1399",
+        "weight": "120 lbs",
+        "dimensions": "80 x 60 x 14 inches",
+        "warrantyInformation": "15 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Isabella", "comment": "Very plush and comfortable.", "rating": 4.8 },
+            { "user": "Liam", "comment": "Great for side sleepers.", "rating": 4.6 }
+        ],
+        "returnPolicy": "100-night trial",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Luxury", "Plush", "Pressure Relief"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1711682539-lux-01--updated.jpg?crop=0.748xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1711682539-lux-01--updated.jpg?crop=0.748xw:1xh;center,top&resize=980:*"
+    }
+
+
+]

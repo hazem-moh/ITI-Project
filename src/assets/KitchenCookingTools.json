@@ -1,0 +1,466 @@
+[
+    {
+        "id": 1,
+        "title": "Williams Sonoma Ceramic Nonstick 11-Piece Cookware Set",
+        "description": "A premium 11-piece cookware set featuring ceramic nonstick surfaces for easy cooking and cleaning.",
+        "category": "kitchen",
+        "price": 399.95,
+        "discountPercentage": 5.00,
+        "rating": 4.8,
+        "stock": 25,
+        "tags": ["cookware", "ceramic", "nonstick"],
+        "sku": "WSCN11",
+        "weight": 15.3,
+        "dimensions": { "width": 22.0, "height": 13.5, "depth": 10.0 },
+        "warrantyInformation": "Lifetime warranty",
+        "shippingInformation": "Ships in 2-3 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {"user": "Alice Johnson","comment": "Amazing quality, worth the price!","rating" :5},
+            {"reviewerName": "Bob Smith","comment": "Great set, but a bit heavy.","rating": 4}
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+       "meta": { "tags": ["Food Dehydrator", "Electric", "Excalibur"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1705942851-screenshot-2024-01-22-at-11-59-00-am-65ae9edd3be2a.png?crop=0.941xw:0.972xh;0.0465xw,0.0281xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1705942851-screenshot-2024-01-22-at-11-59-00-am-65ae9edd3be2a.png?crop=0.941xw:0.972xh;0.0465xw,0.0281xh&resize=200:*"
+    },
+    {
+        "id": 2,
+        "title": "OXO Professional Hard Anodized Cookware Set",
+        "description": "Durable hard-anodized cookware set from OXO, designed for professional-grade cooking.",
+        "category": "kitchen",
+        "price": 299.95,
+        "discountPercentage": 10.00,
+        "rating": 4.6,
+        "stock": 40,
+        "tags": ["cookware", "hard-anodized", "nonstick"],
+        "sku": "OXOHD12",
+        "weight": 13.7,
+        "dimensions": { "width": 20.5, "height": 12.0, "depth": 9.5 },
+        "warrantyInformation": "10 years warranty",
+        "shippingInformation": "Ships in 2-4 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {"user": "Charlie Davis","comment": "Fantastic set, cooks evenly!","rating": 5  },
+            {"user": "Dana Lee","comment": "Good quality, but the handles get hot.","rating": 4}
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Food Dehydrator", "Electric", "Excalibur"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1705941888-71r7YV4OZvL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1705941888-71r7YV4OZvL.jpg?crop=1xw:1.00xh;center,top&resize=200:*"
+    },
+    {
+        "id": 3,
+        "title": "Caraway Ceramic Cookware Set",
+        "description": "Eco-friendly ceramic cookware set by Caraway, designed for healthy, non-toxic cooking.",
+        "category": "kitchen",
+        "price": 395.00,
+        "discountPercentage": 7.50,
+        "rating": 4.7,
+        "stock": 30,
+        "tags": ["cookware", "ceramic", "non-toxic"],
+        "sku": "CARA11",
+        "weight": 14.2,
+        "dimensions": { "width": 21.0, "height": 13.0, "depth": 9.8 },
+        "warrantyInformation": "2 years warranty",
+        "shippingInformation": "Ships in 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {"user": "Emily Thompson","comment": "Beautiful and functional!","rating": 5},
+            {"user": "Frank Miller","comment": "Great set, but a bit pricey.","rating": 4}
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+       "meta": { "tags": ["Food Dehydrator", "Electric", "Excalibur"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1574865483-gh-ceramic-cookware-2-1574865468.png?crop=1.00xw:0.975xh;0,0.0250xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1574865483-gh-ceramic-cookware-2-1574865468.png?crop=1.00xw:0.975xh;0,0.0250xh&resize=200:*"
+    },
+    {
+        "id": 4,
+        "title": "Farberware EcoAdvantage Ceramic Nonstick Cookware Set",
+        "description": "Farberware's eco-friendly cookware set made with ceramic nonstick surfaces, ideal for sustainable cooking.",
+        "category": "kitchen",
+        "price": 149.99,
+        "discountPercentage": 12.00,
+        "rating": 4.4,
+        "stock": 50,
+        "tags": ["cookware", "ceramic", "eco-friendly"],
+        "sku": "FARBCS12",
+        "weight": 12.5,
+        "dimensions": { "width": 19.5, "height": 11.5, "depth": 8.0 },
+        "warrantyInformation": "5 years warranty",
+        "shippingInformation": "Ships in 2-4 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Grace Wilson", "comment": "Good value for the price.", "rating": 4},
+            { "user": "Henry Adams","comment": "Nonstick works well, but needs care.","rating": 4}
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Food Dehydrator", "Electric", "Excalibur"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1722439188-71JptsIBH0L.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1722439188-71JptsIBH0L.jpg?crop=1xw:1.00xh;center,top&resize=200:*"
+    },
+    {
+        "id": 5,
+        "title": "GreenPan Valencia Pro Hard Anodized Healthy Ceramic Nonstick 16 Piece Cookware Set",
+        "description": "Comprehensive 16-piece cookware set from GreenPan, featuring healthy ceramic nonstick surfaces.",
+        "category": "kitchen",
+        "price": 499.95,
+        "discountPercentage": 8.50,
+        "rating": 4.9,
+        "stock": 20,
+        "tags": ["cookware", "ceramic", "healthy"],
+        "sku": "GPPRO16",
+        "weight": 18.0,
+        "dimensions": { "width": 23.0, "height": 14.0, "depth": 10.5 },
+        "warrantyInformation": "Lifetime warranty",
+        "shippingInformation": "Ships in 2-3 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {"user": "Ivy Evans","comment": "Best cookware set I've ever owned!","rating": 5},
+            {"user": "Jack Williams","comment": "High quality and easy to clean.","rating": 5}
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+       "meta": { "tags": ["Food Dehydrator", "Electric", "Excalibur"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1722441636-41KupIdbFML._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1722441636-41KupIdbFML._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=200:*"
+    },
+    {
+        "id": 6,
+        "title": "Excalibur 9-Tray Electric Food Dehydrator",
+        "description": "A premium 9-tray electric food dehydrator for efficient drying of fruits, vegetables, and more.",
+        "category": "Kitchen Appliances",
+        "price": 249.95,
+        "discountPercentage": 10,
+        "rating": 4.8,
+        "stock": 12,
+        "sku": "EXC9TRAY",
+        "weight": "22 lbs",
+        "dimensions": { "width": 17.0, "height": 19.0, "depth": 12.5 },
+        "warrantyInformation": "10 years",
+        "shippingInformation": "Ships in 1-2 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Sophia", "comment": "Excellent dehydrator, very spacious.", "rating": 4.9 },
+            { "user": "Liam", "comment": "High quality and durable.", "rating": 4.8 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Food Dehydrator", "Electric", "Excalibur"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1576162756-41YKnzs-XL.jpg?crop=0.850xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1576162756-41YKnzs-XL.jpg?crop=0.850xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 7,
+        "title": "Nesco Snackmaster Pro",
+        "description": "A compact and versatile food dehydrator perfect for making snacks at home.",
+        "category": "Kitchen Appliances",
+        "price": 79.99,
+        "discountPercentage": 5,
+        "rating": 4.6,
+        "stock": 15,
+        "sku": "NSP001",
+        "weight": "6.5 lbs",
+        "dimensions": { "width": 13.0, "height": 10.0, "depth": 13.0 },
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Ships in 2-3 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Olivia", "comment": "Great for small batches.", "rating": 4.5 },
+            { "user": "Noah", "comment": "Compact and efficient.", "rating": 4.7 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Food Dehydrator", "Nesco", "Snackmaster"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1576162605-41r7i4OKQJL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1576162605-41r7i4OKQJL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 8,
+        "title": "Hamilton Beach Digital Food Dehydrator",
+        "description": "A user-friendly digital food dehydrator with adjustable temperature settings.",
+        "category": "Kitchen Appliances",
+        "price": 69.99,
+        "discountPercentage": 7,
+        "rating": 4.4,
+        "stock": 20,
+        "sku": "HBD1234",
+        "weight": "8 lbs",
+        "dimensions": { "width": 10.5, "height": 11.0, "depth": 12.0 },
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Ships in 2-3 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Emma", "comment": "Easy to use and clean.", "rating": 4.4 },
+            { "user": "James", "comment": "Affordable and reliable.", "rating": 4.5 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Food Dehydrator", "Hamilton Beach", "Digital"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1576162233-41m1NYf0ImL.jpg?crop=1.00xw:0.804xh;0,0.104xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1576162233-41m1NYf0ImL.jpg?crop=1.00xw:0.804xh;0,0.104xh&resize=980:*"
+    },
+    {
+        "id": 9,
+        "title": "Tribest Sedona Combo Electric Food Dehydrator",
+        "description": "A versatile and high-capacity food dehydrator with multiple settings.",
+        "category": "Kitchen Appliances",
+        "price": 399.95,
+        "discountPercentage": 12,
+        "rating": 4.7,
+        "stock": 10,
+        "sku": "TSC002",
+        "weight": "15 lbs",
+        "dimensions": { "width": 17.5, "height": 14.0, "depth": 13.0 },
+        "warrantyInformation": "5 years",
+        "shippingInformation": "Ships in 1-2 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Mia", "comment": "Excellent capacity and features.", "rating": 4.7 },
+            { "user": "Alexander", "comment": "Worth the price.", "rating": 4.8 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Food Dehydrator", "Electric", "Tribest"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1674672266-51MRVsIowqL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1674672266-51MRVsIowqL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+ {
+        "id": 10,
+        "title": "Presto Dehydro Digital Electric Food Dehydrator",
+        "description": "A compact and efficient digital electric food dehydrator for home use.",
+        "category": "Kitchen Appliances",
+        "price": 89.99,
+        "discountPercentage": 6,
+        "rating": 4.5,
+        "stock": 25,
+        "sku": "PDD001",
+        "weight": "7.5 lbs",
+        "dimensions": { "width": 15.0, "height": 14.5, "depth": 10.5 },
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Ships in 2-3 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Amelia", "comment": "Great for small batches and easy to store.", "rating": 4.6 },
+            { "user": "Jackson", "comment": "Compact and works efficiently.", "rating": 4.4 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Food Dehydrator", "Presto", "Digital"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1674672517-41FupCVU9UL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1674672517-41FupCVU9UL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 11,
+        "title": "Excalibur Electric Food Dehydrator",
+        "description": "A robust and high-capacity electric food dehydrator with multiple trays for efficient drying.",
+        "category": "Kitchen Appliances",
+        "price": 229.99,
+        "discountPercentage": 9,
+        "rating": 4.7,
+        "stock": 10,
+        "sku": "EFD002",
+        "weight": "21 lbs",
+        "dimensions": { "width": 19.0, "height": 17.0, "depth": 12.5 },
+        "warrantyInformation": "10 years",
+        "shippingInformation": "Ships in 1-2 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Ava", "comment": "Very spacious and easy to use.", "rating": 4.8 },
+            { "user": "Mason", "comment": "Excellent quality and performance.", "rating": 4.6 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Food Dehydrator", "Electric", "Excalibur"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1723581912-91cM0mswm-L.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1723581912-91cM0mswm-L.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 12,
+        "title": "COSORI Premium Dehydrator",
+        "description": "A sleek and modern food dehydrator with adjustable temperature settings and multiple trays.",
+        "category": "Kitchen Appliances",
+        "price": 159.99,
+        "discountPercentage": 7,
+        "rating": 4.6,
+        "stock": 15,
+        "sku": "CPD003",
+        "weight": "13 lbs",
+        "dimensions": { "width": 17.0, "height": 13.5, "depth": 12.0 },
+        "warrantyInformation": "2 years",
+        "shippingInformation": "Ships in 1-2 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Sophia", "comment": "Stylish and works great for various foods.", "rating": 4.7 },
+            { "user": "William", "comment": "Efficient and easy to clean.", "rating": 4.5 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Food Dehydrator", "COSORI", "Premium"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1624293437-51KRgtJTLqL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1624293437-51KRgtJTLqL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 13,
+        "title": "Tribest Sedona Express",
+        "description": "A high-performance food dehydrator with fast drying times and precision temperature control.",
+        "category": "Kitchen Appliances",
+        "price": 349.95,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "stock": 8,
+        "sku": "TSE004",
+        "weight": "15.5 lbs",
+        "dimensions": { "width": 16.5, "height": 12.0, "depth": 14.0 },
+        "warrantyInformation": "5 years",
+        "shippingInformation": "Ships in 1-2 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Emily", "comment": "Quick drying and very precise.", "rating": 4.8 },
+            { "user": "Lucas", "comment": "Highly recommended for serious users.", "rating": 4.7 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Food Dehydrator", "Tribest", "Sedona Express"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1576102776-519sWqPpycL.jpg?crop=0.978xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1576102776-519sWqPpycL.jpg?crop=0.978xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 14,
+        "title": "OXO Good Grips Silicone Baking Mat",
+        "description": "A durable, non-stick silicone baking mat perfect for consistent baking results.",
+        "category": "Kitchen Accessories",
+        "price": 19.99,
+        "discountPercentage": 5,
+        "rating": 4.8,
+        "stock": 30,
+        "sku": "OGG001",
+        "weight": "1 lb",
+        "dimensions": { "width": 11.5, "height": 16.5, "depth": 0.1 },
+        "warrantyInformation": "Lifetime warranty",
+        "shippingInformation": "Ships in 1-2 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Oliver", "comment": "Works great and cleans easily.", "rating": 4.9 },
+            { "user": "Sophia", "comment": "Very durable and non-stick.", "rating": 4.8 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Baking Mat", "Silicone", "OXO Good Grips"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1720562280-41GMFMMxL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1720562280-41GMFMMxL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 15,
+        "title": "Kitzini Silicone Baking Mat Set",
+        "description": "A set of premium silicone baking mats that provide a non-stick surface for all your baking needs.",
+        "category": "Kitchen Accessories",
+        "price": 24.99,
+        "discountPercentage": 7,
+        "rating": 4.7,
+        "stock": 20,
+        "sku": "KSB001",
+        "weight": "1.2 lbs",
+        "dimensions": { "width": 12.0, "height": 17.0, "depth": 0.1 },
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Ships in 2-3 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Liam", "comment": "Perfect for baking and easy to clean.", "rating": 4.7 },
+            { "user": "Emma", "comment": "Love the set, very versatile.", "rating": 4.6 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Baking Mat", "Silicone", "Kitzini"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1720562124-51vNbgfMNXL._SL500_.jpg?crop=1.00xw:0.802xh;0,0.198xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1720562124-51vNbgfMNXL._SL500_.jpg?crop=1.00xw:0.802xh;0,0.198xh&resize=980:*"
+    },
+    {
+        "id": 16,
+        "title": "Amazon Basics Silicone Non-Stick Baking Mat",
+        "description": "A reliable non-stick silicone baking mat that ensures easy release of baked goods.",
+        "category": "Kitchen Accessories",
+        "price": 14.99,
+        "discountPercentage": 10,
+        "rating": 4.6,
+        "stock": 50,
+        "sku": "ABS001",
+        "weight": "0.8 lbs",
+        "dimensions": { "width": 11.6, "height": 16.6, "depth": 0.1 },
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Ships in 1-2 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "Noah", "comment": "Affordable and works well.", "rating": 4.6 },
+            { "user": "Ava", "comment": "Great value for the price.", "rating": 4.5 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Baking Mat", "Silicone", "Amazon Basics"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1711538606-91LjzCLgLPL.jpg?crop=0.671xw:1.00xh;0,0&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1711538606-91LjzCLgLPL.jpg?crop=0.671xw:1.00xh;0,0&resize=980:*"
+    },
+    {
+        "id": 17,
+        "title": "Silpat Premium Non-Stick Silicone Baking Mat",
+        "description": "A top-quality non-stick silicone baking mat known for its durability and performance.",
+        "category": "Kitchen Accessories",
+        "price": 29.99,
+        "discountPercentage": 5,
+        "rating": 4.9,
+        "stock": 15,
+        "sku": "SPM001",
+        "weight": "1 lb",
+        "dimensions": { "width": 11.6, "height": 16.5, "depth": 0.1 },
+        "warrantyInformation": "2 years",
+        "shippingInformation": "Ships in 1-2 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            { "user": "William", "comment": "The best baking mat I've used.", "rating": 4.9 },
+            { "user": "Mia", "comment": "Worth the price for the quality.", "rating": 4.8 }
+        ],
+        "returnPolicy": "30-day return policy",
+        "minimumOrderQuantity": 1,
+        "meta": { "tags": ["Baking Mat", "Silicone", "Silpat"] },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1720533409-81eWDkHY-sL.jpg?crop=0.595xw:0.892xh;0.208xw,0.0938xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1720533409-81eWDkHY-sL.jpg?crop=0.595xw:0.892xh;0.208xw,0.0938xh&resize=980:*"
+    }
+]
