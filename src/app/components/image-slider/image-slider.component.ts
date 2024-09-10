@@ -11,7 +11,7 @@ import { faArrowRight, faArrowLeft } from '@fortawesome/free-solid-svg-icons';
   styleUrl: './image-slider.component.scss',
 })
 export class ImageSliderComponent implements OnInit {
-  @Input() slides: any[] = [];
+  @Input() slides: { url: string, link: string }[] = [];
   @Input() indicatorsVisible = true;
   @Input() animationSpeed = 500;
   @Input() autoPlay = false;

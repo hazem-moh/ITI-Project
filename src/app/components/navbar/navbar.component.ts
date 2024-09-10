@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { Router } from '@angular/router';
 import { RouterModule } from '@angular/router';
-import { Product } from '../product.model';
+import { Product } from '../../models/product.model';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
 @Component({
@@ -52,4 +52,5 @@ export class NavbarComponent {
     toggleMenu(): void {
       this.isMenuOpen = !this.isMenuOpen;
     }
+    
   }
