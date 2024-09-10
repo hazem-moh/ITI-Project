@@ -10,10 +10,10 @@ const Product = require("./Modules/Product/product.route.js");
 const addRatingAndReview = require("./Modules/Rating/rating.route.js");
 const cartRouts = require("./Modules/Cart/cart.route.js");
 const Order = require("./Modules/Order/order.route.js");
-const auth = require("./Modules/Auth/auth.route.js");
+const auth = require("./Modules/Auth/auth.routes.js");
 const app = express();
 
-const URL = "mongodb://localhost:27017/E-commerce";
+const URL = "mongodb+srv://amany:uVPPJrUv66kKjXyG@cluster0.ptd1n.mongodb.net/Products";
 
 dotenv.config();
 const PORT = process.env.PORT || 3000;
@@ -51,8 +51,3 @@ mongoose
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
-
-
-//http://localhost:3000/auth/signup
-//http://localhost:3000/auth/login
-//http://localhost:3000/auth/logout
