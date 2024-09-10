@@ -2,7 +2,7 @@ const express = require("express");
 const cors = require("cors");
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
-const userRoute = require("./Modules/User/user.route.js");
+const cookieParser = require("cookie-parser");
 const Categories = require("./Modules/Category/category.route.js");
 const subCategories = require("./Modules/SubCategory/subCategory.route.js");
 const Brand = require("./Modules/Brand/brand.route.js");
@@ -10,17 +10,17 @@ const Product = require("./Modules/Product/product.route.js");
 const addRatingAndReview = require("./Modules/Rating/rating.route.js");
 const cartRouts = require("./Modules/Cart/cart.route.js");
 const Order = require("./Modules/Order/order.route.js");
+const auth = require("./Modules/Auth/auth.route.js");
 const app = express();
- 
-const URL = "mongodb+srv://amany:uVPPJrUv66kKjXyG@cluster0.ptd1n.mongodb.net/Products";
 
+const URL = "mongodb://localhost:27017/E-commerce";
 
 dotenv.config();
 const PORT = process.env.PORT || 3000;
 
 app.use(cors());
 app.use(express.json());
-
+app.use(cookieParser());
 /** Routes */
 app.use("/cart", cartRouts);
 app.use("/order", Order);
@@ -29,8 +29,16 @@ app.use("/subcategory", subCategories);
 app.use("/brand", Brand);
 app.use("/product", Product);
 app.use("/rate", addRatingAndReview);
-app.use("/user", userRoute);
+app.use("/auth", auth);
+app.all("*", (req, res, next) =>
+  res.status(404).json({ message: "404 Not Found URL" })
+);
 
+app.use((err, req, res, next) => {
+  if (err) {
+    return res.status(err["cause"] || 500).json({ message: err.message });
+  }
+});
 mongoose
   .connect(URL)
   .then(() => {
@@ -43,3 +51,8 @@ mongoose
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
+
+
+//http://localhost:3000/auth/signup
+//http://localhost:3000/auth/login
+//http://localhost:3000/auth/logout

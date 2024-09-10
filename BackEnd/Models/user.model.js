@@ -63,6 +63,7 @@ const userSchema = new Schema(
     age: Number,
     token: String,
     forgetCode: String,
+    token: String,
   },
   { timestamps: true }
 );

@@ -183,7 +183,7 @@ img,p{margin:0;Margin:0;font-family:Lato,BlinkMacSystemFont,Segoe UI,Helvetica N
 <table class="t14" role="presentation" cellpadding="0" cellspacing="0" style="Margin-right:auto;">
 <tr>
     <td class="t13" style="background-color:#000000;overflow:hidden;width:105px;text-align:center;line-height:34px;mso-line-height-rule:exactly;mso-text-raise:6px;border-radius:40px 40px 40px 40px;">
-        <a href="http://localhost:3000" style="display:block;text-decoration:none;">
+        <a href=${link} style="display:block;text-decoration:none;">
             <span class="t11" style="display:block;margin:0;Margin:0;font-family:Inter Tight,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif;line-height:34px;font-weight:900;font-style:normal;font-size:13px;text-decoration:none;text-transform:uppercase;direction:ltr;color:#FFFFFF;text-align:center;mso-line-height-rule:exactly;mso-text-raise:6px;">Confirm</span>
         </a>
     </td>
@@ -324,6 +324,3 @@ img,p{margin:0;Margin:0;font-family:Lato,BlinkMacSystemFont,Segoe UI,Helvetica N
 </html>`;
 };
 module.exports = emailTemplate;
-
-
-

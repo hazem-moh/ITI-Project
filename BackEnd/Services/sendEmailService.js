@@ -14,17 +14,17 @@ module.exports = async function sendEmailService({
   const transporter = nodemailer.createTransport({
     service: "gmail",
     auth: {
-      user: `${process.env.EMAIL}`,
+      user: `${ process.env.EMAIL }`,
       pass: `${process.env.PASSWORD}`,
     },
   });
 
   try {
     const emailInfo = await transporter.sendMail({
-      from: `"HOME SHOPPING 🛒"  ${ process.env.EMAIL }`,
+      from: `"HOME SHOPPING 🛒"  ${process.env.EMAIL}`,
       to: to,
-      subject: subject || "Hello", 
-      html: message || "", 
+      subject: subject || "Hello",
+      html: message || "",
       attachments,
     });
 
