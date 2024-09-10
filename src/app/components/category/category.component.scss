@@ -1,0 +1,29 @@
+.btn {
+    background-color: #007bff; /* Blue background */
+    color: #ffffff; /* White text */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 6px 12px; /* Padding for size */
+    font-size: 14px; /* Font size */
+    font-weight: 500; /* Bold text */
+    text-transform: uppercase; /* Uppercase text */
+    cursor: pointer; /* Pointer cursor */
+    transition: background-color 0.3s ease; /* Smooth transition on hover */
+  }
+  
+  /* Hover state */
+  .btn:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  
+  /* Active state */
+  .btn:active {
+    background-color: #004080; /* Even darker blue when pressed */
+  }
+  
+  /* Disabled state */
+  .btn:disabled {
+    background-color: #b3d7ff; /* Lighter blue when disabled */
+    cursor: not-allowed; /* Show not-allowed cursor */
+    opacity: 0.6; /* Make it look disabled */
+  }

@@ -1,0 +1,116 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+
+<div class="row">
+    <div class="col-5 mx-auto">
+        <div class="card">
+          <img [src]="prodData.images" 
+          class="card-img-top"
+           alt="...">           
+           <hr> 
+          <div class="card-title">
+            <p class=" card-title" >{{prodData.title}}</p>
+            <hr>
+         </div>
+
+         <h3 class="display-1">Details :</h3>
+        <p class="card-text">Dimensions : {{prodData.dimensions}}</p>
+        <p class="card-text">Weight : {{prodData.weight}}</p>        
+        <p class="card-text">Shipping : {{prodData.shippingInformation}}</p>
+        <p class="card-text">Availability Status : {{prodData.availabilityStatus}}</p> 
+        <p class="card-text">Warranty : {{prodData.warrantyInformation}}</p>
+        <p class="card-text">Return Time : {{prodData.returnPolicy}}</p>
+      
+
+
+         
+        
+      <ul class="list-group list-group-flush">
+        <h3 class="display-1"> Price Details :</h3>
+            <li class="list-group-item" style="line-height: 35px;">                         
+              @if (prodData.discountPercentage >15) {
+                <span  style="background: linear-gradient(106deg, #7600AD 6.13%, #E530E2 39.14%, #D3259C 72.85%, #E67D19 100.31%);
+                background-clip: text;
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                font-size: 30px;"
+                >
+                PRICE: {{prodData.price}} $    <br> 
+                </span>
+
+                <span  style="background: linear-gradient(106deg, #7600AD 6.13%, #E530E2 39.14%, #D3259C 72.85%, #E67D19 100.31%);
+                background-clip: text;
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent ;
+                font-size: 30px;">
+                Discount => {{prodData.discountPercentage}}% 
+                </span>
+                }
+                
+                
+                @else {
+                <span  style="color: rgb(31, 31, 31);font-size: 30px;">PRICE: {{prodData.price}} $    <br> </span> 
+                <span style="color: rgb(31, 31, 31);font-size: 30px;"> Discount => {{prodData.discountPercentage}}%</span>
+                }
+
+                <br>
+                 <span style="background: linear-gradient(106deg, #7600AD 6.13%, #E530E2 39.14%, #D3259C 72.85%, #E67D19 100.31%);
+                 background-clip: text;
+                 -webkit-background-clip: text;
+                 -webkit-text-fill-color: transparent;
+                 font-size: 35px;">
+                Price After Discount :
+                {{prodData.price*(prodData.discountPercentage/100)}} $    </span> 
+              
+            </li> 
+            
+ <!--PEOPLE RATING  -->
+            
+      <li class="list-group-item" style="font-size: 30px; margin-top: 20px;">
+        People rating :{{prodData.rating}}
+          <div class="rating">
+              <ng-container *ngFor="let star of stars; let i = index">
+                <i class="bi" [ngClass]="i < prodData.rating ? 'bi-star-fill'  : 'bi-star'" aria-hidden="true"></i>
+                  </ng-container>
+          </div>
+    
+  </li> 
+            
+           <h3 class="display-1">REVIEWS :</h3> 
+            @for (rev of prodData.reviews; track $index) {
+             
+            <p class="card-text" style="font-size: 30px;margin: 15px; line-height: 37px;"> 
+                USER NAME : {{rev.user}} <br>
+                REVIEW : {{rev.comment}} <br>
+                
+                 
+            </p>    
+            <p class="rating">
+            {{rev.user}}  RATING : {{rev.rating}}  <ng-container *ngFor="let star of stars; let i = index">
+                   <i class="bi" [ngClass]="i < prodData.rating ? 'bi-star-fill'  : 'bi-star'" aria-hidden="true"></i>
+                    </ng-container  ></p>                
+        } 
+        <hr>
+        <!-- USER RATING -->
+      <h3 class="display-1">For Your Rating :</h3>   
+       <li class="list-group-item">
+         
+          <p style="font-size: 30px; margin-bottom: 20px;">Click on any star for rating</p> 
+               <div class="star-rating">
+                 <span *ngFor="let star of stars; let i = index"
+                       (click)="rating = i + 1"
+                       (mouseover)="hoverRating = i + 1"
+                       (mouseleave)="hoverRating = 0"
+                       [ngClass]="(hoverRating || rating) > i ? 'filled' : 'empty'">                      
+                   &#9733;
+                 </span>
+               </div>
+               <p style="font-size: 30px; margin-top: 10px;">Your rating: {{ rating }}</p>
+          </li>
+                   <button type="button" class="btn " > ADD TO CART</button>    
+              
+                      
+      </ul>
+         
+  </div>
+
+</div>

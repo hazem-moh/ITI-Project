@@ -1,0 +1,372 @@
+[
+    {
+        "id": 1,
+        "title": "Weston Brands Vacuum Sealer with Roll Cutter",
+        "description": "Vacuum sealer with built-in roll cutter for custom-sized bags and easy sealing.",
+        "category": "Vacuum Sealers",
+        "price": 139.99,
+        "discountPercentage": 15,
+        "rating": 4.7,
+        "stock": 10,
+        "sku": "WB-VS-001",
+        "weight": "6.5 lbs",
+        "dimensions": "14 x 7 x 10 inches",
+        "warrantyInformation": "2 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Emily",
+                "comment": "Great for sealing large quantities of food.",
+                "rating": 4.8
+            },
+            {
+                "user": "James",
+                "comment": "The roll cutter feature is very convenient.",
+                "rating": 4.6
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Vacuum Sealer", "Roll Cutter", "Food Preservation"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1645137690-70835abd-e0c2-4a25-800e-67d1973cc8f6_1.a01df8532d9ba6f3d3aa929441a58dbf.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1645137690-70835abd-e0c2-4a25-800e-67d1973cc8f6_1.a01df8532d9ba6f3d3aa929441a58dbf.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 2,
+        "title": "FoodSaver Multi-Use Handheld Vacuum Sealer",
+        "description": "Compact handheld vacuum sealer ideal for sealing smaller bags and food items.",
+        "category": "Vacuum Sealers",
+        "price": 49.99,
+        "discountPercentage": 10,
+        "rating": 4.5,
+        "stock": 25,
+        "sku": "FS-HV-002",
+        "weight": "1.2 lbs",
+        "dimensions": "7 x 3 x 3 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Sarah",
+                "comment": "Perfect for quick sealing tasks.",
+                "rating": 4.7
+            },
+            {
+                "user": "Michael",
+                "comment": "Works well, but could be more powerful.",
+                "rating": 4.3
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Handheld", "Compact", "Food Preservation"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1694711754-screen-shot-2023-09-14-at-1-14-32-pm-65033fa6ab443.png?crop=1xw:0.987012987012987xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1694711754-screen-shot-2023-09-14-at-1-14-32-pm-65033fa6ab443.png?crop=1xw:0.987012987012987xh;center,top&resize=980:*"
+    },
+    {
+        "id": 3,
+        "title": "Anova Culinary Precision Vacuum Sealer",
+        "description": "Precision vacuum sealer designed for sous-vide cooking and food storage.",
+        "category": "Vacuum Sealers",
+        "price": 89.99,
+        "discountPercentage": 12,
+        "rating": 4.6,
+        "stock": 15,
+        "sku": "ANOVA-VS-003",
+        "weight": "3.8 lbs",
+        "dimensions": "11 x 5 x 3 inches",
+        "warrantyInformation": "2 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Laura",
+                "comment": "Excellent for sous-vide and food storage.",
+                "rating": 4.7
+            },
+            {
+                "user": "John",
+                "comment": "A bit noisy but very effective.",
+                "rating": 4.5
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Sous-Vide", "Precision", "Food Preservation"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1704924446-anova-culinary-precision-vacuum-sealer-659f15036a0f0.jpg?crop=1xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1704924446-anova-culinary-precision-vacuum-sealer-659f15036a0f0.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 4,
+        "title": "FoodSaver VS3150 Vacuum Sealer & Food Preservation System",
+        "description": "Comprehensive vacuum sealer system with multiple sealing options and built-in bag storage.",
+        "category": "Vacuum Sealers",
+        "price": 129.99,
+        "discountPercentage": 15,
+        "rating": 4.7,
+        "stock": 20,
+        "sku": "FS-VS3150-004",
+        "weight": "5.6 lbs",
+        "dimensions": "14 x 6 x 9 inches",
+        "warrantyInformation": "2 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Anna",
+                "comment": "Very versatile and easy to use.",
+                "rating": 4.8
+            },
+            {
+                "user": "Daniel",
+                "comment": "Great features, but the bag storage could be improved.",
+                "rating": 4.6
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Food Preservation", "Bag Storage", "Versatile"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1627052714-31JxoR2hSIL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1627052714-31JxoR2hSIL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 5,
+        "title": "Nesco VS-12 Deluxe Vacuum Sealer",
+        "description": "Deluxe vacuum sealer with double seal bar and adjustable settings for various foods.",
+        "category": "Vacuum Sealers",
+        "price": 99.99,
+        "discountPercentage": 10,
+        "rating": 4.6,
+        "stock": 12,
+        "sku": "NESCO-VS-005",
+        "weight": "4.2 lbs",
+        "dimensions": "12 x 6 x 15 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Rachel",
+                "comment": "Reliable and easy to use.",
+                "rating": 4.7
+            },
+            {
+                "user": "Chris",
+                "comment": "Effective but a bit bulky.",
+                "rating": 4.5
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Deluxe", "Double Seal", "Adjustable Settings"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1657291844-1656527710-nesco-deluxe-vacuum-s-1657291835.jpg?crop=1xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1657291844-1656527710-nesco-deluxe-vacuum-s-1657291835.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 6,
+        "title": "Cuisinart CEK-30 Electric Knife",
+        "description": "Electric knife with a powerful motor and ergonomic handle for easy cutting.",
+        "category": "Electric Knives",
+        "price": 79.99,
+        "discountPercentage": 5,
+        "rating": 4.4,
+        "stock": 18,
+        "sku": "CU-CEK30-006",
+        "weight": "2.5 lbs",
+        "dimensions": "11 x 2.5 x 6 inches",
+        "warrantyInformation": "3 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Olivia",
+                "comment": "Cuts through meats with ease.",
+                "rating": 4.6
+            },
+            {
+                "user": "Ethan",
+                "comment": "Good performance but a bit noisy.",
+                "rating": 4.2
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Electric Knife", "Powerful Motor", "Ergonomic"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1574722350-screen-shot-2019-11-25-at-5-51-46-pm-1574722319.png?crop=0.741xw:0.721xh;0.0811xw,0.0682xh&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1574722350-screen-shot-2019-11-25-at-5-51-46-pm-1574722319.png?crop=0.741xw:0.721xh;0.0811xw,0.0682xh&resize=980:*"
+    },
+    {
+        "id": 7,
+        "title": "Hamilton Beach Electric Knife",
+        "description": "Electric knife with a high-performance motor and comfortable grip for effortless slicing.",
+        "category": "Electric Knives",
+        "price": 69.99,
+        "discountPercentage": 8,
+        "rating": 4.5,
+        "stock": 22,
+        "sku": "HB-EK-007",
+        "weight": "2.1 lbs",
+        "dimensions": "10 x 2.5 x 5 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Sophia",
+                "comment": "Great for slicing through tough cuts of meat.",
+                "rating": 4.6
+            },
+            {
+                "user": "Liam",
+                "comment": "Good performance but feels a bit bulky.",
+                "rating": 4.4
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Electric Knife", "High-Performance", "Comfortable Grip"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1624472069-31YSj9TzBEL._SL500_.jpg?crop=0.802xw:1.00xh;0.0260xw,0&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1624472069-31YSj9TzBEL._SL500_.jpg?crop=0.802xw:1.00xh;0.0260xw,0&resize=980:*"
+    },
+    {
+        "id": 8,
+        "title": "Black + Decker Electric Carving Knife",
+        "description": "Electric carving knife with a sleek design and serrated blades for precision cutting.",
+        "category": "Electric Knives",
+        "price": 59.99,
+        "discountPercentage": 7,
+        "rating": 4.3,
+        "stock": 15,
+        "sku": "BD-EK-008",
+        "weight": "2.3 lbs",
+        "dimensions": "10 x 2 x 5 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Mia",
+                "comment": "Efficient and easy to handle.",
+                "rating": 4.4
+            },
+            {
+                "user": "Jacob",
+                "comment": "Blades are sharp but handle feels flimsy.",
+                "rating": 4.2
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Carving Knife", "Serrated Blades", "Precision Cutting"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1624471735-31omDZOE6NL._SL500_.jpg?crop=1xw:1xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1624471735-31omDZOE6NL._SL500_.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 9,
+        "title": "Proctor Silex Easy Slice Electric Knife",
+        "description": "Electric knife with a lightweight design and easy-to-use slicing functionality.",
+        "category": "Electric Knives",
+        "price": 49.99,
+        "discountPercentage": 10,
+        "rating": 4.2,
+        "stock": 30,
+        "sku": "PS-EK-009",
+        "weight": "1.8 lbs",
+        "dimensions": "9 x 2 x 4 inches",
+        "warrantyInformation": "1 year",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Ava",
+                "comment": "Affordable and gets the job done.",
+                "rating": 4.3
+            },
+            {
+                "user": "Eli",
+                "comment": "Not as powerful as expected.",
+                "rating": 4.1
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Easy Slice", "Lightweight", "Affordable"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1574722586-31LDgjESDwL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1574722586-31LDgjESDwL.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    },
+    {
+        "id": 10,
+        "title": "Cuisinart CEK-41 Electric Knife",
+        "description": "Electric knife with a powerful motor and precision blades for effortless cutting.",
+        "category": "Electric Knives",
+        "price": 89.99,
+        "discountPercentage": 6,
+        "rating": 4.6,
+        "stock": 12,
+        "sku": "CU-CEK41-010",
+        "weight": "2.7 lbs",
+        "dimensions": "12 x 3 x 6 inches",
+        "warrantyInformation": "3 years",
+        "shippingInformation": "Free shipping",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "user": "Isabella",
+                "comment": "Very sharp and efficient.",
+                "rating": 4.7
+            },
+            {
+                "user": "Noah",
+                "comment": "Expensive but worth the price.",
+                "rating": 4.5
+            }
+        ],
+        "returnPolicy": "30-day return",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "tags": ["Electric Knife", "Powerful Motor", "Precision Blades"]
+        },
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1643046533-41u0koyP85L._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+        ],
+        "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1643046533-41u0koyP85L._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*"
+    }
+]

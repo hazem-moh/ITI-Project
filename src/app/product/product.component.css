@@ -1,0 +1,74 @@
+.rating{
+  /* color: #198754; */
+  background: linear-gradient(106deg, #7600AD 6.13%, #E530E2 39.14%, #D3259C 72.85%, #E67D19 100.31%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 24px;
+  margin: 7px;
+}
+
+
+
+.filled {
+  font-size: 1.5rem; 
+  cursor: pointer;
+  background: linear-gradient(106deg, #7600AD 6.13%, #E530E2 39.14%, #D3259C 72.85%, #E67D19 100.31%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+}
+.empty {
+  font-size: 1.5rem; 
+  cursor: pointer;
+  color: lightgray;
+}
+
+.card{
+  top: 30px;
+  right: 25px;
+  left: 30px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card:hover, .card:active {
+  transform: translateY(-10px); /* Moves the card up by 10px */
+  box-shadow: 0 40px 80px rgba(0, 0, 0, 0.2); /* Adds a shadow for a lifting effect */
+}
+
+
+
+.card-title{
+  background: linear-gradient(106deg, #7600AD 6.13%, #E530E2 39.14%, #D3259C 72.85%, #E67D19 100.31%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent
+}
+
+
+.list-group-item{
+  text-align: center;
+}
+
+
+
+.badge{
+  margin-bottom: 20px;
+  font-size: 25px;
+}
+
+
+.btn {
+  border: 5px solid #7600AD;
+  background: linear-gradient(106deg, #7600AD 6.13%, #E530E2 39.14%, #D3259C 72.85%, #E67D19 100.31%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 20px;
+  transition: background 0.3s ease, -webkit-text-fill-color 0.3s ease;
+}
+.btn:hover, .btn:active {
+  background: linear-gradient(106deg, #E67D19 6.13%, #D3259C 39.14%, #E530E2 72.85%, #7600AD 100.31%);
+  border-color: #ffffff; 
+  -webkit-text-fill-color: white; /* Change text color to white on hover */
+}
+

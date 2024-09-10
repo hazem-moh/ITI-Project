@@ -1,0 +1,43 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <!-- Brand -->
+    <a class="navbar-brand fw-bolder text-colorful" href="/home">Shopping</a>
+
+    <!-- Toggler for mobile screens -->
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- Navbar content -->
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav me-auto">
+        <!-- Links for large screens -->
+        <li class="nav-item">
+          <a class="nav-link " routerLinkActive="currentActive" href="/">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link "  routerLinkActive="currentActive" [routerLink]="['/product']">All Products</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link "  routerLinkActive="currentActive" [routerLink]="['/category']">Category</a>
+        </li>
+      </ul>
+
+      <!-- User actions -->
+      <ul class="navbar-nav flex justify-content-center align-items-center ml-auto">
+        <li class="nav-item">
+          <a class="nav-link text-colorful fw-bold" href="/login">Login</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-colorful fw-bold" href="/register">Register</a>
+        </li>
+        <li class="nav-item">
+          <a [routerLink]="['/cart']" class="nav-link shopping-bag-link">
+            <i class="fas fa-shopping-bag shopping-bag moving-text"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
