@@ -42,31 +42,25 @@
   margin-bottom: 20px; /* Increased margin-bottom for better spacing before button */
 }
 
-.btn {
+.btns {
   --fancy-button-gradient-0: #0066cc;
   --fancy-button-gradient-50: #0099ff;
   --fancy-button-gradient-100: #00ccff;
-  --fancy-button-inner-shadow-top: rgba(0, 153, 255, 0.2);
-  --fancy-button-inner-shadow-top-lg: rgba(0, 102, 204, 0.1);
-  --fancy-button-inner-shadow-bottom: rgba(0, 204, 255, 0.3);
-  --fancy-button-shine-top: #99ccff;
-  --fancy-button-shine-bottom: #66ccff;
+
   font-family: 'Poppins';
   font-weight: 500;
   font-size: 16px; /* Increased font size for better readability */
   line-height: 22px; /* Adjusted line-height for button text */
-  text-shadow: 0px 0.5px 0.5px rgba(0, 0, 0, 0.2);
   padding: 12px 24px; /* Increased padding for better button appearance */
   border-radius: 25px;
   color: #fff;
   background-image: linear-gradient(to bottom, var(--fancy-button-gradient-0) 0%, var(--fancy-button-gradient-50) 50%, var(--fancy-button-gradient-100) 100%);
-  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15), 0px 2px 8px rgba(0, 0, 0, 0.15), 0px 1px 3px var(--fancy-button-inner-shadow-top-lg), inset 0px 1px 1px var(--fancy-button-inner-shadow-top), inset 0px -1px 3px var(--fancy-button-inner-shadow-bottom);
   text-decoration: none;
   display: inline-block;
   text-align: center;
 }
 
-.btn:hover {
+.btns:hover {
   background-image: linear-gradient(to bottom, var(--fancy-button-gradient-50) 0%, var(--fancy-button-gradient-100) 50%, var(--fancy-button-gradient-100) 100%);
 }
 

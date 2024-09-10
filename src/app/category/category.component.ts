@@ -27,6 +27,12 @@ export class CategoryComponent {
       description: 'Description of Category 2',
       image: 'path/to/image2.jpg'
     },
+    {
+      id: 3,
+      name: 'Category 2',
+      description: 'Description of Category 2',
+      image: 'path/to/image2.jpg'
+    },
     // Add more categories as needed
   ];
 }

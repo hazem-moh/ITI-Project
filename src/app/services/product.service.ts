@@ -1427,6 +1427,6 @@ export class ProductService {
     return this.http.get<any>('')
   }
   getProductByID(prodId:number):Observable<any>{
-    return this.http.get<any>(''${prodId})
+    return this.http.get<any>(`/${prodId}`)
   }
 }
