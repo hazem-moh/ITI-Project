@@ -1,79 +1,112 @@
-const Cart=require('../../Models/Cart');
-const product=require('../../Models/Product');
+const Cart = require("../../Models/Cart.model");
+const Product = require("../../Models/Product.model");
 
+// MARK: add to cart
+const addToCart = async (req, res, next) => {
+  const { productId, quantity } = req.body;
+  const userId = req.user._id;
 
-//MARK: add to cart
-module.exports = addToCart = async (req, res, next) => {
-    const userId = req.user._id;
-    const { productId, quantity } = req.body;
-    const product = await productModel.findById(productId);
-    console.log("hello");
+  try {
+  
+    const product = await Product.findById(productId);
     if (!product) return next(new Error("Product not found", { cause: 404 }));
-    if (product.stock < quantity)
-        return next(new Error("Quantity not available", { cause: 400 }));
-    const cart = await cartModel.findOne({ userId });
+
+    
+    let cart = await Cart.findOne({ userId });
     if (!cart) {
-        const cartObject = {
-            userId,
-            products: [{ productId, quantity }],
-            subTotal: product.priceAfterDiscount * quantity,
-        };
-        const cartDb = await cartModel.create(cartObject);
-        if (!cartDb) return next(new Error("Fail to add to cart", { cause: 400 }));
-        return res.status(201).json({ message: "Added to cart", cartDb });
+      cart = new Cart({ userId, products: [], subTotal: 0 });
     }
 
-    let products = cart.products;
-    let flag = false;
-    for (const product of products) {
-        if (product.productId == productId) {
-            product.quantity += quantity;
-            flag = true;
-        }
-    }
-    if (!flag) {
-        products.push({ productId, quantity });
+    const productIndex = cart.products.findIndex(p => p.productId.toString() === productId);
+    if (productIndex > -1) {
+      cart.products[productIndex].quantity += quantity;
+    } else {
+      
+      cart.products.push({ productId, quantity });
     }
 
-    cart.subTotal += product.priceAfterDiscount * quantity;
-    cart.products = products;
-    const cartDb = await cart.save();
-    if (!cartDb) return next(new Error("Fail to add to cart", { cause: 400 }));
-    res.status(201).json({ message: "Added to cart", cartDb });
+    cart.subTotal = cart.products.reduce((total, item) => {
+      const productPrice = product.priceAfterDiscount || product.price;
+      return total + item.quantity * productPrice;
+    }, 0);
+
+    
+    const updatedCart = await cart.save();
+    res.status(201).json({ message: "Product added to cart", cart: updatedCart });
+  } catch (error) {
+    next(new Error("Failed to add product to cart", { cause: 400, error }));
+  }
 };
-//MARK: delete from cart
-module.exports = deleteFromTheCart = async (req, res, next) => {
-    const { productId } = req.body;
-    const userId = req.user._id;
-    const cart = await cartModel.findOne({ userId });
-    const product = await productModel.findById(productId);
-    if (!product) return next(new Error("Product not found", { cause: 404 }));
+
+// MARK: delete from cart
+const deleteFromTheCart = async (req, res, next) => {
+  const { productId } = req.body;
+  const userId = req.user._id;
+
+  try {
+    const cart = await Cart.findOne({ userId }).populate("products.productId");
     if (!cart) return next(new Error("Cart not found", { cause: 404 }));
-    let products = cart.products;
-    let flag = false;
-    let quantity = 0;
-    for (const product of products) {
-        if (String(product.productId) == String(productId)) {
-            products = products.filter((product) => product.productId != productId);
-            quantity = product.quantity;
-            flag = true;
-        }
-    }
-    if (!flag)
-        return next(new Error("Product not found in cart", { cause: 404 }));
-    let subTotal = 0;
-    for (const product of products) {
-        const productDb = await productModel.findById(product.productId);
-        subTotal += productDb.price * product.quantity;
-    }
-    cart.subTotal = subTotal;
-    cart.products = products;
-    const cartDb = await cart.save();
-    if (!cartDb)
-        return next(new Error("Fail to delete from cart", { cause: 400 }));
 
-    await productModel.findByIdAndUpdate(productId, {
-        stock: product.stock + quantity,
-    });
-    res.status(200).json({ message: "Deleted from cart", cartDb });
+    cart.products = cart.products.filter(item => item.productId._id.toString() !== productId);
+
+    cart.subTotal = cart.products.reduce((total, item) => {
+      const productPrice = item.productId.priceAfterDiscount || item.productId.price;
+      return total + item.quantity * productPrice;
+    }, 0);
+
+    const updatedCart = await cart.save();
+    res.status(200).json({ message: "Product removed from cart", cart: updatedCart });
+  } catch (error) {
+    next(new Error("Failed to remove product from cart", { cause: 400, error }));
+  }
 };
+
+// MARK: show cart
+const showCart = async (req, res, next) => {
+  const userId = req.user._id;
+
+  try {
+    const cart = await Cart.findOne({ userId }).populate("products.productId");
+    if (!cart) return next(new Error("Cart not found", { cause: 404 }));
+
+    res.status(200).json({ message: "Cart retrieved successfully", cart });
+  } catch (error) {
+    next(new Error("Failed to retrieve cart", { cause: 400, error }));
+  }
+};
+
+// MARK: update cart
+const updateCart = async (req, res, next) => {
+  const { productId, quantity } = req.body;
+  const userId = req.user._id;
+
+  try {
+    
+    const product = await Product.findById(productId);
+    if (!product) return next(new Error("Product not found", { cause: 404 }));
+ 
+    const cart = await Cart.findOne({ userId }).populate("products.productId");
+    if (!cart) return next(new Error("Cart not found", { cause: 404 }));
+
+    const productIndex = cart.products.findIndex(p => p.productId.toString() === productId);
+    if (productIndex > -1) {
+      cart.products[productIndex].quantity = quantity;
+
+      cart.subTotal = cart.products.reduce((total, item) => {
+        const productPrice = item.productId.priceAfterDiscount || item.productId.price;
+        return total + item.quantity * productPrice;
+      }, 0);
+
+      const updatedCart = await cart.save();
+      res.status(200).json({ message: "Cart updated successfully", cart: updatedCart });
+    } else {
+      return next(new Error("Product not found in cart", { cause: 404 }));
+    }
+  } catch (error) {
+    next(new Error("Failed to update cart", { cause: 400, error }));
+  }
+};
+
+module.exports={
+  updateCart,showCart,deleteFromTheCart,addToCart
+}

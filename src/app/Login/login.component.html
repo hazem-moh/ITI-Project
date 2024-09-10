@@ -1,3 +1,44 @@
+<!-- <section class="vh-100 bg-custom">
+  <div class="container-fluid h-100">
+    <div class="row h-100 justify-content-center align-items-center">
+      <div class="col-md-8 col-lg-6 col-xl-5">
+        <div class="card shadow-lg border-0 rounded">
+          <div class="card-body p-5">
+            <ng-container *ngIf="isLoginView">
+              <form style="width: 100%;">
+                <h3 class="text-center mb-4 text-light">Log in</h3>
+                <div class="form-outline mb-4">
+                  <input [(ngModel)]="userLogin.email" type="email" class="form-control form-control-lg" placeholder="Email" />
+                </div>
+                <div class="form-outline mb-4">
+                  <input [(ngModel)]="userLogin.password" type="password" class="form-control form-control-lg" placeholder="Password" />
+                </div>
+                <button (click)="onLogin()" class="btn btn-info btn-lg btn-block" type="button">Login</button>
+              </form>
+            </ng-container>
+            <ng-container *ngIf="!isLoginView">
+              <form style="width: 100%;">
+                <h3 class="text-center mb-4 text-light">Register</h3>
+                <div class="form-outline mb-4">
+                  <input [(ngModel)]="userRegisterObj.emailId" type="email" class="form-control form-control-lg" placeholder="Email" />
+                </div>
+                <div class="form-outline mb-4">
+                  <input [(ngModel)]="userRegisterObj.userName" type="text" class="form-control form-control-lg" placeholder="User Name" />
+                </div>
+                <div class="form-outline mb-4">
+                  <input [(ngModel)]="userRegisterObj.password" type="password" class="form-control form-control-lg" placeholder="Password" />
+                </div>
+                <button (click)="onRegister()" class="btn btn-info btn-lg btn-block" type="button">Register</button>
+              </form>
+            </ng-container>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section> -->
+
+
 <section class="vh-100 bg bg-custom">
   <div class="container-fluid h-100">
     <div class="row h-100 justify-content-center align-items-center">

@@ -1,6 +1,7 @@
 import { ApplicationConfig, provideZoneChangeDetection } from '@angular/core';
 import { provideRouter } from '@angular/router';
-
+import { HttpClient } from '@angular/common/http';
+import { NgModule } from '@angular/core';
 import { routes } from './app.routes';
 
 export const CONFIRMATION_EMAIL_TOKEN = 'your-secret-token';
