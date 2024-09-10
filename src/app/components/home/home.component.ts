@@ -4,10 +4,12 @@ import { CommonModule } from '@angular/common';
 import { ImageSliderComponent } from "../image-slider/image-slider.component";
 import { HSliderComponent } from '../h-slider/h-slider.component';
 import { Slider2Component } from '../slider2/slider2.component';
+import { SearchComponent } from "../search/search.component";
+
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [ Slider2Component,HSliderComponent,RouterModule, CommonModule, ImageSliderComponent],
+  imports: [ Slider2Component,SearchComponent,HSliderComponent,RouterModule, CommonModule, ImageSliderComponent],
   templateUrl: './home.component.html',
   styleUrls: ['./home.component.scss']
 })

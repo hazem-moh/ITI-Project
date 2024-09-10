@@ -10,7 +10,7 @@ import { CategoryComponent } from './components/category/category.component';
 import { CartComponent } from './components/cart/cart.component';
 import { CategoryListComponent } from './category-list/category-list.component';
 import { ProductComponent } from './product/product.component';
-import { SearchComponent } from './search/search.component';
+import { SearchComponent } from './components/search/search.component';
 export const routes: Routes = [
     { path: '', component: HomeComponent },
     { path: 'products', component: ProductListComponent },
