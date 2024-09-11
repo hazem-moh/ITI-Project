@@ -1,24 +1,56 @@
 import { Component } from '@angular/core';
 import { Router } from '@angular/router';
-import { FormsModule } from '@angular/forms'; // تأكد من استيراد FormsModule هنا
-
+import { FormsModule } from '@angular/forms'; 
+import { CommonModule } from '@angular/common';
+import { RouterModule } from '@angular/router';
+import { AuthService } from '../../services/auth.service';
 @Component({
   selector: 'app-register',
   standalone: true,
   imports: [FormsModule],
   templateUrl: './register.component.html',
-  styleUrl: './register.component.scss'
+  styleUrl: './register.component.scss',
 })
 export class RegisterComponent {
-  name: string = '';
   email: string = '';
   password: string = '';
+  repeatedPassword: string = '';
+  firstName: string = '';
+  lastName: string = '';
+  userName: string = '';
+  country: string = '';
+  phoneNumber: string = '';
 
-  constructor(private router: Router) {}
+  constructor(private authService: AuthService, private router: Router) {}
+  onRegister() {
+    if (this.password !== this.repeatedPassword) {
+      alert("Passwords don't match!");
+      return;
+    }
 
-  onSubmit(): void {
-    // هنا يمكن إضافة الكود لحفظ بيانات المستخدم الجديدة
-    alert('Registration successful');
-    this.router.navigate(['/login']);
+    const user = {
+      email: this.email,
+      password: this.password,
+      repeatedPassword: this.repeatedPassword,
+      firstName: this.firstName,
+      lastName: this.lastName,
+      userName: this.userName,
+      country: this.country,
+      phoneNumber: this.phoneNumber,
+    };
+
+    this.authService.register(user).subscribe(
+      (response) => {
+        console.log('Registration successful:', response);
+        alert('Registration successful');
+      },
+      (error) => {
+        console.error('Registration failed:', error);
+        alert('Registration failed, please try again.');
+      }
+    );
+  }
+  showSignupForm(event: Event) {
+    event.preventDefault();
   }
 }
