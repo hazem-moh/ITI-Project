@@ -1,38 +1,29 @@
-import { Component } from '@angular/core';
-import { CommonModule } from '@angular/common';
-import { RouterModule } from '@angular/router';
+import { Component, OnInit } from '@angular/core';
+import { CategoryService } from '../../services/category.service'; // Adjust the path as needed
+import { CommonModule } from '@angular/common'; // Required for *ngFor and *ngIf
+import { RouterModule } from '@angular/router'; // Required for [routerLink]
 
 @Component({
   selector: 'app-category',
   standalone: true,
-  imports: [CommonModule,RouterModule],
   templateUrl: './category.component.html',
-  styleUrl: './category.component.scss'
+  styleUrls: ['./category.component.scss'], // Fixed styleUrls typo
+  imports: [CommonModule, RouterModule] // Ensure necessary modules are imported for standalone component
 })
-export class CategoryComponent {
-  categorySlides = [
-    // Define slides for your category slider here
-  ];
+export class CategoryComponent implements OnInit {
+  categories: any[] = [];
 
-  categories = [
-    {
-      id: 1,
-      name: 'Category 1',
-      description: 'Description of Category 1',
-      image: 'path/to/image1.jpg'
-    },
-    {
-      id: 2,
-      name: 'Category 2',
-      description: 'Description of Category 2',
-      image: 'path/to/image2.jpg'
-    },
-    {
-      id: 3,
-      name: 'Category 2',
-      description: 'Description of Category 2',
-      image: 'path/to/image2.jpg'
-    },
-    // Add more categories as needed
-  ];
+  constructor(private categoryService: CategoryService) {}
+
+  ngOnInit(): void {
+    this.categoryService.getCategories().subscribe(
+      (data) => {
+        this.categories = data.categories;  // Assuming data is an array of categories
+        console.log('Categories fetched successfully', this.categories);
+      },
+      (error) => {
+        console.error('Error fetching categories', error);
+      }
+    );
+  }
 }

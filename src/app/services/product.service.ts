@@ -6,8 +6,8 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class ProductService {
-    
-//   dataOfProdect=[
+  [x: string]: any;
+
 //      {
 //     "id": 1,
 //     "title": "Matouk Milagro Bath Towel",
@@ -1424,7 +1424,7 @@ export class ProductService {
   
   
   getAllProducts():Observable<any>{
-    return this.http.get<any>('')
+    return this.http.get<any>('http://localhost:3000/product/all')
   }
   getProductByID(prodId:number):Observable<any>{
     return this.http.get<any>(`/${prodId}`)

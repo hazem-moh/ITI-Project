@@ -16,7 +16,8 @@ export class MovieService {
     pageNumber: number = 1
   ): Observable<any> {
     return this.http.get<any>(
-      `https://api.themoviedb.org/3/movie/popular?api_key=${this.apiKey}&page=${pageNumber}`
+      `http://localhost:3000/product/all`
+      
     );
   }
 

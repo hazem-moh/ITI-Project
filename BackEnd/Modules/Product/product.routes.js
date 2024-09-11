@@ -12,7 +12,7 @@ const {
 
 router.post("/add", isAuth(), addProduct);
 router.put("/update/:productId", isAuth(), updateProduct);
-router.get("/all", isAuth(), getAllProducts);
+router.get("/all",  getAllProducts);
 router.get("/:productId", isAuth(), getProductsByID);
 router.get("/search", isAuth(), getProductsByName);
 router.delete("/delete/:productId", isAuth(), deleteProduct);

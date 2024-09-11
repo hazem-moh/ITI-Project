@@ -1,18 +1,21 @@
 <div class="page container mx-auto">
 
-  <!-- Category List -->
-  <div class="category-list">
-    <div class="row">
-      <div class="col-md-4" *ngFor="let category of categories">
-        <div class="category-card">
-          <img [src]="category.image" class="category-img" alt="Category Image">
-          <div class="category-body">
-            <h5 class="category-title">{{ category.name }}</h5>
-            <p class="category-description">{{ category.description }}</p>
-            <button class="btn" [routerLink]="['/category', category.id]">Explore</button>
-          </div>
+  <!-- Product List -->
+  <div *ngIf="categories.length > 0; else noProducts" class="row">
+    <!-- Loop through products and display each one -->
+    <div class="col-md-4 mb-4" *ngFor="let product of categories">
+      <div class="product-card card h-100 ">
+        <img [src]="product.image" class="card-img-top product-img" alt="Product Image">
+        <div class="card-body">
+          <h1 class="card-title">{{ product.name }}</h1>
+          <button class="btn btn-primary" [routerLink]="['/product', product.id]">View Details</button>
         </div>
       </div>
     </div>
   </div>
+
+  <!-- No products available -->
+  <ng-template #noProducts>
+    <p class="text-center">No products available</p>
+  </ng-template>
 </div>
