@@ -12,45 +12,44 @@ import { AuthService } from '../../services/auth.service';
   styleUrl: './register.component.scss',
 })
 export class RegisterComponent {
-  email: string = '';
-  password: string = '';
-  repeatedPassword: string = '';
   firstName: string = '';
   lastName: string = '';
   userName: string = '';
+  email: string = '';
   country: string = '';
   phoneNumber: string = '';
+  password: string = '';
+  repeatedPassword: string = '';
 
   constructor(private authService: AuthService, private router: Router) {}
+
+  // Register function
   onRegister() {
-    if (this.password !== this.repeatedPassword) {
-      alert("Passwords don't match!");
-      return;
+    if (this.password === this.repeatedPassword) {
+      const registrationData = {
+        firstName: this.firstName,
+        lastName: this.lastName,
+        userName: this.userName,
+        email: this.email,
+        country: this.country,
+        phoneNumber: this.phoneNumber,
+        password: this.password,
+      };
+
+      this.authService.register(registrationData).subscribe({
+        next: (response: any) => {
+          console.log('Registration successful', response);
+          // After registration, you may want to store the token
+          const token = response.token;
+          this.authService.storeToken(token);
+          this.router.navigate(['/login']);
+        },
+        error: (err) => {
+          console.error('Registration failed', err);
+        },
+      });
+    } else {
+      console.error('Passwords do not match');
     }
-
-    const user = {
-      email: this.email,
-      password: this.password,
-      repeatedPassword: this.repeatedPassword,
-      firstName: this.firstName,
-      lastName: this.lastName,
-      userName: this.userName,
-      country: this.country,
-      phoneNumber: this.phoneNumber,
-    };
-
-    this.authService.register(user).subscribe(
-      (response) => {
-        console.log('Registration successful:', response);
-        alert('Registration successful');
-      },
-      (error) => {
-        console.error('Registration failed:', error);
-        alert('Registration failed, please try again.');
-      }
-    );
-  }
-  showSignupForm(event: Event) {
-    event.preventDefault();
   }
 }

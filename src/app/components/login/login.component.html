@@ -11,26 +11,34 @@
         <div class="title login">Login Form</div>
         <div class="title signup">Signup Form</div>
       </div>
-      <div class="form-container"></div>
+
+      <div class="form-container">
         <div class="slide-controls">
-          <input type="radio" name="slide" id="login" checked>
-          <input type="radio" name="slide" id="signup">
+          <input type="radio" name="slide" id="login" checked />
+          <input type="radio" name="slide" id="signup" />
           <label for="login" class="slide login">Login</label>
           <label for="signup" class="slide signup">Signup</label>
           <div class="slider-tab"></div>
         </div>
+
+
         <div class="form-inner">
-          <!-- Login Form -->
-          <form (ngSubmit)="onLogin()">
+          <form #loginForm="ngForm" (ngSubmit)="onSubmit()">
+            <!-- Email Field -->
             <div class="field">
               <input
-                type="text"
+                type="email"
                 name="email"
                 placeholder="Email Address"
                 [(ngModel)]="email"
                 required
               />
+              <div *ngIf="loginForm.submitted && !loginForm.controls['email']?.valid" class="error">
+                Email is required
+              </div>
             </div>
+
+            <!-- Password Field -->
             <div class="field">
               <input
                 type="password"
@@ -39,7 +47,12 @@
                 [(ngModel)]="password"
                 required
               />
+              <div *ngIf="loginForm.submitted && !loginForm.controls['password']?.valid" class="error">
+                Password is required
+              </div>
             </div>
+
+            <!-- Submit Button -->
             <div class="field btn">
               <div class="btn-layer"></div>
               <input type="submit" value="Login" />
@@ -47,3 +60,6 @@
           </form>
         </div>
       </div>
+    </div>
+  </body>
+</html>
