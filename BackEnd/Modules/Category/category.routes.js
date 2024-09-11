@@ -9,7 +9,7 @@ const {
 
 router.post("/add", isAuth(), addCategory);
 router.put("/update/:categoryId", isAuth(), updateCategory);
-router.get("/all", isAuth(), getAllCategories);
+router.get("/all",  getAllCategories);
 router.delete("/delete/:categoryId", isAuth(), deleteCategory);
 
 module.exports = router;

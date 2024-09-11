@@ -1,23 +1,104 @@
-<div class="container mt-5">
-    <div class="row justify-content-center">
-      <div class="col-md-4">
-        <h2>Register</h2>
-        <form (ngSubmit)="onSubmit()">
-          <div class="form-group">
-            <label for="name">Name</label>
-            <input type="text" id="name" class="form-control" [(ngModel)]="name" name="name" required>
-          </div>
-          <div class="form-group">
-            <label for="email">Email</label>
-            <input type="email" id="email" class="form-control" [(ngModel)]="email" name="email" required>
-          </div>
-          <div class="form-group">
-            <label for="password">Password</label>
-            <input type="password" id="password" class="form-control" [(ngModel)]="password" name="password" required>
-          </div>
-          <button type="submit" class="btn btn-primary mt-3">Register</button>
-        </form>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Login and Registration Form</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="title-text">
+        <div class="title login">Login Form</div>
+        <div class="title signup">Signup Form</div>
       </div>
-    </div>
-  </div>
-  
+      <div class="form-container">
+        <div class="slide-controls">
+          <input type="radio" name="slide" id="login" checked>
+          <input type="radio" name="slide" id="signup">
+          <label for="login" class="slide login">Login</label>
+          <label for="signup" class="slide signup">Signup</label>
+          <div class="slider-tab"></div>
+        </div>
+        <div class="form-inner">
+          <!-- Login Form -->
+           <form (ngSubmit)="onRegister()">
+            <div class="field">
+              <input
+                type="text"
+                name="firstName"
+                placeholder="First Name"
+                [(ngModel)]="firstName"
+                required
+              />
+            </div>
+            <div class="field">
+              <input
+                type="text"
+                name="lastName"
+                placeholder="Last Name"
+                [(ngModel)]="lastName"
+                required
+              />
+            </div>
+            <div class="field">
+              <input
+                type="text"
+                name="userName"
+                placeholder="Username"
+                [(ngModel)]="userName"
+                required
+              />
+            </div>
+            <div class="field">
+              <input
+                type="text"
+                name="email"
+                placeholder="Email Address"
+                [(ngModel)]="email"
+                required
+              />
+            </div>
+            <div class="field">
+              <input
+                type="text"
+                name="country"
+                placeholder="Country"
+                [(ngModel)]="country"
+                required
+              />
+            </div>
+            <div class="field">
+              <input
+                type="text"
+                name="phoneNumber"
+                placeholder="Phone Number"
+                [(ngModel)]="phoneNumber"
+                required
+              />
+            </div>
+            <div class="field">
+              <input
+                type="password"
+                name="password"
+                placeholder="Password"
+                [(ngModel)]="password"
+                required
+              />
+            </div>
+            <div class="field">
+              <input
+                type="password"
+                name="repeatedPassword"
+                placeholder="Confirm Password"
+                [(ngModel)]="repeatedPassword"
+                required
+              />
+            </div>
+            <div class="field btn">
+              <div class="btn-layer"></div>
+              <input type="submit" value="Signup" />
+            </div>
+          </form>
+        </div>
+      </div>
+    

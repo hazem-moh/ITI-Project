@@ -5,7 +5,7 @@ const {
   addBrand,
   updateBrand,
   getBrand,
-} = require("../Brand/brand.controller.js");
+} = require("./brand.controller.js");
 
 router.post("/add", isAuth(), addBrand);
 router.put("/update/:brandId", isAuth(), updateBrand);

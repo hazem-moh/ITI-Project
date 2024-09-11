@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@angular/animations": "^18.2.3",
     "@angular/cdk": "^18.2.3",
     "@angular/cli": "^18.2.3",
     "@angular/core": "^18.2.3",
@@ -11,9 +12,29 @@
     "@fortawesome/free-solid-svg-icons": "^6.6.0",
     "@ionic/angular": "^8.3.0",
     "@ng-bootstrap/ng-bootstrap": "^17.0.1",
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.3.3",
+    "ngx-toastr": "^19.0.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^18.2.3"
+    "@angular-devkit/build-angular": "^18.2.3",
+    "@types/jest": "^29.5.12"
+  },
+
+  "projects": {
+    "your-project-name": {
+      "architect": {
+        "build": {
+          "options": {
+            "polyfills": [
+              "zone.js",
+              "src/polyfills.ts",
+              "node_modules/@angular/localize/init"
+            ]
+          }
+        }
+      }
+    }
   }
 }
+
+

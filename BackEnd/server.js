@@ -3,13 +3,13 @@ const cors = require("cors");
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 const cookieParser = require("cookie-parser");
-const Categories = require("./Modules/Category/category.route.js");
-const subCategories = require("./Modules/SubCategory/subCategory.route.js");
-const Brand = require("./Modules/Brand/brand.route.js");
-const Product = require("./Modules/Product/product.route.js");
-const addRatingAndReview = require("./Modules/Rating/rating.route.js");
-const cartRouts = require("./Modules/Cart/cart.route.js");
-const Order = require("./Modules/Order/order.route.js");
+const Categories = require("./Modules/Category/category.routes.js");
+const subCategories = require("./Modules/SubCategory/subCategory.routes.js");
+const Brand = require("./Modules/Brand/brand.routes.js");
+const Product = require("./Modules/Product/product.routes.js");
+const addRatingAndReview = require("./Modules/Rating/rating.routes.js");
+const cartRouts = require("./Modules/Cart/cart.routes.js");
+const Order = require("./Modules/Order/order.routes.js");
 const auth = require("./Modules/Auth/auth.routes.js");
 const app = express();
 
@@ -51,3 +51,4 @@ mongoose
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
+//http://localhost:3000/product/all

@@ -1,5 +1,4 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-
 import { CategoryListComponent } from './category-list.component';
 
 describe('CategoryListComponent', () => {
@@ -8,10 +7,9 @@ describe('CategoryListComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [CategoryListComponent]
-    })
-    .compileComponents();
-    
+      declarations: [CategoryListComponent],
+    }).compileComponents();
+
     fixture = TestBed.createComponent(CategoryListComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
