@@ -7,7 +7,7 @@ import { LoginComponent } from './components/login/login.component';
 import { RegisterComponent } from './components/register/register.component';
 import { PaymentComponent } from './components/payment/payment.component';
 import { CategoryComponent } from './components/category/category.component';
-import { CartComponent } from './components/cart/cart.component';
+import { CartComponent } from './components/cart/cart.component'; 
 import { CategoryListComponent } from './category-list/category-list.component';
 import { ProductComponent } from './product/product.component';
 import { authGuard } from './auth.guard';

@@ -1,0 +1,90 @@
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 16px;
+    margin-top: 70px;
+  }
+  
+  .card-small {
+    border: 1px solid #ddd;
+    border-radius: 6%;
+    box-shadow: 5px 1px 5px rgb(208, 214, 216);
+    transition: transform 0.2s ease-in-out;
+    position: relative;
+  }
+  
+  .card-img-top {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 6%;
+  }
+  
+  .card-body {
+    padding: 10px;
+  }
+  
+  .card-title {
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.573);
+  }
+  
+  .card-title:hover {
+    color: #7302b9;
+    text-shadow: 5px 1px 5px rgb(199, 202, 203);
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+    box-shadow: rgba(1, 21, 28, 0.644);
+  }
+  
+  button {
+    color: #7302b9;
+    box-shadow: rgba(1, 21, 28, 0.644);
+  }
+  
+  /* تنسيق زر الحذف */
+  .delete-btn {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    background-color: red;
+    border: none;
+    color: white;
+    font-size: 18px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .delete-btn:hover {
+    background-color: darkred;
+  }
+  
+  /* تنسيق أزرار الزيادة والنقصان */
+  .quantity-controls {
+    display: flex;
+    align-items: center;
+  }
+  
+  .btn-quantity {
+    background-color: #f1f1f1;
+    color: #7302b9;
+    border: 2px solid #7302b9;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+  }
+  
+  .btn-quantity:hover {
+    background-color: #7302b9;
+    color: white;
+    transform: scale(1.1);
+  }

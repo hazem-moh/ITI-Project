@@ -13,7 +13,7 @@ export class ExampleComponent {
   getProtectedData() {
     const headers = this.authService.getAuthHeaders();
     this.http
-      .get('http://localhost:3000/protected-route', { headers }) 
+      .get('http://localhost:3000/auth', { headers }) 
       .subscribe({
         next: (data) => {
           console.log('Protected data:', data);

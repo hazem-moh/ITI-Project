@@ -5,42 +5,63 @@ import { Cart } from '../../models/cart.model';
 import { FormsModule } from '@angular/forms'; // استيراد FormsModule
 import { Router } from '@angular/router';
 import { RouterModule } from '@angular/router';
+import { lastValueFrom } from 'rxjs';
 @Component({
   selector: 'app-cart',
   standalone: true,
-  imports: [CommonModule,FormsModule,RouterModule],
+  imports: [CommonModule, FormsModule, RouterModule],
   templateUrl: './cart.component.html',
-  styleUrl: './cart.component.scss'
+  styleUrl: './cart.component.scss',
 })
 export class CartComponent implements OnInit {
-  cartItems: any[] = [];
-
-  constructor(private cartService: CartService) { }
+  cart: any = {
+    products: [],
+    subTotal: 0,
+  };
+  constructor(private cartService: CartService) {}
 
   ngOnInit(): void {
-    this.loadCartItems();
+    this.loadCart();
   }
 
-  loadCartItems() {
-    this.cartService.getCartItems().subscribe((data) => {
-      this.cartItems = data;
-      //console.log(data);
-    });
+  async loadCart() {
+    try {
+      const response = await lastValueFrom(this.cartService.getCartItems());
+      this.cart = response.cart;
+    } catch (error) {
+      console.error('Error loading cart:', error);
+      // Handle the error appropriately here
+    }
   }
 
-  removeCartItem(id: string) {
-    this.cartService.deleteCartItem(id).subscribe(() => {
-      this.loadCartItems();
-    });
+  increaseQuantity(product: any) {
+    this.cartService
+      .updateCartItem(product.productId, product.quantity + 1)
+      .subscribe(() => {
+        this.loadCart();
+      });
   }
 
-  updateQuantity(id: string, newQuantity: number) {
-    const updatedItem = this.cartItems.find(item => item._id === id);
-    if (updatedItem) {
-      updatedItem.quantity = newQuantity;
-      this.cartService.updateCartItem(id, updatedItem).subscribe(() => {
-        this.loadCartItems();
+  decreaseQuantity(product: any) {
+    if (product.quantity > 1) {
+      this.cartService
+        .updateCartItem(product.productId, product.quantity - 1)
+        .subscribe(() => {
+          this.loadCart();
+        });
+    }
+  }
+  confirmDelete(productId: string) {
+    if (confirm('Are you sure you want to delete this item?')) {
+      this.cartService.deleteCartItem(productId).subscribe(() => {
+        this.loadCart(); // Reload cart after item is deleted
       });
     }
   }
+  deleteItem(productId: string) {
+    this.cartService.deleteCartItem(productId).subscribe(() => {
+      this.loadCart();
+    });
+  }
 }
+
